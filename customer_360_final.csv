@@ -1,0 +1,1289 @@
+email,master_customer_id,first_name,last_name,full_name_standardized,phone_standardized,crm_city,signup_date,total_spend,last_order_date,num_orders,total_time_spent_seconds,num_sessions,is_vip,days_since_last_order,segment
+tony.mcknight@gmail.com,df84722f-ba36-416d-be01-0c67a041b931,Tony,Mcknight,Tony Mcknight,+18132876261,Colorado Springs,2023-11-09,884.03,2025-05-04,3.0,0.0,0.0,True,13.0,1
+elizabeth.montoya@hotmail.com,3528f91d-8d02-45d8-aae9-9cf3608f41d4,Elizabeth,Montoya,Elizabeth Montoya,+15076866734,Colorado Springs,2023-03-28,0.0,,0.0,228.0,2.0,False,,0
+sean_nichols@yahoo.com,a02fe374-70d0-4033-8384-4513e609ef75,Sean,Nichols,Sean Nichols,,Columbus,2022-05-19,322.98,2024-09-17,2.0,0.0,0.0,True,242.0,1
+sean_nichols@yahoo.com,a02fe374-70d0-4033-8384-4513e609ef75,Randall,Collins,Randall Collins,,Seattle,2023-11-04,322.98,2024-09-17,2.0,0.0,0.0,True,242.0,1
+molly.price@yahoo.com,edc3690e-008c-4e3e-aeb6-67b1f6f128b5,Molly,Price,Molly Price,+14374963748,Fort Worth,2025-02-14,595.18,2023-12-20,1.0,0.0,0.0,True,514.0,0
+john.owens@hotmail.com,466caa01-e7b4-4d20-af1f-92b36a87049d,John,Owens,John Owens,+19793401284,Seattle,2022-08-26,104.27,2024-03-10,1.0,0.0,0.0,True,433.0,0
+robert@taylor.org,3095aefa-cfb3-4fb2-99da-35c4038fb62d,Robert,Anderson,Robert Anderson,,Colorado Springs,2023-02-13,1045.0800000000002,2024-06-01,3.0,0.0,0.0,True,350.0,1
+jennifer50@example.org,6eb2576c-d2bb-44dc-91da-583eb0110ecf,Jennifer,Mason,Jennifer Mason,,,2022-09-27,0.0,,0.0,342.0,2.0,False,,0
+jennifer50@example.org,6eb2576c-d2bb-44dc-91da-583eb0110ecf,Jessica,Smith,Jessica Smith,,Atlanta,2023-07-24,0.0,,0.0,342.0,2.0,False,,0
+scott_johnson48@yahoo.com,3b03f04d-c93f-4510-9861-0ba6103b1ce3,Scott,Johnson,Scott Johnson,,Los Angeles,2024-11-03,0.0,,0.0,0.0,0.0,False,,0
+ganderson@hotmail.com,a9a4f027-d84f-4824-92e5-b5e23fa511e6,George,Anderson,George Anderson,,Tampa,2023-11-12,1170.63,2024-03-28,2.0,0.0,0.0,True,415.0,1
+karen.ochoa51@yahoo.com,cc88f917-263d-4682-bfb9-faf5483df74b,,,,,,,64.62,2023-12-11,1.0,0.0,0.0,False,523.0,0
+rgrant@hotmail.com,d27fb30a-39c1-40f5-b74a-c4922781e061,Ryan,Grant,Ryan Grant,,Fort Worth,2024-10-20,0.0,,0.0,0.0,0.0,False,,0
+anthony.burton@yahoo.com,dd9d03c0-3d26-4ed4-8dd0-273907fc51b7,Anthony,Burton,Anthony Burton,,Washington,2024-01-07,97.16,2023-07-29,1.0,0.0,0.0,False,658.0,0
+carl.barrett@gmail.com,4bf0e7ef-8e4a-4320-a6cf-2bcfcd94d1ea,Carl,Barrett,Carl Barrett,,Tulsa,2024-05-05,533.54,2024-08-17,2.0,0.0,0.0,True,273.0,1
+jbenton@gmail.com,129bab4a-676c-4ad6-a0fd-d72096cd489d,Jacqueline,Benton,Jacqueline Benton,+19472067831,Raleigh,2023-07-13,0.0,,0.0,0.0,0.0,False,,0
+angela.gray@gmail.com,c317d2a9-ce9b-440d-b8a8-7151010df9f8,Angela,Gray,Angela Gray,,Raleigh,2023-12-18,360.96,2024-05-27,1.0,0.0,0.0,True,355.0,0
+jeffery.duran@yahoo.com,7aa26f8b-0edc-45e5-a332-34b57ef5733c,Jeffery,Duran,Jeffery Duran,,Columbus,2024-10-27,0.0,,0.0,0.0,0.0,False,,0
+steve.ray@yahoo.com,20edb795-9068-4055-b96b-e95d80ad9113,Steve,Ray,Steve Ray,+13479448294,FL,2022-12-24,0.0,,0.0,0.0,0.0,False,,0
+jeanne.ochoa45@gmail.com,1fd8845e-1ae9-416b-9275-397e9d3c467c,,,,,,,15.74,2024-04-16,1.0,0.0,0.0,False,396.0,0
+erin.moses@gmail.com,b204f4e8-cc07-4fc3-8e52-ccc573d190f6,Erin,Moses,Erin Moses,,Mesa,2023-09-09,1165.37,2024-11-21,2.0,0.0,0.0,True,177.0,1
+rachel.ashley45@gmail.com,2c10089a-69fe-40b0-b34d-8558e97a6061,,,,,,,160.63,2024-10-30,1.0,0.0,0.0,True,199.0,0
+kevin.simon65@yahoo.com,e08d69c6-afd1-45f6-aab4-9391f2571f23,,,,,,,186.13,2025-01-16,1.0,476.0,1.0,True,121.0,0
+robert.vang62@gmail.com,383a138e-6e66-4bbd-a00c-6d58a5820f99,,,,,,,0.0,,0.0,1801.0,5.0,False,,2
+michelle@rojas.com,0fe15be0-ce07-4da4-8119-efc91f160d7b,Michelle,Gutierrez,Michelle Gutierrez,,Arlington,2024-09-17,48.09,2024-09-16,1.0,0.0,0.0,False,243.0,0
+melanie.anderson@gmail.com,4f94d2e5-61df-4894-a669-437366922a47,Melanie,Anderson,Melanie Anderson,+19183842247,Omaha,2022-07-06,0.0,,0.0,0.0,0.0,False,,0
+walter.vega68@yahoo.com,661ed3be-7e8e-4f08-a3ac-63809c0ea378,,,,,,,0.0,,0.0,1122.0,2.0,False,,2
+kristin.mitchell6@gmail.com,10f90489-5084-4d53-85fc-723ee0057685,,,,,,,0.0,,0.0,192.0,2.0,False,,0
+mary.fernandez70@hotmail.com,1d591fde-c1fb-4892-9bbc-ade5e828f8ec,,,,,,,47.14,2025-05-11,1.0,0.0,0.0,False,6.0,0
+llewis@example.com,b6ec4ec1-814f-4b24-8564-44c874ce39d1,Robert,Kim,Robert Kim,,Phoenix,2024-09-01,0.0,,0.0,0.0,0.0,False,,0
+matthew.torres@hotmail.com,bf736846-a50d-47e0-9b8d-73aba1200cda,Matthew,Torres,Matthew Torres,+19034631831,New Orleans,2022-10-14,267.8,2024-01-01,1.0,0.0,0.0,True,502.0,0
+debra_barton8@gmail.com,342f6910-40b2-4990-80ea-340e9d67fb7d,Debra,Barton,Debra Barton,,Columbus,2022-07-27,73.18,2024-06-15,1.0,0.0,0.0,False,336.0,0
+madison@ramirez.com,baa075c0-aa24-4904-980c-ed9856a57218,Madison,Williamson,Madison Williamson,,Mesa,2022-11-24,0.0,,0.0,0.0,0.0,False,,0
+madison@ramirez.com,baa075c0-aa24-4904-980c-ed9856a57218,Carol,Garcia,Carol Garcia,,Long Beach,2023-06-22,0.0,,0.0,0.0,0.0,False,,0
+xholland@example.com,71e3792a-01b0-459d-861b-e68afcc98199,Heather,Smith,Heather Smith,+14344337133,Portland,2022-09-30,0.0,,0.0,0.0,0.0,False,,0
+xholland@example.com,71e3792a-01b0-459d-861b-e68afcc98199,Kenneth,Patel,Kenneth Patel,,Sacramento,2023-05-24,0.0,,0.0,0.0,0.0,False,,0
+xholland@example.com,71e3792a-01b0-459d-861b-e68afcc98199,April,Knight,April Knight,,Philadelphia,2023-11-28,0.0,,0.0,0.0,0.0,False,,0
+linda_howell45@hotmail.com,295093fe-098e-471e-a9b1-522860e3a919,Linda,Howell,Linda Howell,,Minneapolis,2025-02-22,1174.17,2024-11-24,1.0,0.0,0.0,True,174.0,1
+wturner@example.com,224905d6-978c-439e-a593-8190d01905ba,Kimberly,Young,Kimberly Young,,New York,2024-09-19,985.6800000000001,2024-12-28,4.0,0.0,0.0,True,140.0,1
+mary.hardin@hotmail.com,84eb6a7b-89b2-4e41-899c-1a75f617ddbc,Mary,Hardin,Mary Hardin,,Tulsa,2023-12-12,401.26,2024-03-13,1.0,0.0,0.0,True,430.0,0
+amy.stewart67@hotmail.com,ed920553-8bb2-4009-ba07-93bda1bd2be9,,,,,,,206.98,2023-11-23,1.0,0.0,0.0,True,541.0,0
+stephen.ellis62@hotmail.com,723f0a47-2e62-47d3-b3b8-c493c5f5d552,,,,,,,129.59,2023-05-19,1.0,0.0,0.0,True,729.0,0
+leah.petersen@yahoo.com,3a4fafd8-d72a-4603-bee0-8a48bc549be5,Leah,Petersen,Leah Petersen,,Nashville,2024-12-25,0.0,,0.0,0.0,0.0,False,,0
+jane.smith@example.com,43ec3caf-4485-4174-9a92-fe852eec07f6,Jane,Smith,Jane Smith,,Los Angeles,2023-02-20,25.0,2023-05-05,1.0,60.0,1.0,False,743.0,0
+blackwelljulie@example.org,e5f1b0a3-a7b1-4007-8c6e-47164d6bfe51,Julia,Smith,Julia Smith,,Columbus,2024-06-25,119.99,2024-10-17,1.0,0.0,0.0,True,212.0,0
+christopher.sawyer84@hotmail.com,2dc05b0a-2390-4dc1-95e0-38062abc7b5f,,,,,,,0.0,,0.0,687.0,4.0,False,,0
+johnsmith@example.org,bcd61ece-e789-46b0-a8e7-b1cede25c228,Joshua,Wilson,Joshua Wilson,,San Diego,2022-06-12,0.0,,0.0,0.0,0.0,False,,0
+breanna.erickson@yahoo.com,39bdd620-9eb9-4ec0-9173-20178b844abe,Breanna,Erickson,Breanna Erickson,+18199369628,Columbus,2025-03-31,1351.16,2023-07-09,1.0,386.0,1.0,True,678.0,1
+andrea.smith19@yahoo.com,9618041a-ddb0-4bcb-8db7-ce0e90183311,,,,,,,382.73,2025-04-24,1.0,993.0,4.0,True,23.0,2
+jennifer.estrada84@yahoo.com,b276711d-80f1-425d-96d0-131060d450ff,,,,,,,115.46,2023-07-07,1.0,527.0,2.0,True,680.0,0
+maria@soto-hartman.com,65f0c274-b309-4da9-8ece-6a76d8d5e774,Maria,Roberts,Maria Roberts,,Tucson,2025-02-01,357.33,2025-03-15,1.0,0.0,0.0,True,63.0,0
+dylan.price81@hotmail.com,005eecd3-6fde-4bb0-8d0b-b24e7596a3b6,,,,,,,261.29,2024-03-06,1.0,0.0,0.0,True,437.0,0
+lisa.gordon61@hotmail.com,83acdbce-1ad4-4580-a5cd-bd8b4c146cfb,,,,,,,0.0,,0.0,379.0,1.0,False,,0
+barbara@clarke.org,0ecd210f-246d-47b1-a85a-8d08e4d7991e,Barbara,Francis,Barbara Francis,+18726454461,Herrerachester,2023-06-27,225.79,2024-11-07,1.0,0.0,0.0,True,191.0,0
+joshua.phd8@gmail.com,f3331c79-ba6e-40ad-8d3b-e87d78e8b632,,,,,,,73.13,2023-11-18,1.0,0.0,0.0,False,546.0,0
+diana.solomon@gmail.com,f6dd1ff6-f307-4a38-8a8e-b133831d8ed5,Diana,Solomon,Diana Solomon,,Omaha,2024-02-10,54.18,2025-01-18,1.0,0.0,0.0,False,119.0,0
+emily@donaldson-simmons.com,30c88720-0eaf-4eae-a453-b46f14a0bd1b,Emily,Ali,Emily Ali,+15792675885,Los Angeles,2024-03-26,0.0,,0.0,0.0,0.0,False,,0
+matthew.cook@yahoo.com,6a2b42b8-7ce3-410c-b6d0-eff485e793f3,Matthew,Cook,Matthew Cook,+19318533018,Houston,2024-04-24,532.11,2024-12-24,2.0,0.0,0.0,True,144.0,1
+jessica.williams@yahoo.com,40a8c755-1594-47fa-a02d-aa0a984f6b34,Jessica,Williams,Jessica Williams,,Fort Worth,2024-06-20,0.0,,0.0,0.0,0.0,False,,0
+nancy97@example.net,20d41316-5d79-44c5-9adf-4d87de76a246,Brian,Reynolds,Brian Reynolds Jr.,,Fort Worth,2023-11-03,148.75,2024-02-24,1.0,0.0,0.0,True,448.0,0
+monica_kelly@hotmail.com,57e59fea-33ae-4522-b7ce-667dc2ab8454,Monica,Kelly,Monica Kelly,+15399825777,,2024-03-28,1059.72,2025-01-23,2.0,1725.0,8.0,True,114.0,1
+anna.taylor87@hotmail.com,ebb1b70c-d4ff-4926-9642-7404f4bd80eb,,,,,,,58.57,2023-05-18,1.0,0.0,0.0,False,730.0,0
+mclark@gmail.com,93495635-220c-4b7b-9500-b2c0918d595b,Michael,Clark,Michael Clark,+14055431663,San Diego,2023-01-20,0.0,,0.0,3541.0,8.0,False,,2
+eric@howell-anthony.com,37137480-1784-4e0c-8af3-52bb2e10c702,Eric,Mathews,Eric Mathews,+17802907594,Austin,2025-01-02,0.0,,0.0,0.0,0.0,False,,0
+ashley.thornton85@gmail.com,8f5da1bc-fcf4-4fbb-bd3f-880118381269,,,,,,,49.01,2025-04-26,1.0,0.0,0.0,False,21.0,0
+mathew_johnson@hotmail.com,75ffa300-7131-4f84-ab13-c93b163214f4,Mathew,Johnson,Mathew Johnson,+17017374140,Washington,2023-04-25,737.97,2024-11-01,1.0,0.0,0.0,True,197.0,1
+kjackson@yahoo.com,631db673-c187-4e97-a5cf-972faadde138,Kelly,Jackson,Kelly Jackson,+13014108087,Milwa,2024-12-15,212.07,2024-03-02,1.0,0.0,0.0,True,441.0,0
+alfred@perez.biz,bf080979-6b0f-46d5-bd71-003d05982714,Alfred,Moore,Alfred Moore,,San Antonio,2025-04-30,0.0,,0.0,1203.0,4.0,False,,2
+laura.porter@gmail.com,9729be4b-8209-4ec2-8c14-9d186ff9388d,Laura,Porter,Laura Porter,+13376542886,Chicago,2024-07-04,287.67,2024-02-09,1.0,2044.0,4.0,True,463.0,2
+jennifer.meyers94@hotmail.com,91266b04-176c-496f-a649-d12f691f2df4,,,,,,,91.38,2023-09-08,1.0,1763.0,5.0,False,617.0,2
+johnny@edwards.com,e033d89b-d7bc-4127-b36b-de56f99dd714,Johnny,Ellis,Johnny Ellis,+13044864378,Boston,2022-08-25,216.59,2024-12-18,2.0,0.0,0.0,True,150.0,1
+lindsey.owens@gmail.com,c03fa507-5529-4424-b430-39fde2593d19,Lindsey,Owens,Lindsey Owens,,Tampa,2023-10-09,0.0,,0.0,0.0,0.0,False,,0
+andrew.osborne78@yahoo.com,fa2a8300-4a6f-4a46-b0a6-1994d11e179f,,,,,,,371.11,2025-03-09,1.0,0.0,0.0,True,69.0,0
+jason.benton@yahoo.com,57227c61-07db-473a-a5cc-ae7a00abf598,Jason,Benton,Jason Benton,+16149428480,Detroit,2023-02-10,0.0,,0.0,0.0,0.0,False,,0
+matthew.wilkinson88@hotmail.com,4faa54a9-fcc0-4781-bfbc-04a1009c2766,,,,,,,0.0,,0.0,291.0,1.0,False,,0
+alejandraavery@example.net,0ecbe072-2d66-4e3c-a986-21a4c8f5f4c0,Joshua,Cox,Joshua Cox,+15208957517,Portland,2023-09-03,251.58,2023-08-28,1.0,0.0,0.0,True,628.0,0
+justin.cowan66@yahoo.com,04b1df81-b496-4745-9256-63b6fd206cbb,,,,,,,531.25,2023-07-01,1.0,0.0,0.0,True,686.0,0
+micheal.morgan1@gmail.com,d9b81ff7-4f67-4fbf-95b8-9a0a53098253,,,,,,,0.0,,0.0,477.0,2.0,False,,0
+veronica.floyd31@hotmail.com,0512468f-d2a5-4e3d-896b-823b2595a318,,,,,,,203.82,2024-08-06,1.0,1199.0,3.0,True,284.0,2
+jasmine@pearson-morton.biz,1f257089-e377-4cf0-97da-988d61c0389d,Jasmine,Day,Jasmine Day,+15093232450,PR,2023-09-01,1203.55,2025-05-14,3.0,15.0,1.0,True,3.0,1
+jessica.brown87@gmail.com,22e888a2-2cbe-49d4-b3ba-1a700db540d4,,,,,,,0.0,,0.0,1596.0,3.0,False,,2
+randall.mitchell@yahoo.com,65219a80-5b18-4b05-bd78-d2ee271bb872,Randall,Mitchell,Randall Mitchell,+14845212027,Miami,2022-08-14,0.0,,0.0,0.0,0.0,False,,0
+doris.velazquez@yahoo.com,eca3891f-c466-43a1-97de-2490ef26e71b,Doris,Velazquez,Doris Velazquez,,Tampa,2025-02-06,178.85,2024-11-20,1.0,0.0,0.0,True,178.0,0
+william.watkins@hotmail.com,85693a23-f4b7-4f04-a02b-60157f59080d,William,Watkins,William Watkins,,Austin,2022-08-25,0.0,,0.0,0.0,0.0,False,,0
+jeffrey_jr.@gmail.com,1a9a304d-d757-4512-85c7-05d1296513a3,Jeffrey,Kirk,Jeffrey Kirk Jr.,+13548481425,Tucson,2023-03-24,90.84,2024-11-16,1.0,0.0,0.0,False,182.0,0
+jasmine.duke56@yahoo.com,557eb0bf-fdda-4a19-a3c2-83dab549e914,,,,,,,0.0,,0.0,425.0,2.0,False,,0
+richard_faulkner47@gmail.com,e57a3675-f4b4-4043-8785-f25cafbddb65,Richard,Faulkner,Richard Faulkner,+19105111327,Portland,2023-08-02,384.92,2023-07-23,1.0,0.0,0.0,True,664.0,0
+troy@payne.com,223d7e50-72e5-4621-a73a-4311e6d7e749,Troy,Floyd,Troy Floyd,+12142607845,AK,2023-11-30,0.0,,0.0,0.0,0.0,False,,0
+ccole@gmail.com,7b3ab323-d4ab-49a0-8c68-ab9809d922c1,Carol,Cole,Carol Cole,+12233759405,Austin,2024-10-24,245.59,2023-07-18,1.0,1436.0,4.0,True,669.0,2
+patrick.carson70@gmail.com,6cfed35d-7c39-4f0e-b6c2-fe9dd855b24b,,,,,,,581.23,2025-04-17,1.0,0.0,0.0,True,30.0,0
+ross.castro46@hotmail.com,bc213cdf-73fe-4a44-99f6-e38511c8e8da,,,,,,,0.0,,0.0,2365.0,7.0,False,,2
+robert.gonzalez47@gmail.com,c0de369d-02a0-4d70-a300-f40d0704c130,,,,,,,0.0,,0.0,689.0,4.0,False,,0
+john@scott-cox.com,d702d6a6-0fb0-47bb-aae6-9d6b10fdd1fa,John,Ingram,John Ingram,,Fresno,2024-05-28,0.0,,0.0,0.0,0.0,False,,0
+ashley.maddox@hotmail.com,17e3c06a-cff9-4c3e-8550-529467dca271,Ashley,Maddox,Ashley Maddox,+16066336767,Arlington,2023-03-24,2617.5099999999998,2024-02-18,2.0,550.0,1.0,True,454.0,1
+bradfordbrian@example.net,fbd71cb9-fdc1-4d3a-a29b-374dc0c72e53,Tyler,Roberts,Tyler Roberts,+12764874983,Memphis,2023-02-20,1153.44,2024-11-20,3.0,0.0,0.0,True,178.0,1
+chad.sanford22@yahoo.com,49348303-d953-4fe8-b8f4-748407f2bb91,,,,,,,292.62,2025-01-15,1.0,0.0,0.0,True,122.0,0
+gary.edwards46@gmail.com,4139bb50-636f-47b2-9df0-13681c558c13,,,,,,,0.0,,0.0,933.0,2.0,False,,2
+melissa.bell55@gmail.com,71502729-9520-4019-a979-20c0cc5f9f3c,,,,,,,219.2,2025-03-18,1.0,0.0,0.0,True,60.0,0
+taylor@reyes.com,3573f448-9ac4-4fea-8d18-ba3478888551,Taylor,Moore,Taylor Moore,+17137864937,Denver,2025-03-10,664.99,2024-06-11,2.0,0.0,0.0,True,340.0,1
+gordon.anderson@yahoo.com,9160f039-ae2d-49e9-aa47-b07bbb50ce3d,Gordon,Anderson,Gordon Anderson,+14472785470,Albuquerque,2022-10-03,0.0,,0.0,1191.0,5.0,False,,2
+gordon.anderson@yahoo.com,9160f039-ae2d-49e9-aa47-b07bbb50ce3d,Lauren,Gray,Lauren Gray,+13145259089,Denver,2024-09-09,0.0,,0.0,1191.0,5.0,False,,2
+jon.turner@gmail.com,ac47b8d1-6aef-47ad-b83e-336b535f9b8f,Jon,Turner,Jon Turner,,Tulsa,2024-04-04,963.52,2024-01-31,3.0,0.0,0.0,True,472.0,1
+john.raymond@gmail.com,9e9de694-6f11-47ff-a07b-c2163087f8e6,John,Raymond,John Raymond,,CO,2023-09-17,295.6,2023-06-19,1.0,0.0,0.0,True,698.0,0
+joel.jackson87@hotmail.com,436969db-8ace-408e-9178-07fd2a690ba4,,,,,,,91.71,2023-11-13,1.0,0.0,0.0,False,551.0,0
+steven@miller-fernandez.org,b8c1d5e4-eb69-4438-bd89-801cb377108f,Steven,Cabrera,Steven Cabrera,+19103463901,Lake Bryan,2023-05-15,0.0,,0.0,1211.0,4.0,False,,2
+terry.grimes@yahoo.com,dca1d859-6e00-4a23-b6b0-c158c0501175,Terry,Grimes,Terry Grimes,,San Jose,2023-07-14,0.0,,0.0,0.0,0.0,False,,0
+mwhite@hotmail.com,a57e62ce-8d66-4a92-be9c-cadaf49579eb,Monique,White,Monique White,+18785191469,Houston,2022-05-31,0.0,,0.0,1200.0,4.0,False,,2
+ashley.lawson@hotmail.com,6c22d2f8-3abf-4801-9f40-a3a736eb2cae,Ashley,Lawson,Ashley Lawson,,Omaha,2023-04-13,0.0,,0.0,0.0,0.0,False,,0
+victoria@wright.com,893228ff-dc25-469a-8cfe-b48793f53b10,Victoria,Kirk,Victoria Kirk,,Oklahoma City,2024-10-21,242.48000000000002,2024-09-08,2.0,3366.0,9.0,True,251.0,2
+jody.benitez@yahoo.com,ef15a629-d532-429a-9d8c-0e266fe8e5e4,Jody,Benitez,Jody Benitez,,Las Vegas,2023-07-08,52.83,2025-02-23,1.0,0.0,0.0,False,83.0,0
+monica.thompson51@yahoo.com,5ae0875d-50b0-43b2-b687-2191f36a822f,,,,,,,43.69,2024-08-29,1.0,861.0,4.0,False,261.0,0
+steven.ortiz69@gmail.com,c45f66b0-a89c-4f84-8ddc-2d98e9eca51c,,,,,,,28.35,2024-02-23,1.0,650.0,3.0,False,449.0,0
+alison.mccarty12@yahoo.com,ac8b9bbb-93d2-49aa-b840-3c989069199a,,,,,,,571.51,2023-11-14,1.0,0.0,0.0,True,550.0,0
+stephensjoshua@example.com,366222e9-5b06-4be6-92cb-1f831f1a7c08,Antonio,Shields,Antonio Shields,+13028913501,Austin,2022-07-08,0.0,,0.0,0.0,0.0,False,,0
+jwilkins@gmail.com,09c8cc7c-eeee-4f4b-83aa-f11399f54330,Jennifer,Wilkins,Jennifer Wilkins,,Jacksonville,2023-05-07,0.0,,0.0,0.0,0.0,False,,0
+jennifer.mckenzie94@yahoo.com,a43012fc-4121-4176-9dd8-42c9a02b73fd,,,,,,,298.93,2024-11-28,1.0,0.0,0.0,True,170.0,0
+lori.silva@yahoo.com,efccd24d-d479-4d29-835b-d5153ebfa953,Lori,Silva,Lori Silva,,Phoenix,2023-08-26,119.36,2024-11-22,1.0,0.0,0.0,True,176.0,0
+margaret.bradshaw15@yahoo.com,2da59a77-395b-4fc1-a5a0-9d018d0cb599,,,,,,,0.0,,0.0,465.0,2.0,False,,0
+wmartin@hotmail.com,7eae64cf-f0de-4840-82bd-cb2eb8c8932b,William,Martin,William Martin,+16592038433,Detroit,2023-09-19,580.42,2024-05-20,2.0,844.0,2.0,True,362.0,1
+robert_wood32@yahoo.com,6d278e19-f16b-46df-bdaf-d8841a005b6e,Robert,Wood,Robert Wood,,Memphis,2024-08-25,0.0,,0.0,447.0,1.0,False,,0
+xmartin@example.com,6e955937-e137-40e2-ae49-f7fd0dda8da3,Larry,Arias,Larry Arias,+14244586295,Albuquerque,2023-04-01,826.42,2025-03-16,2.0,0.0,0.0,True,62.0,1
+mr..ballard51@gmail.com,c7ebf516-5703-45f4-8e1b-01bdeaaa12b3,,,,,,,189.79,2024-03-08,1.0,0.0,0.0,True,435.0,0
+carla@hill.com,f52a84fd-9656-416b-859f-bce76415c7b1,Carla,Carter,Carla Carter Md,,Oklahoma City,2024-04-15,0.0,,0.0,1149.0,5.0,False,,2
+joseph.williams@yahoo.com,bd418770-8d4f-4ff7-bbde-3fa401f07a11,Joseph,Williams,Joseph Williams,,Detroit,2022-07-29,236.7,2023-11-27,1.0,0.0,0.0,True,537.0,0
+jamie.swanson16@hotmail.com,207dc5b5-1de0-4665-816e-366d6608facd,,,,,,,135.88,2024-04-22,1.0,0.0,0.0,True,390.0,0
+sandra.rose58@gmail.com,b03f2520-8b7f-41ed-8368-f94b6dcd8039,,,,,,,0.0,,0.0,551.0,1.0,False,,0
+michele_marsh44@gmail.com,c8fd2b25-c92a-422f-b53d-6a2aaadcc9d6,Michele,Marsh,Michele Marsh,,Philadelphia,2023-02-19,0.0,,0.0,0.0,0.0,False,,0
+michele_marsh44@gmail.com,c8fd2b25-c92a-422f-b53d-6a2aaadcc9d6,N.,Baxter,N. Baxter,+13018365191,San Jose,2022-12-14,0.0,,0.0,0.0,0.0,False,,0
+sabrina.ward@yahoo.com,e162f975-7d0b-43ac-be8f-0d4210f09099,Sabrina,Ward,Sabrina Ward,+13128326760,Oklahoma City,2024-08-28,131.43,2024-10-25,2.0,0.0,0.0,True,204.0,0
+ashley.howard@gmail.com,63df1f66-136d-4e68-949e-8783b79da686,Ashley,Howard,Ashley Howard,,Portland,2025-05-05,227.24,2024-07-02,1.0,0.0,0.0,True,319.0,0
+brandi.baker@gmail.com,020621a6-74b8-4206-beb0-7039abf909c5,Brandi,Baker,Brandi Baker,,Memphis,2022-11-07,858.44,2025-01-07,1.0,0.0,0.0,True,130.0,1
+thall@gmail.com,c3384b6e-260f-46e2-9a40-78755886e46b,Tyler,Hall,Tyler Hall,,New York,2024-05-24,66.36,2023-08-07,1.0,0.0,0.0,False,649.0,0
+juan@foster.com,81a98211-8c08-40ae-abd0-2559d0177c2e,Juan,Jensen,Juan Jensen,+16698439455,Las Vegas,2024-02-14,540.61,2023-11-11,1.0,0.0,0.0,True,553.0,0
+david.bartlett@gmail.com,c0da3689-f7ec-4511-9d86-a0021d270665,David,Bartlett,David Bartlett,+12198332608,Jacksonville,2025-04-18,340.04,2023-06-29,1.0,0.0,0.0,True,688.0,0
+matthew52@example.com,819aea21-8a6a-4d0b-bb11-057db63f4c33,Jason,Parsons,Jason Parsons,+18493344132,Sacramento,2023-02-11,560.37,2024-02-13,1.0,0.0,0.0,True,459.0,0
+robert@kemp.com,839c03b6-bcfc-4c5a-b3cf-88cdf8d2e5dd,Robert,Taylor,Robert Taylor,,Jacksonville,2023-02-26,966.3199999999999,2025-05-12,2.0,0.0,0.0,True,5.0,1
+matthew.williams@gmail.com,f73ada7c-412b-4f4f-a598-e5f301affda7,Matthew,Williams,Matthew Williams,+13604038355,Minneapolis,2024-11-15,0.0,,0.0,0.0,0.0,False,,0
+maria.finley33@yahoo.com,30713de2-dee5-4b02-9bf2-9f4369306295,,,,,,,215.05,2024-05-26,1.0,0.0,0.0,True,356.0,0
+jared.mullen@yahoo.com,600050f4-272a-4e26-a431-6a404a5d06c2,Jared,Mullen,Jared Mullen,,,2025-03-02,80.15,2024-12-10,1.0,0.0,0.0,False,158.0,0
+brenda_hanna11@gmail.com,544fe697-c31f-4564-b377-4c48037fa8c5,Brenda,Hanna,Brenda Hanna,,PA,2023-08-25,440.5,2024-10-04,1.0,0.0,0.0,True,225.0,0
+jharding@gmail.com,cce60e1a-3041-4398-a741-3b5da20ecab0,Jerry,Harding,Jerry Harding,,New York,2024-04-04,585.53,2024-09-25,3.0,853.0,2.0,True,234.0,1
+eugene.hines@yahoo.com,272ee4a4-fdd1-4ce1-aac0-a7354903a088,Eugene,Hines,Eugene Hines,+18583192109,Austin,2023-02-11,564.53,2024-07-10,2.0,0.0,0.0,True,311.0,1
+angela_ramirez@gmail.com,4205c00a-cad8-401d-b3b2-8ae5bae5478a,Angela,Ramirez,Angela Ramirez,,Mesa,2024-06-20,208.89,2024-09-23,1.0,0.0,0.0,True,236.0,0
+cody@robinson.info,2cc095ce-cba2-4a36-9da0-19f232f91bd8,Cody,Fuentes,Cody Fuentes,,Las Vegas,2025-01-12,0.0,,0.0,0.0,0.0,False,,0
+tracy.maldonado@yahoo.com,6e9ab019-6259-4a14-8019-2266be70e879,Tracy,Maldonado,Tracy Maldonado,+12518941568,,2023-12-26,1469.13,2023-07-16,2.0,0.0,0.0,True,671.0,1
+dr..jr.@hotmail.com,43a4663d-10af-4138-9251-325547861201,Richard,Wong,Dr. Richard Wong Jr.,,Austin,2023-08-29,0.0,,0.0,0.0,0.0,False,,0
+andrew_perkins18@gmail.com,48e80dfa-4bad-48d0-b32e-3f5be942c476,Andrew,Perkins,Andrew Perkins,,New Orleans,2023-12-22,1203.96,2024-01-27,3.0,0.0,0.0,True,476.0,1
+lisa@olson.biz,e45b768d-962d-426d-acf1-a099cc21032c,Lisa,Garcia,Lisa Garcia,,San Francisco,2022-06-11,42.44,2025-04-29,1.0,0.0,0.0,False,18.0,0
+caitlin.york97@gmail.com,b239d56e-9675-455e-844f-5fd9d101d7e2,,,,,,,0.0,,0.0,590.0,2.0,False,,0
+debra.morton87@gmail.com,eb4124ce-b82c-424b-abd5-dff2e76486e1,,,,,,,243.09,2024-03-19,1.0,0.0,0.0,True,424.0,0
+patricia_diaz@hotmail.com,c0806649-955c-4b27-a4f2-3a68c5357378,Patricia,Diaz,Patricia Diaz,,,2024-08-01,79.05,2024-09-19,1.0,0.0,0.0,False,240.0,0
+krista@sloan-lynch.com,f0f64f09-6b63-464a-8978-af1b74a41248,Krista,Ramirez,Krista Ramirez,,Oakland,2023-02-07,158.29,2025-01-26,2.0,0.0,0.0,True,111.0,0
+victor.molina@gmail.com,33d2b230-1e94-44aa-8417-14f5cbf4c7de,Victor,Molina,Victor Molina,,Mesa,2025-03-07,0.0,,0.0,0.0,0.0,False,,0
+jamie.benitez64@hotmail.com,979d1147-5d88-4dd0-bb2c-75096f20e10b,,,,,,,139.72,2024-09-19,1.0,0.0,0.0,True,240.0,0
+ryan@thompson.org,f7a24daa-0bda-4b7b-81cf-bf81fb0f1c1a,Ryan,Ward,Ryan Ward,+17748254942,Indianapolis,2024-05-08,1021.68,2023-09-30,1.0,0.0,0.0,True,595.0,1
+lauren_mason12@yahoo.com,37ac8bab-bb23-43a2-9111-b96ff930037d,Lauren,Mason,Lauren Mason,+19129191485,San Antonio,2024-11-26,0.0,,0.0,0.0,0.0,False,,0
+ashley.lester83@hotmail.com,c961a0ca-88f6-4442-8a68-ce7eb2dc62b4,,,,,,,172.33,2024-10-08,1.0,0.0,0.0,True,221.0,0
+jose.joseph70@hotmail.com,028ce6ff-267b-4b24-aa8a-da1fcf6af869,,,,,,,0.0,,0.0,1006.0,3.0,False,,2
+evaughn@yahoo.com,8b4fe786-9e64-40ee-879e-336631eec0b5,Eric,Vaughn,Eric Vaughn,,Boston,2022-10-18,0.0,,0.0,0.0,0.0,False,,0
+simmonsdwayne@example.org,9f77bd7d-16c1-49c8-9bae-8843fa44acd5,Marissa,Gomez,Marissa Gomez,,Long Beach,2024-09-20,0.0,,0.0,2517.0,6.0,False,,2
+renee.wheeler97@yahoo.com,89e45943-1719-4a65-a903-b561a0a111f2,,,,,,,283.12,2025-02-04,1.0,0.0,0.0,True,102.0,0
+james_wade50@yahoo.com,d197e7d7-e8fc-46b0-97a4-197300314a43,James,Wade,James Wade,,Denv,2024-05-12,0.0,,0.0,0.0,0.0,False,,0
+james_wade50@yahoo.com,d197e7d7-e8fc-46b0-97a4-197300314a43,Jrime,Porter,Jrime Porter,+13149584365,San Antonio,2024-06-15,0.0,,0.0,0.0,0.0,False,,0
+victoria@gutierrez.com,cf9b9dc9-bf83-4d3d-95d9-e4c48d2bcf37,Victoria,Elliott,Victoria Elliott,+13415710522,San Diego,2023-10-12,0.0,,0.0,0.0,0.0,False,,0
+jjohnson@yahoo.com,f4b82d70-77ba-4ca7-b880-7aa55ef81068,Jordan,Johnson,Jordan Johnson,,Fort Worth,2024-06-04,0.0,,0.0,360.0,1.0,False,,0
+corey_webb31@yahoo.com,e435503c-b6b5-4d46-811d-75e061d8a958,Corey,Webb,Corey Webb,,Detroit,2024-01-23,19.01,2024-05-05,1.0,7280.0,19.0,False,377.0,2
+steven.williams@hotmail.com,17441212-ef43-4e46-9250-6a3b396e52bc,Steven,Williams,Steven Williams,+15874429363,San Francisco,2023-09-17,598.59,2024-01-07,1.0,0.0,0.0,True,496.0,0
+mdavis@gmail.com,1a98027c-28d8-463a-b1fe-6661a92014e4,Mark,Davis,Mark Davis,,Sacramento,2023-08-03,0.0,,0.0,530.0,1.0,False,,0
+brent.baldwin@gmail.com,c22e711f-f7d1-43d2-8a53-1f7196c88c20,Brent,Baldwin,Brent Baldwin,,Albuquerque,2023-12-10,171.64,2024-03-17,1.0,0.0,0.0,True,426.0,0
+samuel.ryan@gmail.com,7892f136-77ef-479a-9baf-a240b907cae0,Samuel,Ryan,Samuel Ryan,+17069669148,Columbus,2024-04-14,0.0,,0.0,0.0,0.0,False,,0
+kristine@martinez.org,93c2ac07-811d-462b-be16-859d9aad2ace,Kristine,Ponce,Kristine Ponce,,Kansas City,2023-11-11,202.05,2024-09-29,2.0,0.0,0.0,True,230.0,1
+gutierrezerin@example.net,b0ffe218-f073-47d6-b773-cb876ce12183,Jessica,Higgins,Jessica Higgins,,Milwaukee,2023-01-19,876.13,2025-02-19,4.0,0.0,0.0,True,87.0,1
+thomas@moore.net,9b693498-5547-47f6-ac00-ec959580af27,Thomas,Thompson,Thomas Thompson,,Houston,2024-08-15,975.5699999999999,2024-09-30,2.0,0.0,0.0,True,229.0,1
+timothy79@example.com,f69c6614-0ecc-4c0c-91d1-cff6f7aaf25b,Teresa,Thompson,Teresa Thompson,+17709516942,Cruzstad,2024-03-31,0.0,,0.0,0.0,0.0,False,,0
+tnash@yahoo.com,5fae018a-0e9a-4521-9f75-b39fdcf9edc6,Thomas,Nash,Thomas Nash,,Detroit,2024-11-16,0.0,,0.0,0.0,0.0,False,,0
+giii@hotmail.com,7fb6fb59-46b1-4232-b9b9-016cd219af2a,George,Gill,George Gill Iii,,Colorado Springs,2023-06-09,214.43,2023-11-12,1.0,0.0,0.0,True,552.0,0
+dana.acosta66@yahoo.com,e1eafc2a-82aa-4ee9-8a00-355d459245ff,,,,,,,324.51,2023-07-07,1.0,0.0,0.0,True,680.0,0
+james@robinson.com,cb7094fd-03c9-4cd6-a551-9be467513cfa,James,Bennett,James Bennett,+12053666234,El Paso,2024-06-28,90.12,2023-06-14,1.0,0.0,0.0,False,703.0,0
+lhorton@example.net,54364e13-dfaa-4da5-baf0-673c1f2101ef,James,Callahan,James Callahan,+19858654174,Milwaukee,2022-12-22,0.0,,0.0,0.0,0.0,False,,0
+bryanshaw@example.org,b4a73ff1-8206-4421-9e4e-be74fbc3b2cc,Allison,Miller,Allison Miller,+16898099146,Los Angeles,2023-05-27,225.6,2025-01-12,2.0,0.0,0.0,True,125.0,1
+katherine.lee@hotmail.com,17abc7e4-79cb-4409-919e-4fd9f39c4348,Katherine,Lee,Katherine Lee,+19568885019,Mesa,2023-04-17,51.59,2024-06-09,1.0,0.0,0.0,False,342.0,0
+duane@roberts-hartman.org,3e713a21-8b20-46c8-b0b1-ee24b1999195,Duane,Scott,Duane Scott,,,2022-07-16,0.0,,0.0,285.0,1.0,False,,0
+leslie.russo42@gmail.com,b3614e57-22f1-4ac9-9963-d2c250cee4dc,,,,,,,437.5,2024-09-12,1.0,0.0,0.0,True,247.0,0
+jwood@yahoo.com,769813f0-bbdf-4875-adce-b2c4c5a4cd85,Jennifer,Wood,Jennifer Wood,+17243731577,New Orleans,2024-12-06,0.0,,0.0,0.0,0.0,False,,0
+melissa.hampton@yahoo.com,468d56c4-422f-49e3-9470-1cc02f82c949,Melissa,Hampton,Melissa Hampton,+12819322904,Boston,2024-09-10,1815.54,2023-12-01,1.0,0.0,0.0,True,533.0,1
+toni.smith80@hotmail.com,1bf51aed-5fe3-4773-b174-6bd5f64f5135,,,,,,,417.23,2024-06-20,1.0,0.0,0.0,True,331.0,0
+michael.johnston@hotmail.com,280754d2-3982-4d08-8ba6-92bf184df168,Michael,Johnston,Michael Johnston,+14475158651,Sacramento,2022-08-14,0.0,,0.0,0.0,0.0,False,,0
+wrightpatrick@example.net,c5bdb262-6851-467c-9bbe-1bc014d99b3f,Cody,Gutierrez,Cody Gutierrez Dds,+19259296238,Omaha,2024-02-21,0.0,,0.0,871.0,3.0,False,,2
+david.greene30@gmail.com,981f961f-2738-4810-8fb2-ae70030b7192,,,,,,,801.75,2023-09-23,1.0,0.0,0.0,True,602.0,1
+arnoldjeffrey@example.net,4e0e18d9-0a99-42ce-b139-d5926d1925b0,Edward,Smith,Edward Smith,+13396434951,Colorado Springs,2024-04-23,324.16,2025-01-21,1.0,0.0,0.0,True,116.0,0
+kmiller@hotmail.com,b9a49ff8-ebf7-4245-aca9-85c7dbc1e281,Karen,Miller,Karen Miller,,Arlington,2022-12-05,342.67,2023-11-19,1.0,0.0,0.0,True,545.0,0
+pfletcher@gmail.com,a8e0d8fb-a04e-4a03-907b-a6751e804ce7,Pamela,Fletcher,Pamela Fletcher,,East Ashley,2024-07-30,0.0,,0.0,0.0,0.0,False,,0
+raymond.sanders45@yahoo.com,9e6d8675-de3b-424f-af7d-9ec7c8a83914,,,,,,,75.53,2024-07-13,1.0,622.0,2.0,False,308.0,0
+randy.lewis@yahoo.com,c8367524-c1e5-492a-bd75-278351af182a,Randy,Lewis,Randy Lewis,,Atlanta,2022-11-21,0.0,,0.0,0.0,0.0,False,,0
+donna.ford@hotmail.com,8a4650bc-c8d7-4335-b768-32f4fee91c7c,Donna,Ford,Donna Ford,+16493977382,Austin,2025-03-10,0.0,,0.0,0.0,0.0,False,,0
+michael_yang49@gmail.com,eceb3038-588d-42ff-89ce-b8b64857bcbf,Michael,Yang,Michael Yang,+12153683489,Colorado Springs,2023-12-03,672.71,2025-01-28,2.0,0.0,0.0,True,109.0,1
+jesse.mack@hotmail.com,7aba7b1f-de16-4ccc-b204-4e30852e6c0c,Jesse,Mack,Jesse Mack,+12087418797,Mesa,2023-03-06,218.11,2024-06-17,1.0,86.0,2.0,True,334.0,0
+jmckay@yahoo.com,0f3f7b18-870b-4186-a5ea-2005ef5bb509,Joel,Mckay,Joel Mckay,,Las Vegas,2023-09-17,40.19,2025-03-13,1.0,0.0,0.0,False,65.0,0
+bmiranda@gmail.com,86b9ca84-ece6-427a-a13c-47f6ad2b64b3,Bethany,Miranda,Bethany Miranda,,Mesa,2023-04-13,2435.15,2023-10-02,1.0,565.0,2.0,True,593.0,1
+megan.cobb@gmail.com,26359826-4175-47eb-a9a0-e3c558328bf8,Megan,Cobb,Megan Cobb,,Oakland,2024-07-27,2620.28,2025-04-28,3.0,0.0,0.0,True,19.0,1
+ssmith@gmail.com,84da22ca-766d-4124-9f25-b35eb8aba7f9,Samuel,Smith,Samuel Smith,,Los Angeles,2024-03-17,1180.32,2024-11-07,3.0,0.0,0.0,True,191.0,1
+jgarner@hotmail.com,8c1e92f2-4c53-4b3d-a145-09ac4df28c4e,Jesse,Garner,Jesse Garner,+18395675580,,2023-01-20,668.0699999999999,2024-12-04,2.0,0.0,0.0,True,164.0,1
+kelly_fuller6@gmail.com,143b7f45-4dc3-4ddf-9588-01551d5ec190,Kelly,Fuller,Kelly Fuller,,North Kristine,2022-11-09,0.0,,0.0,0.0,0.0,False,,0
+cameron.robertson@hotmail.com,d5a73fc9-b4f7-40d1-a6be-469b46d9647f,Cameron,Robertson,Cameron Robertson,,Austin,2024-09-24,922.41,2023-10-25,1.0,0.0,0.0,True,570.0,1
+stephen.watson64@yahoo.com,3a73dc59-6780-4832-a7d8-8979b1c55329,,,,,,,50.57,2024-09-21,1.0,0.0,0.0,False,238.0,0
+joshua.carson87@yahoo.com,4f72bf91-e3f5-45bc-99f4-d6947dcb7d43,,,,,,,171.65,2024-01-08,1.0,0.0,0.0,True,495.0,0
+ajordan@gmail.com,eb7fbd88-727f-429b-9e36-d29e11e8f5da,Alyssa,Jordan,Alyssa Jordan,+18476257296,Louisville,2023-06-29,474.0,2024-07-21,2.0,0.0,0.0,True,300.0,1
+erik.kidd44@yahoo.com,b9f416ee-101b-44d2-bbef-16952c9999e8,,,,,,,0.0,,0.0,1400.0,4.0,False,,2
+robert.cole66@hotmail.com,588d01ff-cbd1-4dde-8fa9-82f69ee059a2,,,,,,,0.0,,0.0,619.0,2.0,False,,0
+uwilliams@example.net,7055f77c-bd0e-493c-9482-eaad33b11566,Vanessa,Kelly,Vanessa Kelly,+15805936201,Oakland,2022-09-03,185.17,2024-03-04,1.0,0.0,0.0,True,439.0,0
+bradley.thompson4@yahoo.com,b109c034-ba5f-446c-ae23-2a92877d8808,,,,,,,767.77,2023-07-29,1.0,229.0,1.0,True,658.0,1
+xhall@example.net,0f83af12-66cf-493c-8ec0-5b2e8db194ff,Jessica,Reynolds,Jessica Reynolds,+17012959426,Las Ve,2025-01-18,496.35,2024-11-23,1.0,0.0,0.0,True,175.0,0
+jason.giles22@gmail.com,9f939400-b595-4f53-a713-9af85d9802dc,,,,,,,53.6,2024-06-27,1.0,0.0,0.0,False,324.0,0
+allen_rodriguez@gmail.com,f2d295f0-c854-4705-82fd-83d3ad52889c,Allen,Rodriguez,Allen Rodriguez,+14458017824,Mesa,2025-01-21,96.55,2023-05-21,1.0,0.0,0.0,False,727.0,0
+allen_rodriguez@gmail.com,f2d295f0-c854-4705-82fd-83d3ad52889c,Jonathan,Williams,Jonathan Williams,+17607749117,Oklahoma City,2023-03-24,96.55,2023-05-21,1.0,0.0,0.0,False,727.0,0
+ediaz@hotmail.com,9931bc56-c897-419f-9a70-ba81dce84ab5,Erica,Diaz,Erica Diaz,+15262120113,Minneapolis,2025-03-07,357.92,2024-07-17,1.0,0.0,0.0,True,304.0,0
+bryan.baird36@yahoo.com,51cefe7d-2f1b-41bb-8c8f-0d3ed4788f81,,,,,,,0.0,,0.0,271.0,1.0,False,,0
+steven@coleman.com,c2c64ee1-c518-40e1-bd6a-a91d1c98a681,Steven,Stevens,Steven Stevens,+18092008947,Las Vegas,2023-08-09,0.0,,0.0,0.0,0.0,False,,0
+david.barrett90@hotmail.com,f98371fd-412f-4ec0-8b23-1c7bb2f4be7b,,,,,,,56.45,2023-11-19,1.0,0.0,0.0,False,545.0,0
+kelsey.smith35@yahoo.com,52a74f70-2541-443c-a139-6f551e8ac02a,,,,,,,154.16,2023-09-19,1.0,0.0,0.0,True,606.0,0
+antonio.hunt95@gmail.com,7e789bfa-101f-4332-92c8-2340cdf83d25,,,,,,,118.92,2024-08-08,1.0,0.0,0.0,True,282.0,0
+damon.carr@yahoo.com,e5b2849e-a99b-4899-8fd3-87c61f9a5944,Damon,Carr,Damon Carr,,Ral,2025-05-14,0.0,,0.0,0.0,0.0,False,,0
+angela@miller-martin.info,0b5a1e6d-19c2-49ee-a8ab-0d0e0dbb7155,Angela,Owens,Angela Owens,+19832125310,New York,2024-06-06,0.0,,0.0,0.0,0.0,False,,0
+pcraig@yahoo.com,71dea893-e843-4d85-a885-80713c1a0d2b,Patricia,Craig,Patricia Craig,,Oklahoma City,2023-02-09,747.0,2023-12-05,1.0,0.0,0.0,True,529.0,1
+charles_ruiz39@gmail.com,2489b70d-e54b-4838-8ea9-cb932127e5cc,Charles,Ruiz,Charles Ruiz,,Boston,2022-07-25,1881.35,2025-04-14,3.0,0.0,0.0,True,33.0,1
+janet.vazquez@hotmail.com,6b4aeb9c-cf37-4a6d-adc3-532284d578cf,Janet,Vazquez,Janet Vazquez,+12132803429,Seattle,2024-02-02,352.33,2023-08-24,2.0,0.0,0.0,True,632.0,1
+charlotte_long21@yahoo.com,5cacb6cc-b226-426d-9815-310921bc3305,Charlotte,Long,Charlotte Long,,Chicago,2022-08-09,0.0,,0.0,0.0,0.0,False,,0
+shawn@spence.com,da19e0af-810d-40f4-86e1-71d91cd250e4,Shawn,Martin,Shawn Martin,+19869783897,Kansas City,2024-08-05,48.89,2024-08-18,1.0,0.0,0.0,False,272.0,0
+james_harper@gmail.com,343da002-7f20-48ea-991b-534fef819355,James,Harper,James Harper,,Sacramento,2024-06-26,203.78,2025-04-16,1.0,0.0,0.0,True,31.0,0
+eileen.colon@yahoo.com,e875706f-365d-433d-9427-23bcc21f200a,Eileen,Colon,Eileen Colon,,Las Vegas,2024-09-26,190.16,2024-07-31,2.0,0.0,0.0,True,290.0,0
+colin_mclaughlin@yahoo.com,831348a7-c1de-4fd2-b6a1-8fdc1b9cddb2,Colin,Mclaughlin,Colin Mclaughlin,+16413909868,Arlington,2022-06-10,157.72,2025-02-07,1.0,781.0,1.0,True,99.0,0
+stephanie.suarez44@gmail.com,b77389b2-d0a9-49e2-9683-54e9f70170ad,,,,,,,60.63,2024-01-11,1.0,0.0,0.0,False,492.0,0
+cassidy.hicks@hotmail.com,013d633f-79e2-44ab-bcd8-3f68ad753e43,Cassidy,Hicks,Cassidy Hicks,,Fresno,2024-01-02,2195.71,2024-04-11,2.0,0.0,0.0,True,401.0,1
+diana.johnson@gmail.com,398b1aeb-7fd9-48b7-8c32-5aeee925855b,Diana,Johnson,Diana Johnson,+17429187330,Arlington,2024-01-24,0.0,,0.0,0.0,0.0,False,,0
+diana.johnson@gmail.com,398b1aeb-7fd9-48b7-8c32-5aeee925855b,Timothy,Guerrero,Timothy Guerrero,,Virginia Beach,2023-06-22,0.0,,0.0,0.0,0.0,False,,0
+michelle_walker38@yahoo.com,23a0ad59-d750-4109-814e-c17cb6fbe795,Michelle,Walker,Michelle Walker,,Memphis,2024-03-18,0.0,,0.0,611.0,2.0,False,,0
+daniel.myers@gmail.com,4950520a-7064-428f-8149-f724fcc739f4,Daniel,Myers,Daniel Myers,,Charlotte,2022-06-26,0.0,,0.0,439.0,1.0,False,,0
+daniel.whitehead17@yahoo.com,0bd0caf2-6a91-4e92-9e53-a4a9586491eb,,,,,,,450.81,2023-07-28,1.0,0.0,0.0,True,659.0,0
+nicole.ellis68@yahoo.com,e0dd29cf-c117-48f2-b94d-027a0e422f71,,,,,,,552.22,2023-07-05,1.0,0.0,0.0,True,682.0,0
+andrew@martin-chen.biz,82ade4af-da7d-48dc-948a-812242c5c194,Andrew,Cruz,Andrew Cruz,,San Antonio,2025-04-25,0.0,,0.0,0.0,0.0,False,,0
+shawna.tapia14@yahoo.com,1b061ed5-cb47-4a77-bec0-48c1d67d05de,,,,,,,929.2,2024-04-28,1.0,0.0,0.0,True,384.0,1
+mitchell.anderson@hotmail.com,8c873d01-bf21-498c-b0d9-7eed97d75ec1,Mitchell,Anderson,Mitchell Anderson,+13128004371,Long Beach,2025-03-14,0.0,,0.0,0.0,0.0,False,,0
+randall.yates93@hotmail.com,549f88b6-07c4-42ae-ac82-9ddeb52a748b,,,,,,,0.0,,0.0,1578.0,6.0,False,,2
+amanda.simon15@hotmail.com,0f2a7a98-5a1b-4f08-87f8-bbd302634653,,,,,,,786.01,2023-12-24,1.0,1098.0,3.0,True,510.0,2
+christina_taylor11@hotmail.com,74b67b5a-0174-4617-8fc0-e993619719c3,Christina,Taylor,Christina Taylor,+18384240577,Lake Mitchell,2024-03-08,82.28,2024-10-27,1.0,0.0,0.0,False,202.0,0
+kiara_tucker1@hotmail.com,fa749093-c697-4a53-befb-8f990637a632,Kiara,Tucker,Kiara Tucker,+17265119434,Los Angeles,2024-12-10,0.0,,0.0,0.0,0.0,False,,0
+patricia_santiago@gmail.com,f1b5a42c-57f6-4e9a-9011-bfe64b9d3f15,Patricia,Santiago,Patricia Santiago,+17713704176,Los Angeles,2022-08-16,0.0,,0.0,850.0,4.0,False,,2
+patricia_santiago@gmail.com,f1b5a42c-57f6-4e9a-9011-bfe64b9d3f15,Derrick,Schultz,Derrick Schultz,+14699214276,Omaha,2025-03-26,0.0,,0.0,850.0,4.0,False,,2
+justin.anderson55@hotmail.com,2c07782d-ac3e-43ed-b71a-26d175aaf502,,,,,,,140.1,2023-05-28,1.0,0.0,0.0,True,720.0,0
+regina_vance@yahoo.com,1748bb3d-5170-47ea-bb82-884b6349e862,Regina,Vance,Regina Vance,,Las Vegas,2023-04-30,0.0,,0.0,654.0,2.0,False,,0
+alan.woods36@gmail.com,338b5009-9edc-4287-b981-ea166c7b3e28,,,,,,,266.62,2024-11-03,1.0,353.0,2.0,True,195.0,0
+timothy.zuniga36@yahoo.com,5c9a8b44-541e-432d-9ab1-6effc6eeeb39,,,,,,,486.93,2023-10-27,1.0,0.0,0.0,True,568.0,0
+andrea.moran@gmail.com,8bbfb8f2-15e3-4596-84b9-2e38d10b310d,Andrea,Moran,Andrea Moran,+13102322275,Fresno,2023-01-25,551.5,2024-11-09,2.0,0.0,0.0,True,189.0,1
+leah.thomas@yahoo.com,2f13e6c4-84bb-4377-9fcd-ea3abb0b77e7,Leah,Thomas,Leah Thomas,+18153677240,Columbus,2024-09-16,146.55,2024-07-22,1.0,1136.0,3.0,True,299.0,2
+leah.thomas@yahoo.com,2f13e6c4-84bb-4377-9fcd-ea3abb0b77e7,Tamml,Johnson,Tamml Johnson,+14412729517,Colorado Springs,2023-05-02,146.55,2024-07-22,1.0,1136.0,3.0,True,299.0,2
+leah.thomas@yahoo.com,2f13e6c4-84bb-4377-9fcd-ea3abb0b77e7,Brittany,Smith,Mrs. Brittany Smith,,Chicago,2022-11-30,146.55,2024-07-22,1.0,1136.0,3.0,True,299.0,2
+xjames@example.org,55cffb88-d282-4af2-8253-67485dcad0f9,Stephen,Bush,Stephen Bush,+18166614867,Tampa,2022-08-25,0.0,,0.0,0.0,0.0,False,,0
+jose.mason@gmail.com,460b0b5c-49d3-420c-a24a-05381d73ae4c,Jose,Mason,Jose Mason,,Atlanta,2023-07-23,47.6,2024-05-04,1.0,0.0,0.0,False,378.0,0
+stephanie.peterson@yahoo.com,0a5ff98e-3989-4ea5-ab6f-5db731a21fdc,Stephanie,Peterson,Stephanie Peterson,,,2023-05-23,0.0,,0.0,0.0,0.0,False,,0
+adam.davidson57@gmail.com,615ec47f-f365-4f9c-9bfe-c5f8845e131f,,,,,,,0.0,,0.0,594.0,1.0,False,,0
+swilliamson@gmail.com,c05bd361-2ab8-4662-ab15-47a7a1043276,Sean,Williamson,Sean Williamson,,Denver,2022-10-12,0.0,,0.0,1112.0,3.0,False,,2
+lance.long@yahoo.com,d3d856fe-8331-4bfc-9bce-f50b017e3242,Lance,Long,Lance Long,+15305118105,El Paso,2022-08-02,295.26,2023-12-16,2.0,0.0,0.0,True,518.0,1
+fquinn@hotmail.com,6d862c98-7795-4c5c-8e0a-5566e57ed54d,Frank,Quinn,Frank Quinn,,Long Beach,2024-07-20,545.39,2025-03-03,2.0,0.0,0.0,True,75.0,1
+natalie.scott83@gmail.com,ddfae0fb-0aaf-4114-9c73-86d455f17d76,,,,,,,162.63,2023-12-18,1.0,1133.0,4.0,True,516.0,2
+sarah.duncan52@gmail.com,e506a08c-ad8a-4329-97a3-1483a220c9c3,,,,,,,105.53,2025-01-09,1.0,0.0,0.0,True,128.0,0
+taylor.avery14@yahoo.com,9bbb31c4-d68b-482c-a442-c05ea679fc1c,,,,,,,1568.41,2025-04-08,1.0,0.0,0.0,True,39.0,1
+chris.ortiz@hotmail.com,30d09302-f4d5-4ae2-8b48-afb310a6a5e7,Chris,Ortiz,Chris Ortiz,,Houston,2024-04-14,81.02,2024-06-24,1.0,0.0,0.0,False,327.0,0
+barbara.mitchell28@gmail.com,4bbe2dc3-1a09-4079-a1ca-e43f7db02666,,,,,,,21.07,2025-04-13,1.0,0.0,0.0,False,34.0,0
+jacob.gray@hotmail.com,3f73a17a-b4ac-46ce-b7d9-5061148112f7,Jacob,Gray,Jacob Gray,+19072274981,Oakland,2023-09-14,2458.43,2024-07-29,1.0,0.0,0.0,True,292.0,1
+christian.larson@yahoo.com,af03fa4c-f09b-4aa3-833b-727b702fecf7,Christian,Larson,Christian Larson,+19062824077,Virginia Beach,2022-07-25,452.52,2024-08-15,2.0,1137.0,2.0,True,275.0,1
+chad.ramos39@gmail.com,530ae64e-9fda-4b53-82b5-f4f9403d4651,,,,,,,21.41,2024-09-13,1.0,0.0,0.0,False,246.0,0
+cjones@hotmail.com,c064c8f2-833c-4889-8276-22983eba91ed,Cody,Jones,Cody Jones,+15349859568,Mesa,2022-05-23,0.0,,0.0,1092.0,2.0,False,,2
+jgriffith@gmail.com,42632f32-747a-4b1c-b29b-60b85531130f,Jordan,Griffith,Jordan Griffith,+15663486940,San Francisco,2024-06-18,201.61,2025-03-15,1.0,0.0,0.0,True,63.0,0
+timothy.johnson84@hotmail.com,384ae5da-282a-4baf-a4d2-baa139d7db72,,,,,,,140.37,2024-05-26,1.0,0.0,0.0,True,356.0,0
+ashley.bright73@gmail.com,7b4b0d09-a090-4e41-8dd8-dc5d33258f8d,,,,,,,55.59,2024-06-26,1.0,1761.0,3.0,False,325.0,2
+swalker@yahoo.com,3aae9abb-5cff-40b7-8e77-3a1bb1d90026,Sharon,Walker,Sharon Walker,,Miami,2024-07-27,41.63,2024-07-29,1.0,0.0,0.0,False,292.0,0
+roy_myers@yahoo.com,82887c30-3384-4fa3-b2cc-87993b288784,Roy,Myers,Roy Myers,+12033207491,Washington,2025-03-11,381.12,2023-12-08,1.0,0.0,0.0,True,526.0,0
+robert.lopez65@yahoo.com,68c87c06-b575-4c5a-baa6-80e62d8c75a4,,,,,,,304.68,2024-03-06,1.0,0.0,0.0,True,437.0,0
+jeffrey.joseph44@hotmail.com,4c789897-3249-42f8-8545-da464bb0a723,,,,,,,428.52,2023-06-02,1.0,0.0,0.0,True,715.0,0
+mr.@becker.com,4d5ea06d-6bbc-4c2b-b2f3-7dc4e335ce56,Edward,Garrett,Mr. Edward Garrett,+13316674917,Oklahoma City,2023-07-29,317.53,2024-09-08,1.0,0.0,0.0,True,251.0,0
+jeffrey.burch@yahoo.com,9b96960a-c7fd-4e00-bf89-9bcf5ca6ecb4,Jeffrey,Burch,Jeffrey Burch,+15513059545,Long Beach,2023-11-24,0.0,,0.0,0.0,0.0,False,,0
+eugene_morales42@gmail.com,8af8f8c1-7188-41e4-8440-c03a8ab502d3,Eugene,Morales,Eugene Morales,,Chicago,2022-11-03,0.0,,0.0,0.0,0.0,False,,0
+jennifer.vargas8@gmail.com,dcfe81b3-2ed1-4a29-84b1-ddd3135fb85b,,,,,,,50.45,2025-04-25,1.0,0.0,0.0,False,22.0,0
+robin.odom@hotmail.com,4a2faa15-2569-402b-bc9f-31e34741f900,Robin,Odom,Robin Odom,,Colorado Springs,2024-12-31,1861.94,2024-11-10,4.0,0.0,0.0,True,188.0,1
+william.stokes@hotmail.com,310e9f0d-c522-4d77-a7d9-be42d86e68a8,William,Stokes,William Stokes,,Charlotte,2024-08-20,271.07,2024-05-04,1.0,0.0,0.0,True,378.0,0
+stephen.foster@yahoo.com,68f8bd4f-af01-4c6b-980b-1493a725b6b7,Stephen,Foster,Stephen Foster,,Omaha,2024-02-27,0.0,,0.0,2766.0,7.0,False,,2
+marissa48@example.org,53eb8644-e912-4e63-b4c6-8f1dc9657024,Gabriela,Phillips,Gabriela Phillips,+18584784133,New Orleans,2023-10-17,0.0,,0.0,0.0,0.0,False,,0
+adds@yahoo.com,4f9e20a3-3838-4d32-8e2c-815790eb3392,Alexa,Gaines,Alexa Gaines Dds,+17633012214,North Connieside,2023-05-26,326.14000000000004,2024-07-14,2.0,0.0,0.0,True,307.0,1
+joshua_allen39@yahoo.com,95a4dbf1-77de-462c-a664-6519d77bca83,Joshua,Allen,Joshua Allen,+15068363902,Arlington,2023-09-01,124.14,2024-01-17,1.0,447.0,2.0,True,486.0,0
+julie_castaneda@gmail.com,7c2f5c38-e771-4c80-bb06-108c449cee3a,Julie,Castaneda,Julie Castaneda,,El Paso,2025-03-11,309.01,2025-02-10,2.0,277.0,2.0,True,96.0,1
+nicole.abbott96@hotmail.com,7bba1e09-f2df-4e23-9b6f-34bcbb470de3,,,,,,,293.38,2024-06-01,1.0,0.0,0.0,True,350.0,0
+mark.small@gmail.com,b4a4fd13-4d4e-49c8-8fe2-f5b79b2c0f04,Mark,Small,Mark Small,,Fort Worth,2022-05-31,0.0,,0.0,0.0,0.0,False,,0
+csosa@yahoo.com,9257563d-2fc3-4222-9038-43eee7219934,Cory,Sosa,Cory Sosa,+18006127847,,2024-11-02,376.28999999999996,2023-10-18,2.0,0.0,0.0,True,577.0,1
+deborah.robinson@hotmail.com,d73cdfa7-b47a-4f88-853c-7a45fe504119,Deborah,Robinson,Deborah Robinson,,Tampa,2023-04-07,0.0,,0.0,0.0,0.0,False,,0
+joanna.singleton60@gmail.com,76bf5b58-9005-4094-884f-966f490e7dbc,,,,,,,551.96,2024-07-04,1.0,0.0,0.0,True,317.0,0
+sroberts@yahoo.com,8434f402-89e1-483a-8c96-db60394d184f,Sonia,Roberts,Sonia Roberts,,,2022-11-01,1282.17,2023-12-01,1.0,0.0,0.0,True,533.0,1
+stephanie.parrish@gmail.com,657d3656-6555-4e62-8c97-2a5e91adbe02,Stephanie,Parrish,Stephanie Parrish,,Baltimore,2022-06-23,0.0,,0.0,0.0,0.0,False,,0
+stephanie.parrish@gmail.com,657d3656-6555-4e62-8c97-2a5e91adbe02,Kelly,Lawson,Kelly Lawson,,Carmenhaven,2024-07-01,0.0,,0.0,0.0,0.0,False,,0
+susan.bradley@yahoo.com,0f4a2350-90d2-4469-a326-99bbb24ba498,Susan,Bradley,Susan Bradley,,Charlotte,2023-08-11,782.34,2025-02-25,2.0,0.0,0.0,True,81.0,1
+anthony@garcia.com,2fbfcdb9-25af-4f89-afa2-35d66a9caeea,Anthony,Wilson,Anthony Wilson,,Phoenix,2023-04-11,967.99,2025-02-08,2.0,737.0,2.0,True,98.0,1
+todd.hooper@hotmail.com,153ea101-df33-4e71-9175-a034b282172c,Todd,Hooper,Todd Hooper,+12063631355,Charlotte,2023-09-05,1283.7,2025-03-08,2.0,0.0,0.0,True,70.0,1
+david@wilson-rodriguez.com,b76c2a03-3c17-4110-85ff-923d574880b6,David,Humphrey,David Humphrey,+14788337720,Albuquerque,2024-07-06,0.0,,0.0,0.0,0.0,False,,0
+davidgarcia@example.org,b329aa76-921e-405f-bcf6-75c1a48994cf,Andrea,Pittman,Andrea Pittman,,Denver,2024-12-21,2208.7200000000003,2024-10-09,4.0,213.0,2.0,True,220.0,1
+kaitlyn@stevens-soto.com,6be5279f-31e1-4d53-9321-68f162437ee5,Kaitlyn,Ray,Kaitlyn Ray,+17734861087,Baltimore,2022-12-19,233.57,2025-03-18,1.0,0.0,0.0,True,60.0,0
+antonio.carpenter27@hotmail.com,977550d8-091b-40ba-8390-6ce5db142410,,,,,,,95.59,2023-06-16,1.0,0.0,0.0,False,701.0,0
+todd@aguilar-jones.biz,fdeacef8-9958-4768-9530-c5eab9dcaece,Todd,Mcknight,Todd Mcknight,,Louisville,2023-09-13,290.63,2023-12-08,1.0,1101.0,4.0,True,526.0,2
+brian.gonzales79@gmail.com,8bdb38f1-9376-4f59-b01d-a3232c17bdce,,,,,,,0.0,,0.0,829.0,3.0,False,,2
+angela.mitchell@yahoo.com,ae7df097-ec2c-4d88-acd5-3a7fe0be48e6,Angela,Mitchell,Angela Mitchell,+15849502278,San Diego,2024-05-30,125.21,2025-05-16,2.0,0.0,0.0,True,1.0,0
+dmann@example.net,0338181b-fe52-4dab-9c1d-61d6299ba162,Marissa,Thomas,Mrs. Marissa Thomas Dds,+17012893402,Tulsa,2024-03-19,285.33,2024-09-14,1.0,996.0,5.0,True,245.0,2
+keith@marks.org,b5340de5-1444-46f0-bec0-f0b1c40417fe,Keith,Armstrong,Keith Armstrong,+14782256028,Miami,2023-02-16,0.0,,0.0,0.0,0.0,False,,0
+vickie@smith.biz,b8c09cc9-dea4-4542-8444-adf05a3ebd9e,Vickie,Mooney,Vickie Mooney,+13132886349,Nashville,2024-03-30,0.0,,0.0,0.0,0.0,False,,0
+snelson@example.com,17db558f-2efb-4503-bccb-a06967052bb0,Michael,Harper,Michael Harper,,Tucson,2025-04-12,178.17000000000002,2023-07-24,2.0,0.0,0.0,True,663.0,0
+garrett.hill30@hotmail.com,b76930e5-b6d8-4586-b23c-a2df99fd4ac9,,,,,,,85.42,2025-01-20,1.0,0.0,0.0,False,117.0,0
+don.wright@hotmail.com,3167cbc1-1db6-440b-b4a5-1baccc6fd6b0,Don,Wright,Don Wright,+15349725881,Charlotte,2024-04-29,67.02,2023-09-30,1.0,0.0,0.0,False,595.0,0
+jill_kramer@gmail.com,664df4a2-42c6-4962-9eef-3f029cd7fbe8,Jill,Kramer,Jill Kramer,,Baltimore,2024-06-15,0.0,,0.0,0.0,0.0,False,,0
+william.fry28@hotmail.com,0c8fa41c-10b2-45c7-a286-2a82280adcee,,,,,,,0.0,,0.0,1895.0,4.0,False,,2
+derrick@mosley-brooks.org,68fb73c2-9b8b-4323-a191-0f3f7f039b73,Derrick,Rich,Derrick Rich,+12017322000,HI,2024-04-24,121.08,2024-07-24,1.0,0.0,0.0,True,297.0,0
+julie@smith.com,568a7893-4d41-45a8-88fa-bdf7e32cb694,Julie,Morgan,Julie Morgan,,Charlotte,2024-07-26,473.95,2024-11-26,2.0,1459.0,4.0,True,172.0,2
+stacy46@example.com,fdeaa024-27d6-4f73-9381-c5233f3b8204,Deborah,Reed,Deborah Reed,,Louisville,2025-02-18,0.0,,0.0,0.0,0.0,False,,0
+taylor70@example.com,169ed39d-e1aa-49e5-a4d8-542a718f5542,Paula,Taylor,Paula Taylor,,Nashvi,2023-01-04,314.33,2025-04-07,2.0,0.0,0.0,True,40.0,1
+ashley.stanley82@yahoo.com,ce75dec4-a20d-47a6-8ef1-9ebf2855935d,,,,,,,0.0,,0.0,582.0,2.0,False,,0
+rwood@yahoo.com,55f58583-4f05-4c3d-94f3-2fdf0c188b1f,Richard,Wood,Richard Wood,,Washington,2023-07-07,25.33,2023-10-28,1.0,1213.0,3.0,False,567.0,2
+caitlynlam@example.com,17f98390-1521-4197-964b-914416abda49,Randall,Carter,Randall Carter,,Raleigh,2023-02-09,0.0,,0.0,0.0,0.0,False,,0
+jennifer.md94@yahoo.com,338f815b-be2e-4306-b3b1-1bdac1b758d9,,,,,,,0.0,,0.0,1071.0,2.0,False,,2
+mrandolph@yahoo.com,f38ab7eb-2fae-4f1f-a8c4-8018fe245a38,Matthew,Randolph,Matthew Randolph,,Baltimore,2024-10-26,280.03,2024-01-23,1.0,0.0,0.0,True,480.0,0
+jeremy.johnson@gmail.com,19f4477d-b3ca-46a8-8354-4e2e6b2fc40a,Jeremy,Johnson,Jeremy Johnson,+12532446728,Portland,2024-01-17,107.04,2025-03-16,1.0,0.0,0.0,True,62.0,0
+shane_washington23@gmail.com,9687e50a-e146-4f1f-b29b-e57e68f562a4,Shane,Washington,Shane Washington,+17572859867,Dallas,2025-03-24,365.93,2025-05-09,1.0,0.0,0.0,True,8.0,0
+amy.west@yahoo.com,5431bb62-981a-4a20-a48b-85846072238b,Amy,West,Amy West,,Oakland,2022-11-26,81.81,2024-09-16,1.0,0.0,0.0,False,243.0,0
+larry.snyder@gmail.com,00485905-a7c2-47f7-94eb-f2ebb11d98f0,Larry,Snyder,Larry Snyder,+12192184691,Sacramento,2024-05-14,105.88,2023-08-22,2.0,0.0,0.0,True,634.0,0
+richardmark@example.net,8ab3db7c-0290-4d88-9678-05fce61f5acc,Jamie,Washington,Jamie Washington,+18325956360,Minneapolis,2023-11-17,0.0,,0.0,0.0,0.0,False,,0
+deanna@jacobson.com,961f82cf-ac00-45c3-be41-126310d2d1c2,Deanna,Roach,Deanna Roach,,Philadelphia,2024-04-05,196.81,2024-01-06,1.0,0.0,0.0,True,497.0,0
+melissa.gomez@yahoo.com,f7119cf9-733d-4241-b420-3d06aaa7e118,Melissa,Gomez,Melissa Gomez,,,2022-09-15,0.0,,0.0,0.0,0.0,False,,0
+troy.ford7@gmail.com,830f9c83-0581-47df-a4f9-7d75e6067e12,,,,,,,22.09,2025-04-23,1.0,0.0,0.0,False,24.0,0
+robert_johnson@hotmail.com,3725078e-2c63-44f9-a901-e1cf45553586,Robert,Johnson,Robert Johnson,+19094971795,Portland,2024-08-15,260.82,2024-08-11,3.0,2740.0,8.0,True,279.0,2
+smay@yahoo.com,c0e672a4-7089-465e-9b65-dd40088302d0,Sarah,May,Sarah May,,Chicago,2024-01-15,0.0,,0.0,0.0,0.0,False,,0
+cynthia.schwartz@hotmail.com,f5ce409c-2c9f-4c09-a51e-6273b27a874e,Cynthia,Schwartz,Cynthia Schwartz,,Detroit,2023-02-19,280.08,2025-05-02,2.0,453.0,1.0,True,15.0,1
+andrew.castillo82@yahoo.com,f73229f5-7027-4488-9634-e2fa5e8b0dff,,,,,,,755.02,2023-11-27,1.0,475.0,2.0,True,537.0,1
+jeffrey.tapia51@hotmail.com,11d677a0-0a51-4200-83e4-367f6ad459ef,,,,,,,90.64,2025-01-23,1.0,0.0,0.0,False,114.0,0
+jon.powell@yahoo.com,f50f11a1-120b-4855-b567-11e45b6ad4e8,Jon,Powell,Jon Powell,,Detroit,2023-08-17,109.09,2025-05-02,1.0,0.0,0.0,True,15.0,0
+dana.garcia@gmail.com,0b362761-6306-4b41-9c22-3b51bfa17abc,Dana,Garcia,Dana Garcia,+12895448930,Mesa,2024-10-17,192.55,2025-02-11,2.0,0.0,0.0,True,95.0,0
+james.russell@hotmail.com,8f61218e-e258-46e6-91cb-072999ce0ecd,James,Russell,James Russell,,Seattle,2022-10-23,434.62,2025-02-27,4.0,431.0,1.0,True,79.0,1
+juan.crawford88@yahoo.com,61551ecb-dc2b-4898-b637-797b648026be,,,,,,,33.24,2023-07-31,1.0,989.0,3.0,False,656.0,2
+makaylasantiago@example.org,11d13170-ba6c-4245-8eb0-67b4bf0e3cd8,William,Spencer,William Spencer,,Tampa,2023-09-27,0.0,,0.0,2123.0,6.0,False,,2
+mr..mathis88@yahoo.com,16d39911-763f-43fb-9809-1869b65a6e07,,,,,,,822.23,2023-08-06,1.0,278.0,1.0,True,650.0,1
+phillip@ray.com,218b895f-723e-45bf-94a8-36d747598ec5,Phillip,Oneill,Phillip Oneill,+13062996071,Fort Worth,2024-07-05,574.64,2025-03-26,1.0,905.0,2.0,True,52.0,0
+phillip@ray.com,218b895f-723e-45bf-94a8-36d747598ec5,Abigail,Mcclure,Abigail Mcclure,,Sacramento,2024-11-07,574.64,2025-03-26,1.0,905.0,2.0,True,52.0,0
+brenda.medina@gmail.com,53d2d4db-485c-4cb8-8158-ee303e0b3ca7,Brenda,Medina,Brenda Medina,+14479365180,Philadelphia,2024-02-10,0.0,,0.0,0.0,0.0,False,,0
+jacqueline_daniel@gmail.com,c9c723c2-1c57-4a36-a617-7a63f4509b48,Jacqueline,Daniel,Jacqueline Daniel,,Indianapolis,2023-01-27,273.05,2024-06-18,2.0,0.0,0.0,True,333.0,1
+dgreen@gmail.com,965a1663-d4c0-4ca6-9489-d57aacc92357,Debra,Green,Debra Green,+16226183130,Miami,2023-12-07,1411.48,2023-11-25,2.0,0.0,0.0,True,539.0,1
+karen.clements70@hotmail.com,1903e481-7a0c-447f-b937-5ec1c58b35a1,,,,,,,468.43,2024-12-24,1.0,0.0,0.0,True,144.0,0
+kelly@chen.org,cea32c42-665d-43fb-b542-c736b2248fb8,Kelly,Liu,Kelly Liu,+15669108240,Long Beach,2025-03-22,0.0,,0.0,0.0,0.0,False,,0
+owenscolleen@example.org,dd5f90f5-e4b0-44f4-81ae-52fbd85f9943,Danielle,Washington,Danielle Washington,+15855128867,Arlington,2023-12-26,323.57000000000005,2024-12-19,2.0,0.0,0.0,True,149.0,1
+mark.parks32@gmail.com,115bcc12-2fcb-428e-83cb-d13443efce56,,,,,,,74.29,2025-03-24,1.0,0.0,0.0,False,54.0,0
+anthony.santos@hotmail.com,317e56d0-6ff8-4a23-817a-b532e732ebb8,Anthony,Santos,Anthony Santos,+14129734547,Fort Worth,2024-08-03,0.0,,0.0,0.0,0.0,False,,0
+benjamin@wood.com,69219641-6e8a-4940-aa3d-3244d4d55878,Benjamin,Hamilton,Benjamin Hamilton,,Indianapolis,2025-01-15,1840.72,2024-11-20,2.0,0.0,0.0,True,178.0,1
+alexandra.gonzalez@hotmail.com,ea57826b-381e-4375-a308-1df37dba81ce,Alexandra,Gonzalez,Alexandra Gonzalez,,Omaha,2024-04-09,816.13,2024-11-07,1.0,262.0,1.0,True,191.0,1
+alexandra.gonzalez@hotmail.com,ea57826b-381e-4375-a308-1df37dba81ce,J.,Pruitt,J. Pruitt,+15404609784,Arlington,2022-09-29,816.13,2024-11-07,1.0,262.0,1.0,True,191.0,1
+jeanswanson@example.com,cb58e3ba-8754-4fda-b3df-2450c442322b,Thomas,Diaz,Thomas Diaz,,Los Angeles,2025-01-03,0.0,,0.0,933.0,4.0,False,,2
+jessica.anderson43@yahoo.com,4dc2c1ec-0b7d-4d67-a674-9c216ee63147,,,,,,,81.96,2023-05-22,1.0,0.0,0.0,False,726.0,0
+raymond.mckinney@yahoo.com,a329caf7-56fb-4e71-a2ed-b11dbc574030,Raymond,Mckinney,Raymond Mckinney,,Denver,2024-11-22,38.76,2023-08-04,1.0,0.0,0.0,False,652.0,0
+sean@irwin.info,9a70637b-e619-47da-a582-c6076b6e46e1,Sean,Nguyen,Sean Nguyen,,Atlanta,2024-03-20,0.0,,0.0,0.0,0.0,False,,0
+hector_green@yahoo.com,c568047b-042d-442f-9593-18008dd4a78d,Hector,Green,Hector Green,,San Diego,2023-09-30,105.86,2023-10-30,1.0,0.0,0.0,True,565.0,0
+patricia@kelly-landry.com,3468ac88-38a5-4ca1-a99e-8d5598f31cc3,Patricia,Chavez,Patricia Chavez,,Charlotte,2023-06-23,452.65,2024-04-15,1.0,0.0,0.0,True,397.0,0
+ballkimberly@example.org,ce32a463-80df-4162-bcad-a1364a353883,Carol,Lowe,Carol Lowe,,Kansas City,2022-05-26,557.56,2025-05-15,1.0,0.0,0.0,True,2.0,0
+rachel.rhodes@hotmail.com,9638d4b2-470e-4a2e-a1ff-46b580a031e9,Rachel,Rhodes,Rachel Rhodes,,Washington,2022-12-03,0.0,,0.0,1499.0,4.0,False,,2
+wthompson@gmail.com,bcb75405-20fd-46ab-9af1-c64e938ab978,Whitney,Thompson,Whitney Thompson,,Columbus,2023-11-07,0.0,,0.0,851.0,2.0,False,,2
+montoyacharles@example.net,ae6d1452-0b4d-4e83-b273-6d0a71c1b6c1,John,French,John French,,Charlotte,2024-08-18,343.71,2024-02-27,1.0,3035.0,8.0,True,445.0,2
+john.moore@hotmail.com,e4ead7ee-b62a-4afa-86d9-3bdae39e01a5,John,Moore,John Moore,,,2024-11-16,0.0,,0.0,627.0,2.0,False,,0
+soliver@hotmail.com,ba8ac6da-9f0c-427c-a620-4998c4c63ea7,Spencer,Oliver,Spencer Oliver,,El Paso,2024-11-03,472.54,2024-07-22,2.0,0.0,0.0,True,299.0,1
+claire@sharp.net,f18ab431-8efc-4e88-aeb8-641b109df240,Claire,Carney,Claire Carney,+16417368813,Baltimore,2023-02-17,850.14,2025-03-27,2.0,0.0,0.0,True,51.0,1
+eric.pace93@hotmail.com,272a16d2-5ebd-4ed1-97f9-3cf497b03f2a,,,,,,,127.45,2024-08-20,1.0,0.0,0.0,True,270.0,0
+jay_murphy16@gmail.com,c66464e1-5e93-4803-bf4b-8304194bda84,Jay,Murphy,Jay Murphy,,Tucson,2023-07-10,362.84000000000003,2025-04-11,2.0,0.0,0.0,True,36.0,1
+william@rollins.net,6b446faa-27bf-4c31-b947-01fa9d15a55a,William,Baker,William Baker,,Atlanta,2024-08-29,0.0,,0.0,0.0,0.0,False,,0
+karen.md@yahoo.com,ebceb653-b24b-450b-aefc-de359ae82f44,Karen,Richardson,Karen Richardson Md,,Mesa,2023-01-12,642.76,2023-06-13,1.0,0.0,0.0,True,704.0,0
+erica04@example.org,90267362-1265-4179-a0bd-149dc9ffd3c4,Eric,Contreras,Eric Contreras,,Tulsa,2023-07-08,174.27,2024-08-28,2.0,0.0,0.0,True,262.0,0
+william.bailey4@hotmail.com,7987e71e-ad30-44f7-839e-7c634b5b9ae0,,,,,,,131.57,2024-02-13,1.0,0.0,0.0,True,459.0,0
+tiffany_gomez26@hotmail.com,ae5698cb-9c5d-4921-b0d8-d686de0af403,Tiffany,Gomez,Tiffany Gomez,,Indianapolis,2024-06-25,0.0,,0.0,0.0,0.0,False,,0
+brandon_gordon@yahoo.com,f8dedb6a-0733-4b0f-8843-cfd8ea2e3ef9,Brandon,Gordon,Brandon Gordon,,Boston,2025-02-16,0.0,,0.0,0.0,0.0,False,,0
+angela@potter.com,7a227160-72f3-45ef-89ab-364b694ff829,Angela,Young,Angela Young,+17872015934,Dallas,2024-11-06,0.0,,0.0,0.0,0.0,False,,0
+jennifer.ortiz@hotmail.com,1c2f57dc-c1ce-4bb5-a259-04e162ae70f0,Jennifer,Ortiz,Jennifer Ortiz,,Dallas,2022-06-05,0.0,,0.0,0.0,0.0,False,,0
+joshua@walter.com,fc178fdc-744f-4660-bcd8-35c2e6e8fa0d,Joshua,Martin,Joshua Martin,,Lake Cynthia,2023-10-27,581.06,2025-05-12,2.0,0.0,0.0,True,5.0,1
+jose.rodriguez@hotmail.com,4fdf6a1e-3f45-479e-87d2-a776e519633c,Jose,Rodriguez,Jose Rodriguez,,Omaha,2025-02-17,172.84,2024-12-09,1.0,0.0,0.0,True,159.0,0
+justin.phd59@yahoo.com,e646eb95-b45c-4b88-aa5b-61f78151a5d0,,,,,,,50.19,2023-06-19,1.0,0.0,0.0,False,698.0,0
+robert_weaver@hotmail.com,275ce8d7-4201-47ae-b0bb-3993fe279bd5,Robert,Weaver,Robert Weaver,,Milwaukee,2022-12-10,0.0,,0.0,0.0,0.0,False,,0
+petersonveronica@example.org,e7f1a86b-d996-43ff-a7f4-072e30ff12ff,Richard,Newton,Richard Newton,+17429428763,Albuquerque,2023-07-25,0.0,,0.0,0.0,0.0,False,,0
+phyllis.kim85@yahoo.com,07972b6a-a9ff-42f5-8a26-9262de6668ac,,,,,,,0.0,,0.0,157.0,1.0,False,,0
+crystal.hutchinson@gmail.com,c423f610-f9ab-4122-8a57-3ae9ad421c9e,Crystal,Hutchinson,Crystal Hutchinson,,Jacksonville,2024-05-13,0.0,,0.0,0.0,0.0,False,,0
+sarah_miller@gmail.com,f2d9e077-50d9-4e9f-bf8c-ebd9aae305cb,Sarah,Miller,Sarah Miller,+19798375219,Tampa,2022-10-08,595.2,2024-06-15,1.0,0.0,0.0,True,336.0,0
+lori@lee.org,d8309739-7d64-42e3-9700-031b197bc1ef,Lori,Hodges,Lori Hodges,,Milwaukee,2022-12-13,857.42,2023-11-20,1.0,0.0,0.0,True,544.0,1
+kathryn@ramirez.com,55c60501-39bf-4623-bd5f-7977735ae150,Kathryn,Young,Kathryn Young,,Phoenix,2022-09-16,149.48000000000002,2024-08-23,2.0,0.0,0.0,True,267.0,0
+jchase@yahoo.com,ba78e400-0fbd-4b87-b84a-f220c16e62cc,Jennifer,Chase,Jennifer Chase,+14588249564,KY,2024-09-22,0.0,,0.0,0.0,0.0,False,,0
+colleen.mullins9@yahoo.com,b217b3f5-e4a8-4ba1-8644-0caeade6c033,,,,,,,88.11,2023-08-16,1.0,0.0,0.0,False,640.0,0
+katie.chen64@yahoo.com,2784cf61-bf3e-47ec-a232-abf3a1992767,,,,,,,105.93,2024-11-06,1.0,0.0,0.0,True,192.0,0
+jsmith@yahoo.com,07036fc0-0f50-408d-8a77-e05d7abc663c,Jamie,Smith,Jamie Smith,+19395184047,Oakland,2023-11-07,0.0,,0.0,0.0,0.0,False,,0
+vanessa.williams25@yahoo.com,289b2e00-8175-4e44-a88f-778625cace27,,,,,,,2358.41,2023-06-29,1.0,0.0,0.0,True,688.0,1
+veronica.ortega@gmail.com,2a2fb6a7-57c9-416d-8465-62e1261cd8d8,Veronica,Ortega,Veronica Ortega,+13152158586,Sacramento,2023-11-14,1913.3300000000002,2025-01-02,3.0,0.0,0.0,True,135.0,1
+paul.acosta@hotmail.com,f37b08c4-48b8-4059-9766-dd389651fe03,Paul,Acosta,Paul Acosta,,Fort Worth,2024-03-22,439.78000000000003,2024-05-29,2.0,0.0,0.0,True,353.0,1
+jason_carney@hotmail.com,ffb58390-828a-4216-938d-8dc3e0a7267e,Jason,Carney,Jason Carney,+14698922078,,2024-10-11,0.0,,0.0,0.0,0.0,False,,0
+meverett@yahoo.com,d3f55f2c-a3d0-4d82-b4f4-0994dcbe3966,Michael,Everett,Michael Everett,+19092694009,Washington,2024-08-13,149.64,2024-04-09,2.0,0.0,0.0,True,403.0,0
+rebecca@scott.com,0a050418-5298-44d6-a3f9-bfb29a9451fc,Rebecca,Foster,Rebecca Foster,+16419579570,San Francisco,2024-12-06,44.29,2024-09-28,1.0,0.0,0.0,False,231.0,0
+sherry.campbell@gmail.com,97bf9dcc-f4b3-4e59-8743-9306bf84cb33,Sherry,Campbell,Sherry Campbell,+15288499754,Louisville,2024-08-26,0.0,,0.0,1522.0,5.0,False,,2
+scott.wilcox33@hotmail.com,3d1d33e4-7c9c-45fd-94f2-20d6028fc9d5,,,,,,,1593.11,2024-10-19,1.0,0.0,0.0,True,210.0,1
+jeremy.foster@gmail.com,ba53bc2e-5193-4ceb-b35e-f2f8fbb82173,Jeremy,Foster,Jeremy Foster,,Charlotte,2023-02-12,162.81,2025-04-22,1.0,434.0,1.0,True,25.0,0
+karensantiago@example.net,fcc74e67-5669-4a49-90a5-58d121b6b3b2,Christopher,Vaughn,Christopher Vaughn,+16619222525,Mesa,2022-09-24,70.02,2024-06-10,1.0,0.0,0.0,False,341.0,0
+preston_miller18@hotmail.com,1439a240-ca49-42b1-b7ec-eb2d636e44d2,Preston,Miller,Preston Miller,+19727059881,Boston,2023-05-01,327.36,2023-09-09,1.0,0.0,0.0,True,616.0,0
+brenda@miller.com,fb6dbbc4-da95-4045-afa8-67ef1b9f1ede,Brenda,Morton,Brenda Morton,,Washington,2023-06-15,84.07,2023-06-06,1.0,0.0,0.0,False,711.0,0
+lauren.jackson@gmail.com,0cb6cdf6-d53f-4b78-8f05-19ef07a9931e,Lauren,Jackson,Lauren Jackson,,,2024-07-18,0.0,,0.0,0.0,0.0,False,,0
+jennifer.harmon60@gmail.com,c46f6a20-abbc-4fcb-966d-cc206ecfab0b,,,,,,,336.1,2024-04-27,1.0,0.0,0.0,True,385.0,0
+mary.smith@hotmail.com,3660be6c-e5b3-4978-9148-9c99d76d2b0a,Mary,Smith,Mary Smith,+17316105773,Oklahoma City,2023-05-24,0.0,,0.0,0.0,0.0,False,,0
+ashley_king@hotmail.com,a733a62e-9a0f-4e3a-80cd-8d174e4a4ba0,Ashley,King,Ashley King,,Brownberg,2023-08-28,220.73,2023-11-13,1.0,0.0,0.0,True,551.0,0
+matthew52@example.org,fd6bb01c-bda7-42ed-be99-d7f86cdb8176,Deborah,Cummings,Deborah Cummings Md,,Memphis,2023-09-07,0.0,,0.0,991.0,4.0,False,,2
+katrina82@example.net,134182ae-c877-463b-989c-f1a0bc638595,Juan,Gomez,Juan Gomez,+17249498032,Detroit,2023-06-28,393.87,2025-04-09,1.0,0.0,0.0,True,38.0,0
+steven.watson@gmail.com,46888448-fa4c-41c6-9af7-dbd12e5246a5,Steven,Watson,Steven Watson,+16162623111,Boston,2023-03-18,0.0,,0.0,0.0,0.0,False,,0
+shelley_hart50@gmail.com,19ef2e4e-babc-4eaa-9678-704b93bf794a,Shelley,Hart,Shelley Hart,,New York,2023-07-05,122.97,2024-02-08,2.0,0.0,0.0,True,464.0,0
+deborah_hughes@gmail.com,28bd7e7f-eaf0-407d-943c-64f34ccab3c0,Deborah,Hughes,Deborah Hughes,,Tucson,2023-10-27,0.0,,0.0,0.0,0.0,False,,0
+amanda_medina@hotmail.com,348ebbb0-1757-45a6-8e55-4622badd3b26,Amanda,Medina,Amanda Medina,,Memphis,2024-03-12,2272.0,2024-03-14,1.0,0.0,0.0,True,429.0,1
+ssimon@gmail.com,e6f5d794-a81c-4acd-822e-7477124a7e3a,Stephen,Simon,Stephen Simon,+16625923660,Atlanta,2025-03-29,358.57,2025-05-09,1.0,0.0,0.0,True,8.0,0
+kevin.moran@hotmail.com,6bdae3c6-b20f-4bed-8bf9-8c9bc3820669,Kevin,Moran,Kevin Moran,,Tulsa,2025-01-08,0.0,,0.0,0.0,0.0,False,,0
+ashley.williams78@gmail.com,2e91b1da-17ed-44fb-82c0-2d0154e948c0,,,,,,,72.97,2023-10-24,1.0,0.0,0.0,False,571.0,0
+brandon.stevenson@gmail.com,70fab192-fad4-4633-9c18-cbf701e1c4f7,Brandon,Stevenson,Brandon Stevenson,+18107152149,Fort Worth,2023-01-27,799.4000000000001,2024-07-14,4.0,0.0,0.0,True,307.0,1
+jwatson@hotmail.com,a9d514d8-8545-4d51-a35c-30bdee19da79,James,Watson,James Watson,,Colorado Springs,2022-09-08,0.0,,0.0,0.0,0.0,False,,0
+jasonmills@example.com,6b963727-dd8c-45dd-b61f-454eae894bf0,Brandon,Miller,Brandon Miller,,Nashv,2022-08-17,281.29,2024-09-25,2.0,670.0,2.0,True,234.0,1
+zachary@parker-reed.com,d2575449-02f2-48aa-9042-69965050c0fd,Zachary,Carrillo,Zachary Carrillo Iii,+13305385809,Tampa,2024-04-15,133.5,2023-07-04,1.0,0.0,0.0,True,683.0,0
+dr..gentry53@gmail.com,23cbe252-0255-4357-b964-c87d177d5c37,,,,,,,233.48,2024-03-17,1.0,0.0,0.0,True,426.0,0
+david.humphrey@yahoo.com,8e00aa1d-bd3d-420f-8c18-f563cef95103,David,Humphrey,David Humphrey,,Fort Worth,2022-12-06,0.0,,0.0,0.0,0.0,False,,0
+ryan@green.com,d80293b3-6f02-48f0-ac7b-c685d2f1b385,Ryan,Ramirez,Ryan Ramirez,+12635565365,San Diego,2022-08-08,420.98,2023-12-29,1.0,0.0,0.0,True,505.0,0
+linda.davila@gmail.com,4845ab92-83d0-4634-a720-61a63ce2018f,Linda,Davila,Linda Davila,,Atlanta,2023-07-23,0.0,,0.0,0.0,0.0,False,,0
+kimberly.marquez@gmail.com,f11163c3-b227-4626-b775-ae1065f44e41,Kimberly,Marquez,Kimberly Marquez,,Philadelphia,2022-12-25,0.0,,0.0,0.0,0.0,False,,0
+john@reyes.com,084fe08b-c2ad-4e26-92de-8a6ac53837d3,John,Jones,John Jones,,Ortizmouth,2024-08-17,751.24,2024-01-13,1.0,0.0,0.0,True,490.0,1
+samantha_delgado@hotmail.com,3d881f38-ee4c-4829-a900-ec6326af4b15,Samantha,Delgado,Samantha Delgado,+16817348830,Los Angeles,2024-01-04,0.0,,0.0,2851.0,8.0,False,,2
+lisa.davis@gmail.com,34e4768d-1517-4130-af51-3fa58380c2ed,Lisa,Davis,Lisa Davis,,Phoenix,2025-05-09,0.0,,0.0,466.0,3.0,False,,0
+bjackson@example.net,287dbe8e-a9ae-46d1-bb7a-b8f19da9b953,Gregory,Costa,Gregory Costa,+12363878412,Denver,2022-11-25,0.0,,0.0,0.0,0.0,False,,0
+kathleen@williams-lucero.com,624ddb00-55af-4a0f-8c50-dcdd92dfbd0d,Kathleen,Stevens,Kathleen Stevens,+13067717266,New York,2023-06-08,19.04,2024-11-30,1.0,316.0,2.0,False,168.0,0
+leslie_mendoza@gmail.com,6b89cfab-7c3d-4099-8b2a-280f766588c4,Leslie,Mendoza,Leslie Mendoza,+18192722342,Long Beach,2023-08-06,0.0,,0.0,0.0,0.0,False,,0
+nicholas.baker@gmail.com,a60901e0-fc79-4291-a60f-9cfe88a747a6,Nicholas,Baker,Nicholas Baker,+14692427562,Mesa,2024-04-09,131.74,2024-07-04,1.0,0.0,0.0,True,317.0,0
+eric.moreno@yahoo.com,82ceea3c-ef3f-4418-a370-c474cc5ef15b,Eric,Moreno,Eric Moreno,,Austin,2023-01-04,269.35,2023-09-04,1.0,0.0,0.0,True,621.0,0
+melissa.allen@gmail.com,82df20e5-b130-408f-926c-3431700fc65e,Melissa,Allen,Melissa Allen,+16579328217,Omaha,2023-04-21,59.46,2024-05-30,1.0,0.0,0.0,False,352.0,0
+kyleboyd@example.net,0e92e1de-d44d-4825-b5a9-3856ceafa762,Michael,Lam,Michael Lam Md,,PR,2023-09-01,0.0,,0.0,0.0,0.0,False,,0
+ryan.morrow55@hotmail.com,ccd1e2e7-8f6f-4514-a48a-c45a1552b49a,,,,,,,0.0,,0.0,1404.0,3.0,False,,2
+speters@yahoo.com,40c8a5e0-2c81-4c3f-b3a9-bca37034d682,Sharon,Peters,Sharon Peters,+15718076424,Tulsa,2022-06-03,16.68,2023-11-12,1.0,0.0,0.0,False,552.0,0
+krista.myers51@gmail.com,6f23230c-4961-4336-9717-219c95b3d89f,,,,,,,137.45,2023-09-11,1.0,0.0,0.0,True,614.0,0
+gary.watson48@gmail.com,923ee44a-55e8-4551-8488-7bc71f0301c7,,,,,,,68.81,2025-04-06,1.0,0.0,0.0,False,41.0,0
+mary.rice96@gmail.com,5e9d695a-5a12-4326-a6f8-07840e15e96a,,,,,,,2120.17,2024-09-18,1.0,0.0,0.0,True,241.0,1
+jonathan.perkins26@gmail.com,c70fb14c-72b8-4f9e-afa8-5762d9ec572d,,,,,,,59.7,2025-05-07,1.0,0.0,0.0,False,10.0,0
+edward.cox@hotmail.com,d21e941a-5947-45bc-93ec-4d96864dbe32,Edward,Cox,Edward Cox,,Columbus,2025-04-04,689.8399999999999,2025-02-06,2.0,1152.0,3.0,True,100.0,1
+rfaulkner@yahoo.com,2b7a1634-6400-4751-bbed-2ee375156c03,Rachel,Faulkner,Rachel Faulkner,,Oklahoma City,2024-10-28,0.0,,0.0,0.0,0.0,False,,0
+stephanie@barnes.com,e7e75be0-6b34-445e-b765-2120815e7391,Stephanie,Lopez,Stephanie Lopez Phd,,Milwaukee,2023-05-27,0.0,,0.0,803.0,3.0,False,,0
+william.spence@gmail.com,72eb1efe-9448-407f-b134-5ec7f972eb9e,William,Spence,William Spence,+17707023247,SC,2024-12-31,0.0,,0.0,0.0,0.0,False,,0
+james@smith.com,2637b2dd-7df1-43aa-998e-d85c4e9c2a8f,James,Coleman,James Coleman,,Louisville,2022-12-28,0.0,,0.0,742.0,2.0,False,,0
+brian.johnson@hotmail.com,55aecf2b-58dd-4b52-9921-c0f8e9f78d97,Brian,Johnson,Brian Johnson,,San Jose,2025-03-03,0.0,,0.0,2965.0,8.0,False,,2
+claudia.jones@hotmail.com,6441072c-a78b-4461-a0eb-9186b81acc43,Claudia,Jones,Claudia Jones,+17303247277,,2023-01-12,0.0,,0.0,0.0,0.0,False,,0
+ethan.little@hotmail.com,447bfc2b-38fa-4e8a-a189-95cbe6112b65,Ethan,Little,Ethan Little,+15205644858,Fresno,2023-06-12,0.0,,0.0,0.0,0.0,False,,0
+jessica.carr54@gmail.com,639ac882-5461-42f7-8fec-2bcec0c220f9,,,,,,,118.19,2025-02-25,1.0,0.0,0.0,True,81.0,0
+cody.little22@gmail.com,97dc32ee-a009-4319-91e2-9459fb7c8854,,,,,,,21.01,2024-09-13,1.0,2673.0,6.0,False,246.0,2
+susan.griffin53@gmail.com,043e864a-910b-48c0-a0af-f8c7c4d3f4e2,,,,,,,27.57,2025-05-11,1.0,1556.0,4.0,False,6.0,2
+mr..jr.84@yahoo.com,f74eb3d7-7460-4efc-8357-a72010c0e79a,,,,,,,0.0,,0.0,943.0,1.0,False,,2
+david@tucker-williams.com,68f1a5ce-d8d6-47ef-8973-a99490e16bb6,David,Padilla,David Padilla,+12247187747,Chicago,2022-12-19,0.0,,0.0,0.0,0.0,False,,0
+jane.howard@hotmail.com,0f2bd84d-b464-42bf-b1d5-8acf4b2ce187,Jane,Howard,Jane Howard,+17404549551,Jacksonville,2023-12-24,0.0,,0.0,0.0,0.0,False,,0
+qmoore@example.net,562c5090-8a25-4222-a04e-2f3e41400297,Joshua,Obrien,Joshua Obrien,+18089637689,Fresno,2023-12-05,0.0,,0.0,742.0,2.0,False,,0
+steven.tucker16@gmail.com,9cc0bc12-220d-457b-80ad-99a1dd82efd8,,,,,,,175.93,2024-11-06,1.0,0.0,0.0,True,192.0,0
+susan94@example.com,6e79c0c4-1a07-43b1-9940-77630c0179ce,Michael,Morris,Michael Morris,+18217239540,South Kellychester,2025-03-01,0.0,,0.0,707.0,2.0,False,,0
+lauren_newton@hotmail.com,a1dfc61a-ac7c-4826-ba9c-3bff381b94b0,Lauren,Newton,Lauren Newton,+16675699688,Washington,2022-08-19,1381.74,2024-09-02,3.0,0.0,0.0,True,257.0,1
+nicolejackson@example.net,ebcf8e05-8cbe-4482-8d0b-44f882e6ff86,Joan,Brown,Joan Brown,,Oklahoma City,2024-06-06,0.0,,0.0,0.0,0.0,False,,0
+randy.morris31@hotmail.com,16aec97b-efc2-4e4d-ac68-67df2923bcc9,,,,,,,190.36,2023-05-29,1.0,0.0,0.0,True,719.0,0
+rebecca.oconnor93@yahoo.com,17e9c8a7-c674-4e5f-bdca-9b7d9cbf0e17,,,,,,,0.0,,0.0,1509.0,4.0,False,,2
+hannah.brown@hotmail.com,7a5cfacc-7866-48fb-8ac9-9d7ccffc9706,Hannah,Brown,Hannah Brown,,Colorado Springs,2023-10-24,1351.56,2024-11-12,1.0,0.0,0.0,True,186.0,1
+hannah.brown@hotmail.com,7a5cfacc-7866-48fb-8ac9-9d7ccffc9706,Johngy,Smith,Johngy Smith,,San Diego,2023-01-30,1351.56,2024-11-12,1.0,0.0,0.0,True,186.0,1
+jessica.watkins@yahoo.com,1924f341-e879-4491-8087-2595afe29de2,Jessica,Watkins,Jessica Watkins,,Las Vegas,2023-03-04,18.81,2024-05-16,1.0,0.0,0.0,False,366.0,0
+katrina.mullins16@yahoo.com,517ef60f-baac-474e-9ef3-9c485a36ad53,,,,,,,45.58,2025-03-30,1.0,0.0,0.0,False,48.0,0
+crystal_ryan15@hotmail.com,10bad384-285b-4d85-bdae-f5b1c27849f0,Crystal,Ryan,Crystal Ryan,,Milwaukee,2022-10-18,94.25,2024-08-09,1.0,0.0,0.0,False,281.0,0
+carl.santos@gmail.com,8fa90a4a-24d0-4087-a32f-df3ed9b3bbfa,Carl,Santos,Carl Santos,+18509275462,Colorado Springs,2023-09-11,0.0,,0.0,0.0,0.0,False,,0
+taylor.cain46@yahoo.com,06c011c6-d18d-42f9-90a7-40fe608de44f,,,,,,,608.01,2024-09-23,1.0,0.0,0.0,True,236.0,0
+angelasmith@example.org,1c6b6fcd-9fa4-40d6-9613-0e983ffb7fd7,Andrea,Freeman,Andrea Freeman,,Mesa,2023-06-26,0.0,,0.0,1627.0,2.0,False,,2
+destiny_wyatt11@gmail.com,ce0cec38-4979-489a-9675-293214a3e360,Destiny,Wyatt,Destiny Wyatt,,Nashville,2024-11-29,117.82,2024-08-21,1.0,0.0,0.0,True,269.0,0
+amoore@gmail.com,48498b55-1f96-4f72-9682-114cd3cce904,Alexandria,Moore,Alexandria Moore,,Portland,2022-12-07,51.59,2023-11-16,1.0,0.0,0.0,False,548.0,0
+dgonzalez@yahoo.com,585b15c1-468d-4d91-b555-d41b6cf218c5,Diane,Gonzalez,Diane Gonzalez,+15744676619,Austin,2022-08-21,0.0,,0.0,0.0,0.0,False,,0
+jthomas@gmail.com,f614366e-4a95-4b1b-abb4-61eea265367d,Jennifer,Thomas,Jennifer Thomas,+18572269473,Mesa,2022-09-04,327.06,2024-05-23,1.0,0.0,0.0,True,359.0,0
+krista.vaughan@gmail.com,ad23dc26-49fd-4ea3-aa25-df87cb2d6377,Krista,Vaughan,Krista Vaughan,+13082491126,Houston,2023-10-02,0.0,,0.0,0.0,0.0,False,,0
+christopher.king@hotmail.com,0cae8802-d3de-4d00-8be1-e4609a93af9a,Christopher,King,Christopher King,,Portland,2022-06-16,0.0,,0.0,1526.0,6.0,False,,2
+kenneth.cook58@hotmail.com,1efde72c-e9cb-468d-87d6-f9fe1dbd8a4a,,,,,,,183.15,2023-05-19,1.0,0.0,0.0,True,729.0,0
+robert.warner8@hotmail.com,93bad04c-2d46-4b52-88aa-2981d05fff0a,,,,,,,358.68,2024-08-17,1.0,0.0,0.0,True,273.0,0
+cfigueroa@yahoo.com,567e4d2c-76cd-49d5-944f-aa2ce4812ec3,Crystal,Figueroa,Crystal Figueroa,,Detroit,2025-01-13,49.37,2024-11-14,1.0,0.0,0.0,False,184.0,0
+katherine.fields@hotmail.com,db7d1326-9ba0-4621-866d-fe5eb72b6896,Katherine,Fields,Katherine Fields,+12285856948,Chicago,2024-01-09,108.37,2023-09-28,1.0,0.0,0.0,True,597.0,0
+ltate@yahoo.com,f0a4a846-8a46-4b6c-a6b3-2a833770cc29,Laura,Tate,Laura Tate,,Nashville,2025-03-27,0.0,,0.0,0.0,0.0,False,,0
+deborah_griffin@yahoo.com,1b9b48c8-785e-493f-962b-c6cc9bcd7b2a,Deborah,Griffin,Deborah Griffin,,Seattle,2023-01-08,490.83000000000004,2025-03-30,2.0,416.0,1.0,True,48.0,1
+joshua.michael@gmail.com,e7528e9c-3288-4774-8052-63718686870f,Joshua,Michael,Joshua Michael,,Charlotte,2022-08-19,0.0,,0.0,0.0,0.0,False,,0
+valerie.ramsey4@gmail.com,53794c16-d3fd-4d20-ad28-cfb4b438ae79,,,,,,,0.0,,0.0,713.0,2.0,False,,0
+wendy@ortiz.com,10ffccb8-4542-4d38-9775-863e85001029,Wendy,Johnson,Wendy Johnson,,Philadelphia,2025-01-31,321.84,2023-08-05,1.0,0.0,0.0,True,651.0,0
+wendy@ortiz.com,10ffccb8-4542-4d38-9775-863e85001029,William,Saunders,William Saunders,+12186146336,Indianapolis,2023-06-28,321.84,2023-08-05,1.0,0.0,0.0,True,651.0,0
+michael.bennett@gmail.com,81c7e32c-bcc4-45d9-8dda-af1e270d8cd8,Michael,Bennett,Michael Bennett,+12165742385,Phoenix,2023-11-11,119.68,2024-01-21,2.0,664.0,1.0,True,482.0,0
+sergio.jackson37@hotmail.com,bbb6bf2c-556d-4caa-a463-1e1aece8b858,,,,,,,58.17,2023-08-30,1.0,0.0,0.0,False,626.0,0
+alexis.graves@hotmail.com,ccf319b9-7ace-46e5-8514-ced73ea2db29,Alexis,Graves,Alexis Graves,,Mesa,2024-03-11,271.76,2024-08-27,1.0,0.0,0.0,True,263.0,0
+jeremy_perez@yahoo.com,2459ec77-41b9-4575-b9a4-c695f71e422d,Jeremy,Perez,Jeremy Perez,,Virginia Beach,2024-08-09,506.34,2024-06-07,1.0,0.0,0.0,True,344.0,0
+stanley@chen.com,0553ce94-fb83-4a26-b429-0da30f982193,Stanley,Beard,Stanley Beard,+14185471097,Austin,2022-12-18,0.0,,0.0,0.0,0.0,False,,0
+dillonyoung@example.net,d87a74f6-582c-449b-825c-c64ffb76d685,Andrew,Kennedy,Andrew Kennedy,,Miami,2022-08-03,0.0,,0.0,0.0,0.0,False,,0
+jamie.harrington34@gmail.com,6c73f0b5-d4c4-4fea-a704-130b75068333,,,,,,,30.77,2023-12-24,1.0,872.0,2.0,False,510.0,0
+kayla.dixon26@hotmail.com,852e194f-f97c-460a-acf8-5f1f0f9fafa9,,,,,,,212.05,2024-07-16,1.0,0.0,0.0,True,305.0,0
+john.thompson41@gmail.com,bf2b6e3f-635e-4beb-b67a-a6dd69755e0e,,,,,,,39.05,2024-03-05,1.0,882.0,2.0,False,438.0,0
+john.murray@gmail.com,028fd056-8e28-4022-a6b9-168c9ca3f30b,John,Murray,John Murray,,Theodorestad,2024-10-03,0.0,,0.0,0.0,0.0,False,,0
+sarah24@example.com,7cbb1b58-f164-481f-8e8b-367dc3e3d384,Johnny,Poole,Johnny Poole,,Colorado Springs,2025-04-19,0.0,,0.0,0.0,0.0,False,,0
+emurphy@hotmail.com,c257c26d-ea0d-479a-82e7-fd3899c6b64e,Erin,Murphy,Erin Murphy,,Louisville,2023-12-02,365.73,2023-09-29,1.0,0.0,0.0,True,596.0,0
+emurphy@hotmail.com,c257c26d-ea0d-479a-82e7-fd3899c6b64e,Paul,Chung,Paul Chung,+19158496185,Nashville,2023-03-13,365.73,2023-09-29,1.0,0.0,0.0,True,596.0,0
+troy@blake.com,efe9e0b1-ff18-4453-ac29-546be3ea32d5,Troy,Marshall,Troy Marshall,+18646440624,Nashville,2023-01-19,0.0,,0.0,951.0,4.0,False,,2
+wcalderon@yahoo.com,b6f9a961-4496-4c1a-8c07-d0b0aaeeefb1,Wayne,Calderon,Wayne Calderon,+15269021320,Sacramento,2022-11-01,0.0,,0.0,0.0,0.0,False,,0
+wcalderon@yahoo.com,b6f9a961-4496-4c1a-8c07-d0b0aaeeefb1,Zachery,Warren,Zachery Warren,+17198091287,Colorado Springs,2023-01-30,0.0,,0.0,0.0,0.0,False,,0
+mschneider@yahoo.com,0fa2780a-9c1c-4b8f-a9e7-b50f29f2607d,Mary,Schneider,Mary Schneider,,Foleyfort,2022-05-20,0.0,,0.0,0.0,0.0,False,,0
+kimberly@molina.com,3a78a963-c351-48a7-9d40-b5e61038bc5c,Kimberly,Robertson,Kimberly Robertson,+12564353731,Philadelphia,2024-03-15,28.89,2025-03-02,1.0,0.0,0.0,False,76.0,0
+sclark@gmail.com,770461c5-9198-4347-a752-d1f2abedd083,Scott,Clark,Scott Clark,,Jacksonville,2022-07-27,0.0,,0.0,0.0,0.0,False,,0
+ballsamantha@example.org,15acd520-d649-4696-b29e-7ef1bcbf1ed1,Tiffany,Heath,Tiffany Heath,+13063643907,Minneapolis,2022-07-29,0.0,,0.0,0.0,0.0,False,,0
+ballsamantha@example.org,15acd520-d649-4696-b29e-7ef1bcbf1ed1,Jason,Fleming,Jason Fleming,,Oakland,2024-11-20,0.0,,0.0,0.0,0.0,False,,0
+laura.fields81@hotmail.com,4a1f81d3-068e-44ec-9fc2-64f01be7c085,,,,,,,243.75,2024-05-15,1.0,1175.0,4.0,True,367.0,2
+erica.parker21@gmail.com,49f814ca-03e4-4a0c-93d5-6addb9461c58,,,,,,,228.94,2025-04-01,1.0,922.0,2.0,True,46.0,2
+dwyatt@yahoo.com,dc038fd3-64b7-41ee-b70e-d9efa7982c60,Deborah,Wyatt,Deborah Wyatt,+12348106925,Las Vegas,2022-06-04,569.9,2024-01-07,1.0,0.0,0.0,True,496.0,0
+allison@middleton.org,763c8765-36f7-43e6-b9ee-60f2c33df558,Allison,Reed,Allison Reed,+12403627559,New Orleans,2025-03-31,0.0,,0.0,0.0,0.0,False,,0
+dennis@clay-meyers.com,e815f1d6-6b37-45c2-845e-5747288405b5,Dennis,Taylor,Dennis Taylor,+13253931692,Boston,2024-09-15,860.5500000000001,2025-04-17,4.0,0.0,0.0,True,30.0,1
+dnorris@example.net,822e5d00-375c-47f9-a812-dc7f489234d1,Norman,Nguyen,Norman Nguyen,,Long Beach,2022-12-08,0.0,,0.0,846.0,3.0,False,,2
+smithkenneth@example.org,65d4b1e0-2b18-461f-b526-fa35c58e7c48,John,Patterson,John Patterson,,New York,2024-08-28,286.59,2024-07-05,1.0,0.0,0.0,True,316.0,0
+christine@kerr-young.biz,5e49cdb5-e9ce-41bb-b21d-f7181a1001bf,Christine,Hill,Christine Hill Md,+19317604122,Colorado Springs,2023-05-21,89.38,2023-11-17,1.0,0.0,0.0,False,547.0,0
+bsmith@gmail.com,9d65a6c7-7721-4fae-9c2c-a07589394db4,Brianna,Smith,Brianna Smith,,Sacramento,2022-06-04,0.0,,0.0,0.0,0.0,False,,0
+bsmith@gmail.com,9d65a6c7-7721-4fae-9c2c-a07589394db4,Megan,Johnson,Megan Johnson,+17377024886,Mesa,2024-12-19,0.0,,0.0,0.0,0.0,False,,0
+ariel.ford@yahoo.com,979a0ef3-4364-47c6-a694-4a82615a0143,Ariel,Ford,Ariel Ford,,Nashville,2024-05-02,145.71,2025-04-25,2.0,0.0,0.0,True,22.0,0
+ronald.jones@yahoo.com,fa898a90-9189-4a1d-8e32-aa1c6598b9fa,Ronald,Jones,Ronald Jones,,Long Beach,2025-04-30,171.15,2024-11-15,1.0,0.0,0.0,True,183.0,0
+thomas_martinez50@gmail.com,26281b77-f763-4e09-bb4a-5f38f93dd62d,Thomas,Martinez,Thomas Martinez,+15637382170,Howardport,2025-01-11,0.0,,0.0,0.0,0.0,False,,0
+nicholas.wood@yahoo.com,d8a9e403-406b-4423-a847-33a339ba2212,Nicholas,Wood,Nicholas Wood,+15725169235,Portland,2024-10-21,0.0,,0.0,681.0,2.0,False,,0
+anna.sanders@gmail.com,7cf5641a-2edd-498b-a01c-996598061330,Anna,Sanders,Anna Sanders,+12629262040,Portland,2023-04-23,0.0,,0.0,0.0,0.0,False,,0
+jatkinson@yahoo.com,bfc390e3-0ea7-4fa6-8ada-a42c3896a1df,Jorge,Atkinson,Jorge Atkinson,+16192575668,San Jose,2023-06-04,136.94,2023-10-16,1.0,0.0,0.0,True,579.0,0
+abigail.ramirez@hotmail.com,4cff4279-32ba-4af5-b02e-15eebe43f3ba,Abigail,Ramirez,Abigail Ramirez,+14167273965,Fresno,2024-02-23,2192.3,2025-03-05,3.0,497.0,1.0,True,73.0,1
+gbrown@gmail.com,4865c8f4-9281-4d69-8877-dc0861bffacb,Gary,Brown,Gary Brown,,,2022-09-19,651.71,2023-11-10,2.0,0.0,0.0,True,554.0,1
+wberry@gmail.com,f1ced0c8-56d3-42cc-8453-4fdb9e28b058,William,Berry,William Berry,,Detroit,2024-03-09,0.0,,0.0,2170.0,5.0,False,,2
+kevin@gallagher-moss.net,dc21a549-f138-4adf-8b23-ac0912805477,Kevin,Maxwell,Kevin Maxwell,,Tampa,2024-09-14,0.0,,0.0,0.0,0.0,False,,0
+patrickschmidt@example.org,654dcbc2-c9e2-45e1-9337-c59d83b1899f,Victoria,Ellis,Victoria Ellis,+18435709026,Sacramento,2022-12-19,0.0,,0.0,0.0,0.0,False,,0
+jlittle@hotmail.com,ee4fa767-ab6c-45dd-a38a-7b7ae3ec29d5,Jeremy,Little,Jeremy Little,+19514848699,Virginia Beach,2024-11-07,46.0,2024-08-13,1.0,776.0,2.0,False,277.0,0
+jlittle@hotmail.com,ee4fa767-ab6c-45dd-a38a-7b7ae3ec29d5,Patriqia,Scott,Patriqia Scott,,Denv,2025-04-02,46.0,2024-08-13,1.0,776.0,2.0,False,277.0,0
+vhanna@example.org,fd03b7cf-25a4-44da-846c-d714ca74d068,Laura,Santiago,Laura Santiago,,Miami,2024-06-30,142.9,2024-10-15,1.0,0.0,0.0,True,214.0,0
+christopher@nunez-cuevas.net,7b66e9c5-1bf0-4827-b4da-3a7fa0bef21c,Christopher,Baker,Christopher Baker,,Charlotte,2024-10-17,0.0,,0.0,0.0,0.0,False,,0
+jacob.rose13@yahoo.com,965adb7a-95d4-4ecf-82fb-c9cedecdc584,,,,,,,27.73,2024-05-22,1.0,473.0,1.0,False,360.0,0
+john_smith5@gmail.com,4227b772-ab46-49d7-aff7-9d704598cfa4,John,Smith,John Smith,,San Antonio,2023-02-27,777.85,2024-10-14,1.0,0.0,0.0,True,215.0,1
+katelyn.cooper93@hotmail.com,9d91e37e-a181-4d74-b5a2-1b88f7ddf804,,,,,,,45.59,2024-07-27,1.0,0.0,0.0,False,294.0,0
+christine@brewer-richards.com,fb56192f-124e-4df5-ab04-7fc4b8939cb4,Christine,Ortiz,Christine Ortiz,,Tulsa,2023-09-13,655.4,2024-10-16,3.0,0.0,0.0,True,213.0,1
+jeremy_cook38@yahoo.com,fae76dfb-fe4e-426f-8fd8-674428350c57,Jeremy,Cook,Jeremy Cook,,Arlington,2025-04-06,171.68,2024-10-14,2.0,0.0,0.0,True,215.0,0
+john.mayer@hotmail.com,d9072031-0829-47f1-bda4-8fb6450adfee,John,Mayer,John Mayer,+14147222849,Jacksonville,2023-05-24,0.0,,0.0,0.0,0.0,False,,0
+charles.smith44@hotmail.com,4c104c6e-d842-45af-93ed-f79240be7ebf,,,,,,,1094.4,2024-01-19,1.0,481.0,1.0,True,484.0,1
+sarah.dawson57@hotmail.com,ee0c4ec5-df1a-4369-8f42-3b54d0365fe6,,,,,,,0.0,,0.0,805.0,2.0,False,,0
+mike54@example.com,f3cf6f8b-2951-4518-9456-621e10af988a,Sean,Gillespie,Sean Gillespie,,Tulsa,2024-07-06,78.56,2024-09-28,1.0,0.0,0.0,False,231.0,0
+bobby_fernandez@yahoo.com,004b726f-afc5-42c0-b65c-7f572d8e45bc,Bobby,Fernandez,Bobby Fernandez,,Raleigh,2023-02-20,547.7,2023-11-20,1.0,0.0,0.0,True,544.0,0
+mark@watts.com,2b496b19-ad5e-4b34-963f-0e2f76c6651d,Mark,Diaz,Mark Diaz,+15302923857,Omaha,2022-08-16,140.94,2025-04-30,1.0,728.0,3.0,True,17.0,0
+rita.morales@gmail.com,dd52f83f-0f12-44a3-bbd7-bbc260a74098,Rita,Morales,Rita Morales,,Las Vegas,2024-01-06,0.0,,0.0,0.0,0.0,False,,0
+crystal@lewis.com,a8bcbdfd-ca95-4ea6-bfda-e4ed051aa499,Crystal,Pham,Crystal Pham,+14052707332,New Orleans,2023-11-07,318.91,2024-12-14,1.0,0.0,0.0,True,154.0,0
+brittney10@example.net,13d04c5c-b633-4586-9c1c-66ecf5404924,Samuel,English,Samuel English,,San Jose,2024-04-26,195.34,2024-09-29,1.0,1783.0,6.0,True,230.0,2
+megan.johnson12@yahoo.com,1bc69bff-87c3-413a-8b69-416bf434e914,,,,,,,32.51,2024-09-15,1.0,0.0,0.0,False,244.0,0
+william_morgan50@yahoo.com,254200df-acfa-40bb-8ad0-36cbdd73c905,William,Morgan,William Morgan,,Long Beach,2023-05-13,0.0,,0.0,0.0,0.0,False,,0
+samuel.wolfe@gmail.com,ef22031a-f11e-4ba6-9b18-07250eac7ee0,Samuel,Wolfe,Samuel Wolfe,,Minneapolis,2022-09-04,742.0,2025-01-20,3.0,0.0,0.0,True,117.0,1
+ann_leonard3@yahoo.com,4316553d-dc7a-46ba-a9f8-955f7757925b,Ann,Leonard,Ann Leonard,+17168999527,Louisville,2025-03-14,481.4,2025-02-21,1.0,0.0,0.0,True,85.0,0
+jessica.larson@gmail.com,996949ba-e6ef-4511-8ec3-9a0531e54302,Jessica,Larson,Jessica Larson,,Milwaukee,2025-01-10,0.0,,0.0,1002.0,2.0,False,,2
+jessica.larson@gmail.com,996949ba-e6ef-4511-8ec3-9a0531e54302,Alam,Hall,Alam Hall,,Columbus,2024-04-09,0.0,,0.0,1002.0,2.0,False,,2
+jlarson@hotmail.com,37e3ce5d-a270-43f7-8cba-a126630797c6,Jacob,Larson,Jacob Larson,+14308648314,San Francisco,2022-09-24,0.0,,0.0,0.0,0.0,False,,0
+lisa.murphy97@hotmail.com,559d698a-0a9d-4f46-8055-eec3108a97fc,,,,,,,448.11,2023-12-09,1.0,0.0,0.0,True,525.0,0
+dlawson@example.com,1249b1b0-dc83-4b99-ac04-cc5126707274,Debra,Rogers,Debra Rogers,+15089786005,Milwaukee,2024-05-30,0.0,,0.0,0.0,0.0,False,,0
+bsimon@gmail.com,69255f06-678e-42b1-813a-1847243c63a5,Brian,Simon,Brian Simon,,Detroit,2023-04-24,0.0,,0.0,0.0,0.0,False,,0
+criddle@yahoo.com,451db59d-3ac1-4069-a498-8140d7796e5d,Cynthia,Riddle,Cynthia Riddle,,MD,2024-01-15,254.96,2023-11-23,1.0,1014.0,3.0,True,541.0,2
+bobby_hines50@yahoo.com,8a54ac9f-ca89-4bac-a545-021b5e236b1d,Bobby,Hines,Bobby Hines,+15779157965,San Diego,2024-01-02,0.0,,0.0,0.0,0.0,False,,0
+jhughes@gmail.com,dc4a6a85-3fdc-4cde-be76-653680fe6bec,Jimmy,Hughes,Jimmy Hughes,,Baltimore,2023-10-26,1636.67,2024-08-17,3.0,332.0,1.0,True,273.0,1
+james.case74@yahoo.com,79e94215-2501-4397-8cb5-d870dd819346,,,,,,,330.04,2024-08-23,1.0,0.0,0.0,True,267.0,0
+tyler.rogers82@gmail.com,d1f65fac-41ed-4114-916b-98c6c068b82e,,,,,,,0.0,,0.0,666.0,2.0,False,,0
+theresa.mann40@hotmail.com,1f042612-fff1-4ffc-87c5-8b93b4e3c070,,,,,,,148.98,2023-07-19,1.0,1380.0,4.0,True,668.0,2
+ronald.hernandez94@yahoo.com,4354eb65-f617-4af7-bc7b-a98736c95152,,,,,,,0.0,,0.0,1631.0,3.0,False,,2
+brian.chavez84@hotmail.com,f7f139ec-88d0-4a1e-94f7-21119ea49a5c,,,,,,,77.13,2025-05-11,1.0,0.0,0.0,False,6.0,0
+leonard@mclaughlin.com,a96a329b-2b3c-475a-8e65-c6e06a6f4a04,Leonard,Ortiz,Leonard Ortiz,,Boston,2023-10-12,334.88,2023-11-08,1.0,0.0,0.0,True,556.0,0
+djones@yahoo.com,8b8f9998-8aee-4dec-8dc3-00c657371379,Destiny,Jones,Destiny Jones,,El Paso,2025-01-13,187.08,2024-09-04,1.0,0.0,0.0,True,255.0,0
+natalie.moore23@yahoo.com,bfdb967b-1159-4199-a32b-d1b52b3e2acf,,,,,,,0.0,,0.0,2090.0,8.0,False,,2
+thurley@example.com,f84feb81-c4a7-4072-b644-48b1ba7ae8d7,Joshua,Huber,Mr. Joshua Huber,,Oklahoma City,2024-05-03,0.0,,0.0,1189.0,4.0,False,,2
+nancy.young@yahoo.com,166daa99-5622-47ec-af23-b6547921f9eb,Nancy,Young,Nancy Young,,Phoenix,2022-10-27,0.0,,0.0,0.0,0.0,False,,0
+lawrence.holder@gmail.com,3c052e07-f504-40e1-bd5f-aa9ef0c599dc,Lawrence,Holder,Lawrence Holder,,Mesa,2023-12-03,676.69,2024-08-16,2.0,0.0,0.0,True,274.0,1
+brian.schwartz@yahoo.com,2f744bf0-f182-4bf9-a0e9-a33ad3b37c9f,Brian,Schwartz,Brian Schwartz,,Columbus,2023-02-18,344.28999999999996,2025-03-11,3.0,0.0,0.0,True,67.0,1
+gregory.brown98@gmail.com,deab2f31-50ba-4b32-9780-efe6e71c237c,,,,,,,63.89,2023-08-16,1.0,0.0,0.0,False,640.0,0
+danielle@parsons-williams.com,9744b103-f4c2-432a-aa5d-c78fcbad4b91,Danielle,Long,Danielle Long,,Memp,2023-07-22,466.97,2023-11-16,2.0,0.0,0.0,True,548.0,1
+derek@mercado.com,37dfc098-7a09-4c4f-9121-43d7a9a948c2,Derek,Deleon,Derek Deleon,,Memphis,2025-01-10,0.0,,0.0,0.0,0.0,False,,0
+derek@mercado.com,37dfc098-7a09-4c4f-9121-43d7a9a948c2,Kyhe,Mosley,Kyhe Mosley,+13415587533,Portland,2022-08-30,0.0,,0.0,0.0,0.0,False,,0
+zbradshaw@example.org,1b537d41-2290-40ae-a1d0-5812f833d42d,Jason,Donovan,Jason Donovan,,Houston,2022-05-28,0.0,,0.0,0.0,0.0,False,,0
+mason@allen.com,b40623ea-38bf-4cd3-9a41-4cb1af2d1aff,Mason,Edwards,Mason Edwards,,CT,2024-04-05,1257.86,2024-03-02,3.0,0.0,0.0,True,441.0,1
+chelsea_md@gmail.com,55befa64-424b-4835-aa30-016aa7b67e54,Chelsea,Taylor,Chelsea Taylor Md,,Bost,2023-06-17,223.03,2024-04-12,1.0,0.0,0.0,True,400.0,0
+timothy.guerra@gmail.com,dceb329c-5b64-4029-a2bb-300ff586e99a,Timothy,Guerra,Timothy Guerra,,Albuquerque,2025-02-10,0.0,,0.0,0.0,0.0,False,,0
+james.buck@gmail.com,caff950a-7646-490c-a633-57a4623f116f,James,Buck,James Buck,,San Jose,2023-11-17,0.0,,0.0,0.0,0.0,False,,0
+sharon.carney3@hotmail.com,2e6334bc-00d5-4b95-9cda-c510f56cff22,,,,,,,459.81,2023-08-24,1.0,0.0,0.0,True,632.0,0
+lance.wells6@hotmail.com,b89f4715-2575-4cf7-aae7-f1ebd978da98,,,,,,,579.65,2024-08-27,1.0,0.0,0.0,True,263.0,0
+kathleen.graham65@gmail.com,bd1a6303-0ac2-43d2-9a19-aefe8883f354,,,,,,,0.0,,0.0,1154.0,4.0,False,,2
+john.doe@example.com,53ca146c-a0af-42dc-837f-4cfd0a5819be,John,Doe,John Doe,,New York,2023-01-15,1500.0,2023-06-01,2.0,300.0,2.0,True,716.0,1
+john.doe@example.com,53ca146c-a0af-42dc-837f-4cfd0a5819be,John,Doe,John Doe,,NYC,2023-01-18,1500.0,2023-06-01,2.0,300.0,2.0,True,716.0,1
+kayla_parrish5@hotmail.com,908b8335-1c55-46ff-a219-7619a9aa346f,Kayla,Parrish,Kayla Parrish,+19525867579,Mesa,2024-07-28,0.0,,0.0,0.0,0.0,False,,0
+jonathan.nelson46@hotmail.com,b9650221-b7e4-4f07-a5f8-8ac9b728d2ef,,,,,,,599.37,2024-02-14,1.0,0.0,0.0,True,458.0,0
+kevin@stone-avery.com,83538265-df55-4d77-a770-b746911d0765,Kevin,Carlson,Kevin Carlson,,Denver,2024-05-13,0.0,,0.0,0.0,0.0,False,,0
+devin.meadows@gmail.com,08280935-2ffa-4895-97d3-b1b339a1ce16,Devin,Meadows,Devin Meadows,,Detroit,2023-08-24,0.0,,0.0,0.0,0.0,False,,0
+james@sandoval-rivera.net,10c9617b-4f2b-4736-9fa2-ae2dcc45537c,James,Brown,James Brown,+15675672733,Boston,2023-12-03,46.78,2025-04-06,1.0,814.0,4.0,False,41.0,0
+matthew.miller@yahoo.com,766820cc-b2e8-400a-99e7-ac892487e68e,Matthew,Miller,Matthew Miller,+13415290329,Kansas City,2024-09-04,296.64,2025-04-10,2.0,0.0,0.0,True,37.0,1
+matthewblair@example.net,9b910eda-eb3e-44b0-8a96-fbe71df898fb,Ashley,Edwards,Ashley Edwards,,Houston,2023-12-10,825.37,2025-01-29,2.0,0.0,0.0,True,108.0,1
+james.haynes@gmail.com,a6ca53c5-76db-4b82-9e1d-c44eb96126eb,James,Haynes,James Haynes,,Washington,2023-04-10,0.0,,0.0,3126.0,6.0,False,,2
+cgonzales@gmail.com,3d72cfec-5864-4b6f-85be-a40bd826fb0d,Carla,Gonzales,Carla Gonzales,,Seattle,2024-07-03,1161.97,2024-05-08,1.0,404.0,1.0,True,374.0,1
+laura.marshall@yahoo.com,167401fc-1207-4b28-98c7-b42273809833,Laura,Marshall,Laura Marshall,,San Francisco,2023-10-12,0.0,,0.0,912.0,2.0,False,,2
+rebekah@arnold-allen.com,2c835e10-a563-4804-bfc4-57db277dc5d9,Rebekah,Young,Rebekah Young,+13864212645,Minneapolis,2023-01-06,0.0,,0.0,3080.0,10.0,False,,2
+lisa.dawson77@yahoo.com,e2038d2e-241d-4eb6-9de9-f17a2925b182,,,,,,,100.62,2023-05-30,1.0,1333.0,2.0,True,718.0,2
+mr..rodriguez86@gmail.com,c94795b9-c03c-445c-bd80-64b3cda0c6b9,,,,,,,201.0,2025-04-27,1.0,0.0,0.0,True,20.0,0
+brandon@esparza-thomas.info,2f222aee-eba4-4d96-b553-17421746d54f,Brandon,Simmons,Brandon Simmons,+12515501158,Phoenix,2023-04-10,402.94,2024-04-03,2.0,0.0,0.0,True,409.0,1
+theresa.torres@hotmail.com,4dddd0ce-ae38-498e-b0a1-1bafaaf9f360,Theresa,Torres,Theresa Torres,+12623853988,New York,2022-09-08,0.0,,0.0,0.0,0.0,False,,0
+michael.walker36@yahoo.com,4fee40d5-e954-4dbe-8c4f-232efd0c4483,,,,,,,0.0,,0.0,263.0,1.0,False,,0
+ecooper@example.org,18532cd7-0fc8-4a86-b952-07deb7254280,Jessica,Andrews,Jessica Andrews,,Kansas,2023-05-12,726.78,2025-05-15,1.0,1070.0,4.0,True,2.0,2
+melissa.martin46@hotmail.com,e60a4bb1-d18f-4f59-929b-79d5e0234927,,,,,,,344.38,2024-01-10,1.0,0.0,0.0,True,493.0,0
+jphillips@gmail.com,be690f2f-a3f0-4110-9448-90e1dfac3fad,Joyce,Phillips,Joyce Phillips,+14389960633,San Jose,2022-06-28,2403.77,2024-10-08,2.0,0.0,0.0,True,221.0,1
+jphillips@gmail.com,be690f2f-a3f0-4110-9448-90e1dfac3fad,Maria,Davis,Maria Davis,+19512242248,Dallas,2022-09-16,2403.77,2024-10-08,2.0,0.0,0.0,True,221.0,1
+jeffrey.gibson@hotmail.com,7e509596-57e2-41b1-8329-ebc90d1fce78,Jeffrey,Gibson,Jeffrey Gibson,,Colorado Springs,2025-02-06,0.0,,0.0,0.0,0.0,False,,0
+christopher@manning-gonzalez.com,0d7768b6-963d-449e-b824-a5c1766638f3,Christopher,Martinez,Christopher Martinez,,San Antonio,2023-08-01,364.6,2023-10-27,1.0,0.0,0.0,True,568.0,0
+wesley@shaffer-singleton.net,af72e02c-87a2-40be-8809-612c5374fae0,Wesley,Long,Wesley Long,+16592443919,Washington,2024-12-15,209.83,2023-10-17,1.0,0.0,0.0,True,578.0,0
+alexander.kerr@gmail.com,ba678bb4-e454-4947-9b09-2e8c1dddc66f,Alexander,Kerr,Alexander Kerr,+12125764113,El Paso,2023-10-17,0.0,,0.0,563.0,1.0,False,,0
+robert.armstrong@gmail.com,05e3ca23-f621-4b8e-a2dc-4e99bc90cf36,Robert,Armstrong,Robert Armstrong,,Charlotte,2023-03-20,282.04,2024-05-09,1.0,1463.0,4.0,True,373.0,2
+dr..gibson@hotmail.com,b848a1b6-521d-41f1-a20a-16de8cae51e0,Randy,Gibson,Dr. Randy Gibson,,Sacramento,2024-10-10,194.39,2024-03-16,2.0,284.0,1.0,True,427.0,1
+pamela.vance@hotmail.com,69bdfb60-c80a-40a0-8162-4bb14922a6f3,Pamela,Vance,Pamela Vance,+14072982891,Chicago,2023-08-27,307.63,2024-09-27,1.0,0.0,0.0,True,232.0,0
+hannahnash@example.com,719740b8-299e-4142-9cb0-e15056d89820,Sheila,Evans,Sheila Evans,,Baltimore,2023-11-27,0.0,,0.0,0.0,0.0,False,,0
+bobby.diaz95@hotmail.com,0a5256e9-3f66-42ad-a73c-8d6fe5f87600,,,,,,,856.65,2024-12-17,1.0,0.0,0.0,True,151.0,1
+jasmine.tapia13@yahoo.com,f42a4853-6fee-4581-8d8d-d19296f68a22,,,,,,,307.49,2024-12-09,1.0,434.0,1.0,True,159.0,0
+edward.mann@hotmail.com,43a438d3-1ff1-449e-a291-b36131a6b749,Edward,Mann,Edward Mann,+13077051676,Kansas City,2024-12-29,0.0,,0.0,0.0,0.0,False,,0
+lisa.stewart32@hotmail.com,43bc99b3-b66e-4a46-b9bc-bf284bac8d2b,,,,,,,0.0,,0.0,1042.0,4.0,False,,2
+boydhannah@example.org,8aa61fd9-e3a5-4d6c-a080-682ae685cec3,Carrie,Williams,Carrie Williams,+16262522696,New Mary,2024-01-27,2521.7200000000003,2024-12-24,2.0,0.0,0.0,True,144.0,1
+goodwindanielle@example.com,3f39aa15-7308-4d1b-8926-57af7ae89601,John,Williams,John Williams,,Tampa,2025-04-12,43.48,2023-08-21,1.0,0.0,0.0,False,635.0,0
+amber.williams76@gmail.com,5d84566a-c329-4951-bf8c-ad0f96f9b2e4,,,,,,,0.0,,0.0,1371.0,3.0,False,,2
+rachel@irwin.com,636e91f4-cfd6-4412-83bd-97702184a5c0,Rachel,Mcpherson,Rachel Mcpherson,,Long Beach,2025-05-15,180.23,2025-03-11,1.0,0.0,0.0,True,67.0,0
+tracy.roth46@gmail.com,e676a9b3-3964-4f12-ba45-7957c7593e1c,,,,,,,127.91,2025-05-01,1.0,0.0,0.0,True,16.0,0
+steven.hughes11@hotmail.com,fef09589-ee41-4e8a-a69b-5a7b51ba1665,,,,,,,153.34,2023-10-10,1.0,0.0,0.0,True,585.0,0
+christine.martinez@gmail.com,4dabd71c-3d90-4efd-8496-3f4bd0687c23,Christine,Martinez,Christine Martinez,+15887623995,Miami,2023-08-28,228.54,2024-09-27,1.0,0.0,0.0,True,232.0,0
+mejiaelizabeth@example.org,d8e68343-85e6-4409-a213-300a01c0a17f,Tyrone,Moore,Tyrone Moore,,Arlington,2025-03-21,0.0,,0.0,0.0,0.0,False,,0
+diana_hawkins@hotmail.com,e78aab9e-2d01-4b4a-97dc-c9a4f0cbdfbc,Diana,Hawkins,Diana Hawkins,+14589796480,San Diego,2023-01-06,1267.3799999999999,2023-12-12,3.0,0.0,0.0,True,522.0,1
+mark.moreno@yahoo.com,faedf4c2-a57f-4c49-97d5-15905fd6f4ce,Mark,Moreno,Mark Moreno,+19204478359,Denver,2024-06-28,483.05,2025-01-08,2.0,0.0,0.0,True,129.0,1
+michael@meyers.org,22cd806f-5859-4571-bf8b-02c9c26fa452,Michael,Mercer,Michael Mercer,,Baltimore,2024-05-25,1407.7,2023-07-21,1.0,0.0,0.0,True,666.0,1
+leslieellis@example.net,607d08bc-08c6-4d19-afd6-d583cdc9c67d,Dana,Baker,Dana Baker,,Miami,2022-08-05,84.73,2024-11-14,1.0,200.0,1.0,False,184.0,0
+brittany29@example.org,3abd40df-2051-4c02-bcd1-2ca0b3ca84b5,Courtney,Roberson,Courtney Roberson,+19252352440,Raleigh,2023-02-24,1469.21,2025-04-26,3.0,0.0,0.0,True,21.0,1
+aholland@example.org,b95e723a-06fe-4da6-80a6-d8acfd421f9b,Angela,Farrell,Angela Farrell,,UT,2023-06-01,0.0,,0.0,0.0,0.0,False,,0
+timothy.young@hotmail.com,451c63d9-3523-4f6e-883a-9b9783e1f159,Timothy,Young,Timothy Young,,Mesa,2022-06-05,3717.33,2025-03-27,2.0,0.0,0.0,True,51.0,1
+catherine.roth89@yahoo.com,a6a287dc-9045-4038-bb65-d42250b242b0,,,,,,,0.0,,0.0,686.0,2.0,False,,0
+tara_lloyd34@yahoo.com,92bf43c8-450c-46d5-95e7-c1f981211ae5,Tara,Lloyd,Tara Lloyd,+13255272518,Jacksonville,2025-05-08,0.0,,0.0,0.0,0.0,False,,0
+ryan.fry16@hotmail.com,65b5ea6f-2650-4b84-9412-67e0f50b8daa,,,,,,,316.2,2024-06-28,1.0,0.0,0.0,True,323.0,0
+cameron_saunders33@hotmail.com,19cdd444-3153-46de-883f-8fb435dff7cd,Cameron,Saunders,Cameron Saunders,+18162273327,Philadelphia,2024-11-30,0.0,,0.0,0.0,0.0,False,,0
+jessica.krueger@yahoo.com,1d858ce1-666b-416e-ae89-05db12103900,Jessica,Krueger,Jessica Krueger,+18727720956,Las Vegas,2022-06-10,211.38,2025-02-07,1.0,913.0,3.0,True,99.0,0
+bradfordlori@example.com,3506f77f-ff2e-4add-a300-d73c2df2a94f,Jennifer,Greer,Jennifer Greer,,Tampa,2023-09-06,2099.5,2023-11-01,1.0,0.0,0.0,True,563.0,1
+deanna@garcia.biz,3750dc8c-4508-4962-b919-d959fdccd13b,Deanna,Mason,Deanna Mason,+15083322158,Miam,2024-05-21,0.0,,0.0,0.0,0.0,False,,0
+deanna@garcia.biz,3750dc8c-4508-4962-b919-d959fdccd13b,Brianna,Dunn,Brianna Dunn,+17073937817,Fort Worth,2024-08-31,0.0,,0.0,0.0,0.0,False,,0
+davidorozco@example.com,661521e6-1db9-4321-843d-df282b386206,Gerald,Wang,Gerald Wang,,Boston,2022-06-29,0.0,,0.0,0.0,0.0,False,,0
+richard_gonzales17@hotmail.com,fa118f5c-40cc-4a94-94fc-62f587121ff6,Richard,Gonzales,Richard Gonzales,+17706416003,New York,2023-11-13,352.07000000000005,2025-03-25,2.0,0.0,0.0,True,53.0,1
+katherine.payne34@gmail.com,31dbc757-dcba-42b3-9abb-8f4976d992cc,,,,,,,414.57,2024-04-05,1.0,0.0,0.0,True,407.0,0
+jeffrey_malone8@hotmail.com,18f722bd-7fdc-4990-b753-a519bb09363c,Jeffrey,Malone,Jeffrey Malone,,MA,2024-06-19,0.0,,0.0,0.0,0.0,False,,0
+charles_moran25@hotmail.com,48d5bfd5-bffe-4946-a49a-09500a7bbf98,Charles,Moran,Charles Moran,,Raleigh,2022-07-19,1750.66,2024-10-16,1.0,0.0,0.0,True,213.0,1
+krodriguez@hotmail.com,6f8e0293-14b3-4e69-b765-1c4f59b66954,Kayla,Rodriguez,Kayla Rodriguez,,Mesa,2022-11-05,1506.12,2024-11-30,2.0,1394.0,6.0,True,168.0,1
+wyatt.bradford33@gmail.com,b0b72b31-3e5e-48eb-8fbb-c2578c03589b,,,,,,,102.95,2023-08-04,1.0,0.0,0.0,True,652.0,0
+kimberly@mendez.net,c61a4756-9ea3-435a-b0cb-a031603b16e6,Kimberly,Clarke,Kimberly Clarke,,Baltimore,2022-08-03,478.96,2025-02-06,2.0,0.0,0.0,True,100.0,1
+charles.monroe@yahoo.com,4d2fe364-76a8-4e0d-b537-3da7ace7ed1e,Charles,Monroe,Charles Monroe,,Tampa,2024-05-25,0.0,,0.0,3420.0,8.0,False,,2
+sandra.robinson@yahoo.com,fe5d6ab4-cb61-4906-b736-0fc13bc8b000,Sandra,Robinson,Sandra Robinson,,Albuquerque,2023-06-21,100.07,2024-03-12,1.0,0.0,0.0,True,431.0,0
+william.rodriguez57@gmail.com,012ccd3d-8f63-4014-b7c5-980906dece87,,,,,,,0.0,,0.0,911.0,3.0,False,,2
+jason.tran@gmail.com,702e7eb3-9651-4ce8-9ef0-63eb9f12818e,Jason,Tran,Jason Tran,,,2025-04-12,200.63,2024-02-22,1.0,0.0,0.0,True,450.0,0
+marc_barnes21@hotmail.com,8aeb9210-588c-410e-a3ca-b3c05d7f4a12,Marc,Barnes,Marc Barnes,,Arlington,2024-11-03,0.0,,0.0,274.0,1.0,False,,0
+cynthia.berry@gmail.com,fb66652d-1a69-4806-ae5a-e50bd6bc1f77,Cynthia,Berry,Cynthia Berry,,Philadelphia,2022-06-04,0.0,,0.0,0.0,0.0,False,,0
+james@wood.com,fe9da39f-7625-412a-822d-bed43f45df34,James,Carroll,James Carroll,+17692762745,Miami,2023-01-28,206.36,2024-12-28,1.0,1754.0,8.0,True,140.0,2
+tonya@bernard-schmitt.org,71278ae1-8104-4e37-82b4-ff8126070f38,Tonya,Little,Tonya Little,,Columbus,2023-06-04,317.5,2025-01-17,1.0,0.0,0.0,True,120.0,0
+matthew.sanchez67@hotmail.com,eef84e58-a646-4d65-8a92-72d2163dfd5e,,,,,,,167.35,2024-06-25,1.0,0.0,0.0,True,326.0,0
+robert.sellers@gmail.com,9f07bdd9-4bbb-4a36-8f99-89ce02b216c8,Robert,Sellers,Robert Sellers,+14035910533,Tampa,2024-04-02,20.29,2024-10-21,1.0,0.0,0.0,False,208.0,0
+kevin.trevino51@yahoo.com,5888c159-3f46-41f3-9dd8-c723529dfb68,,,,,,,17.69,2023-08-03,1.0,26.0,1.0,False,653.0,0
+tiffany.wolf35@hotmail.com,ce471009-aed7-4a1f-b4be-0e1b105c5183,,,,,,,107.87,2023-10-12,1.0,0.0,0.0,True,583.0,0
+karen.morgan55@gmail.com,d782966d-a210-425f-80a3-b0f2f94419e2,,,,,,,0.0,,0.0,596.0,1.0,False,,0
+richard.wood50@hotmail.com,75a70272-c349-4b48-b13e-4fac73274ce1,,,,,,,876.94,2024-10-19,1.0,0.0,0.0,True,210.0,1
+brian@keith.net,9d0db721-ea3a-47b9-b0f5-cfe4d74ca85f,Brian,Edwards,Brian Edwards,+19498184094,Los Angeles,2024-04-26,0.0,,0.0,0.0,0.0,False,,0
+jessica.york@gmail.com,077aa937-d7ad-4ba3-bae9-36052196dfb4,Jessica,York,Jessica York,+14846115594,El Paso,2024-12-02,268.52,2023-11-02,1.0,0.0,0.0,True,562.0,0
+beth.collins50@hotmail.com,550e386a-eed4-436d-91ef-a6e6bbf145f9,,,,,,,0.0,,0.0,1327.0,4.0,False,,2
+mphillips@hotmail.com,163036f8-a4cf-4a9d-9ecd-8d35e556111e,Angelica,Phillips,Mrs. Angelica Phillips,+16314126213,Baltimore,2024-03-05,850.1800000000001,2025-03-16,4.0,0.0,0.0,True,62.0,1
+brichardson@example.net,f5efa79c-4709-4413-99a6-ac95ea9b4b4f,Samantha,Graham,Samantha Graham,+15156863336,Colorado Springs,2024-09-27,0.0,,0.0,0.0,0.0,False,,0
+noah_smith17@yahoo.com,c79d2776-cccb-468e-bfe6-193a8d398925,Noah,Smith,Noah Smith,,Kansas City,2023-11-15,264.41,2023-11-25,1.0,0.0,0.0,True,539.0,0
+christopher34@example.net,cc0d9a68-7266-46ef-8bc9-37135c737c93,Veronica,Reeves,Veronica Reeves,,Miami,2024-07-28,296.23,2025-04-26,1.0,0.0,0.0,True,21.0,0
+susan.espinoza30@hotmail.com,f5204b69-9b62-44b0-bda1-a8e1a1dd6429,,,,,,,0.0,,0.0,1387.0,2.0,False,,2
+smcmillan@hotmail.com,cfeca67d-ae12-469e-9fe6-8be20fc66ba5,Stephanie,Mcmillan,Stephanie Mcmillan,+19073385020,Detroit,2025-01-16,0.0,,0.0,0.0,0.0,False,,0
+joseph@sanders-wright.com,81bdbb4a-e3b9-4756-93b6-5b8b64d1a10a,Joseph,Woodard,Joseph Woodard,,Chicago,2024-10-30,0.0,,0.0,0.0,0.0,False,,0
+kristen_ford16@hotmail.com,990f756c-ad1e-4e65-af4f-2eef119086d7,Kristen,Ford,Kristen Ford,,Las Vegas,2024-04-28,1393.9599999999998,2024-07-23,2.0,0.0,0.0,True,298.0,1
+frederick.jimenez@yahoo.com,c02ea0d9-b656-47e9-bcda-951b16cfe020,Frederick,Jimenez,Frederick Jimenez,+18014301045,Mesa,2025-02-22,0.0,,0.0,0.0,0.0,False,,0
+megan.carson64@hotmail.com,6e382bf6-5ac2-4d5a-ba1b-66e011b04410,,,,,,,0.0,,0.0,633.0,2.0,False,,0
+regina.russell@gmail.com,9fb33b39-fc94-4eaa-8339-270935956475,Regina,Russell,Regina Russell,,Albuquerque,2023-04-13,0.0,,0.0,261.0,2.0,False,,0
+lindsey.martinez@gmail.com,cf54441e-7fc5-412b-8738-a17964ba20f8,Lindsey,Martinez,Lindsey Martinez,+12012757053,El Paso,2022-09-08,0.0,,0.0,0.0,0.0,False,,0
+mramsey@yahoo.com,bac2af73-4d9a-4ea8-b57c-b052de5a0b09,Matthew,Ramsey,Matthew Ramsey,+14179973102,Charlotte,2023-01-15,307.74,2023-10-07,1.0,0.0,0.0,True,588.0,0
+suzanne.woods@hotmail.com,81ef6110-d596-4d3b-b03b-c632209111d7,Suzanne,Woods,Suzanne Woods,+12814602455,Fresno,2024-09-16,144.87,2025-01-19,1.0,319.0,1.0,True,118.0,0
+suzanne.woods@hotmail.com,81ef6110-d596-4d3b-b03b-c632209111d7,Tyler,Carroll,Tyler Carroll,+13066278518,Louisville,2023-03-12,144.87,2025-01-19,1.0,319.0,1.0,True,118.0,0
+turnervicki@example.com,e744dba8-5d2f-4caf-95f9-7dc0604dfda1,Jennifer,Burns,Jennifer Burns,+19125259391,Oakland,2024-06-10,0.0,,0.0,0.0,0.0,False,,0
+jennifer.wong80@hotmail.com,c7245247-1ed1-440b-99fe-4603a3abf623,,,,,,,506.3,2025-02-06,1.0,0.0,0.0,True,100.0,0
+amanda.perkins52@gmail.com,566ff09a-4657-48ee-b04c-a0e636f7aaba,,,,,,,234.46,2023-09-11,1.0,0.0,0.0,True,614.0,0
+michael.dvm@hotmail.com,4ce85f78-067a-4028-a9f8-e9c4c57b5479,Michael,Allison,Michael Allison Dvm,,Tampa,2025-01-26,0.0,,0.0,0.0,0.0,False,,0
+jburns@hotmail.com,8d5fd6e5-b13c-477f-b74d-d0948d49a3fc,Jeffrey,Burns,Jeffrey Burns,,Chicago,2023-05-31,1486.1499999999999,2024-02-17,3.0,0.0,0.0,True,455.0,1
+melissa.ellis@yahoo.com,e5dda046-cf7a-4a93-b644-b1e302d18b7c,Melissa,Ellis,Melissa Ellis,+15047393861,Jacksonville,2024-05-24,429.6,2023-07-25,1.0,0.0,0.0,True,662.0,0
+adamtran@example.net,b5254043-0672-4c74-869a-3089b90e6bd9,Sean,Harris,Sean Harris,+12698135137,Colorado Springs,2024-04-01,1383.52,2024-09-11,2.0,919.0,4.0,True,248.0,1
+joshua.thompson15@hotmail.com,a2e6ed5a-ae7b-4cf9-8036-87f2c6c9037e,,,,,,,2471.22,2023-12-25,1.0,1769.0,4.0,True,509.0,1
+kristin_brown@hotmail.com,7360cdb2-b411-4883-a0f8-c9c0116907b7,Kristin,Brown,Kristin Brown,,Arlington,2022-06-16,523.54,2025-05-06,2.0,0.0,0.0,True,11.0,1
+wilsonwilliam@example.net,1e541ab8-4bdc-4d89-a347-ddaf8a116c92,Andrew,Martinez,Andrew Martinez,,Phoen,2022-11-05,0.0,,0.0,846.0,3.0,False,,2
+alexander.soto@gmail.com,8fda8edf-ef32-4f05-828e-64f2e7c409ee,Alexander,Soto,Alexander Soto,+19796989147,Phoenix,2024-06-01,0.0,,0.0,0.0,0.0,False,,0
+patrickjohnson@example.com,f47d4435-40b4-4eca-9f39-0632dfa73cbc,Michael,Farrell,Michael Farrell,,Chicago,2024-06-19,0.0,,0.0,0.0,0.0,False,,0
+william.hester@gmail.com,29d37345-09d6-4192-983a-d40200e7e5e5,William,Hester,William Hester,,San Francisco,2024-12-04,0.0,,0.0,0.0,0.0,False,,0
+ashley.hays54@gmail.com,cc60e2e2-f506-4793-ada7-9636fd36a6bd,,,,,,,0.0,,0.0,500.0,1.0,False,,0
+carl.mcneil@gmail.com,e0e00440-33b2-4de4-96b7-bcee71011ddd,Carl,Mcneil,Carl Mcneil,+13129642655,Fresno,2023-07-15,190.54,2024-10-28,1.0,0.0,0.0,True,201.0,0
+glenn.phd@gmail.com,007d3a99-9b8b-48b0-a5a2-25243b5d409d,Glenn,Bridges,Glenn Bridges Phd,+18497694290,San Jose,2022-12-21,440.72,2024-03-17,1.0,0.0,0.0,True,426.0,0
+jacob.hall@yahoo.com,80f3b4be-429c-4895-b07c-2a0fa740d41e,Jacob,Hall,Jacob Hall,,Phoenix,2024-12-09,106.95,2023-08-01,1.0,0.0,0.0,True,655.0,0
+hunter.davis@hotmail.com,73643fd6-2f97-4358-b762-2abad92f9ae4,Hunter,Davis,Hunter Davis,+17152004562,Nashville,2024-07-11,417.02,2025-03-13,2.0,0.0,0.0,True,65.0,1
+mwheeler@gmail.com,32092d54-d693-44c2-8d64-ca92b92b2243,Michael,Wheeler,Michael Wheeler,,New York,2022-07-10,0.0,,0.0,0.0,0.0,False,,0
+rebecca.hardy@gmail.com,1dae2d91-0344-4f5e-8f39-e6776c092b31,Rebecca,Hardy,Rebecca Hardy,+15415075366,PR,2024-05-09,1499.81,2023-07-12,1.0,0.0,0.0,True,675.0,1
+maria.nicholson@gmail.com,0943f748-defd-4bef-ae31-8f9f523bb652,Maria,Nicholson,Maria Nicholson,,New Jade,2022-10-19,293.46,2024-08-16,1.0,0.0,0.0,True,274.0,0
+misty.lopez14@yahoo.com,33180e4b-72bd-4dca-843f-e2b875d50f88,,,,,,,524.6,2024-10-11,1.0,0.0,0.0,True,218.0,0
+karen.cook81@hotmail.com,95b94768-b9b9-47ed-9d52-7b84107de5c3,,,,,,,305.93,2025-02-12,1.0,0.0,0.0,True,94.0,0
+peter.greer62@hotmail.com,03a139b7-a841-46ed-9af4-2aad1b5a617e,,,,,,,0.0,,0.0,1310.0,4.0,False,,2
+sonya@anderson-clark.com,2d6d8321-91a6-4f10-af3a-5e369347ddfb,Sonya,Johnson,Sonya Johnson,,Fort Worth,2024-09-21,623.22,2025-03-28,3.0,975.0,3.0,True,50.0,1
+james.reeves@hotmail.com,fc02a64a-382d-4f10-93dc-44412a793735,James,Reeves,James Reeves,+18305132535,Omaha,2022-08-19,246.68,2025-02-01,1.0,0.0,0.0,True,105.0,0
+daniel@beasley-smith.com,f8e6aeb7-ca85-4c7c-99f6-49dd6f0ca2a4,Daniel,Watkins,Daniel Watkins,,San Francisco,2023-06-13,0.0,,0.0,0.0,0.0,False,,0
+caitlin@ramos-myers.com,bdbeebbd-bee7-412d-996d-78a683939fb0,Caitlin,Schwartz,Caitlin Schwartz,,NC,2023-11-19,244.28,2024-03-30,1.0,652.0,2.0,True,413.0,0
+chelsea_oliver27@hotmail.com,d78d7107-fd23-484d-a6ec-c08d4e3399a8,Chelsea,Oliver,Chelsea Oliver,+16098034247,Baltimore,2023-02-13,1068.11,2024-08-07,1.0,0.0,0.0,True,283.0,1
+kathleen_clark15@hotmail.com,4bf7bf94-cce5-4d65-90eb-6ad5ce9b283b,Kathleen,Clark,Kathleen Clark,,KY,2023-01-12,1174.79,2024-11-15,4.0,0.0,0.0,True,183.0,1
+brian_brown9@hotmail.com,abbb1fa6-f126-4886-b5e1-30d818d66cff,Brian,Brown,Brian Brown,+19726694726,Chicago,2023-11-08,304.86,2023-09-23,2.0,0.0,0.0,True,602.0,1
+holly.dvm@hotmail.com,43a8f3c7-d713-43cf-8d57-24a5705d84f8,Holly,Morales,Holly Morales Dvm,,Jacksonville,2023-07-29,0.0,,0.0,0.0,0.0,False,,0
+holly.dvm@hotmail.com,43a8f3c7-d713-43cf-8d57-24a5705d84f8,Benjamin,Ward,Benjamin Ward,,Jacksonville,2025-02-19,0.0,,0.0,0.0,0.0,False,,0
+james.cook@gmail.com,0fd7714d-0a27-4a1a-99d1-c0c89d7833f9,James,Cook,James Cook,,Columbus,2023-08-08,225.94,2024-05-20,1.0,0.0,0.0,True,362.0,0
+brian.brown@gmail.com,c24ac1a6-2a09-46e7-912b-207438a56779,Brian,Brown,Brian Brown,+13302542883,Washin,2022-08-10,677.48,2024-02-02,2.0,0.0,0.0,True,470.0,1
+bryan@sanchez.com,a20c4e40-5020-47f0-aa36-2078407514ae,Bryan,Wright,Bryan Wright,,Seattle,2022-09-07,965.6700000000001,2025-03-02,2.0,0.0,0.0,True,76.0,1
+zrodriguez@example.org,f06a0a5f-c1fd-425d-b5a3-d10d7bac1c93,Stacy,Moody,Stacy Moody,,Boston,2022-09-23,421.86,2024-05-16,2.0,327.0,1.0,True,366.0,1
+farmerkelsey@example.org,502c3fcd-32f2-4fc0-a076-cb16cee2dc68,Maria,Wallace,Maria Wallace,+14698388835,El Paso,2024-05-09,441.34000000000003,2024-05-22,2.0,0.0,0.0,True,360.0,1
+robert.terry@yahoo.com,6a234e1b-c481-45fe-a869-cc67aaf0dc0b,Robert,Terry,Robert Terry,,Los Angeles,2024-02-21,0.0,,0.0,569.0,1.0,False,,0
+tiffany_smith@yahoo.com,184c8515-0c7f-4c5f-9f2a-33fdbd72fc46,Tiffany,Smith,Tiffany Smith,,Albuquerque,2024-08-13,175.22,2024-02-15,1.0,0.0,0.0,True,457.0,0
+jeffrey@lewis.com,87c04378-c25f-4d75-a012-b352d080f981,Jeffrey,Snyder,Jeffrey Snyder,+15624221993,Las Vegas,2024-10-29,68.36,2025-02-20,1.0,0.0,0.0,False,86.0,0
+christy.nolan@hotmail.com,5cf98be8-f905-4d64-8c05-d05cd2201972,Christy,Nolan,Christy Nolan,,Nashville,2023-05-21,0.0,,0.0,0.0,0.0,False,,0
+christy.nolan@hotmail.com,5cf98be8-f905-4d64-8c05-d05cd2201972,C.,Wallace,C. Wallace,+13697888355,San Jose,2023-08-23,0.0,,0.0,0.0,0.0,False,,0
+russell.chaney14@yahoo.com,3f8aa001-45fe-47af-b4d3-8859b3f003da,,,,,,,1469.88,2023-07-06,1.0,0.0,0.0,True,681.0,1
+pedro.sanchez96@hotmail.com,6d902359-3203-4bde-bfb0-0705940ded2c,,,,,,,270.53,2025-03-08,1.0,0.0,0.0,True,70.0,0
+dcox@gmail.com,e40304c9-b34f-4c4b-af76-00fd4c4f21e8,Douglas,Cox,Douglas Cox,,Minneapolis,2022-09-04,0.0,,0.0,0.0,0.0,False,,0
+hannah.sullivan36@gmail.com,644d6378-fd61-4fdf-b0f4-5838a099507d,,,,,,,197.97,2023-06-02,1.0,0.0,0.0,True,715.0,0
+amy@hart.org,7d85a83f-92c9-4a37-ad15-9573538d3d6d,Amy,Harmon,Amy Harmon,+12532701293,Jacksonville,2022-05-27,43.04,2025-04-09,1.0,0.0,0.0,False,38.0,0
+wilkersonkevin@example.com,242f0425-4d1f-4017-9fa5-8e3a027ea210,Adrienne,Clay,Adrienne Clay,,Omaha,2023-06-24,53.95,2023-09-14,1.0,0.0,0.0,False,611.0,0
+erica.jenkins28@hotmail.com,0f2fff39-f398-44e6-b015-1198a10342f0,,,,,,,1011.75,2024-09-14,1.0,0.0,0.0,True,245.0,1
+ublair@example.net,d413d5ec-e391-4edb-9e9b-da207ee009f2,Leslie,Barber,Leslie Barber,+15334306942,,2024-07-27,447.28999999999996,2025-01-12,2.0,0.0,0.0,True,125.0,1
+christopher@odonnell.com,d0dcc714-032f-4004-8aa0-da280a1463e2,Christopher,Hanson,Christopher Hanson Jr.,+13099151123,New York,2024-07-18,0.0,,0.0,0.0,0.0,False,,0
+mrs..taylor@yahoo.com,4d0209b2-c040-43a5-864c-e871c566b440,Mary,Taylor,Mrs. Mary Taylor,,El Paso,2022-11-30,0.0,,0.0,0.0,0.0,False,,0
+robert.smith@gmail.com,90f000ec-46fd-4f15-b731-6fe998c04b0e,Robert,Smith,Robert Smith,,Boston,2024-09-22,187.69,2024-06-23,2.0,0.0,0.0,True,328.0,0
+brian.cuevas@gmail.com,0f8d800b-3a4a-4f5c-a35c-d0270add9c18,Brian,Cuevas,Brian Cuevas,,Memphis,2023-03-31,460.75,2024-11-26,2.0,0.0,0.0,True,172.0,1
+christy.brown@hotmail.com,b5f6c00e-5e40-425f-9bba-e1943e8d392a,Christy,Brown,Christy Brown,+19802714819,Charlotte,2024-05-01,162.74,2023-08-27,1.0,0.0,0.0,True,629.0,0
+ryan@hodge-lopez.info,c71dec9e-82ba-4bb5-ab3f-7304d64d51b3,Ryan,Diaz,Ryan Diaz,,Detroit,2024-07-22,58.82,2023-06-04,1.0,0.0,0.0,False,713.0,0
+courtney.villarreal55@yahoo.com,b2641489-e8e9-4d44-bd52-c95d4abbe9f2,,,,,,,29.75,2023-08-23,1.0,0.0,0.0,False,633.0,0
+joseph.roberts56@hotmail.com,922577db-c096-41ef-8d95-15d19c8aa00f,,,,,,,134.62,2023-07-19,1.0,661.0,4.0,True,668.0,0
+kimberly.ross87@hotmail.com,f747af4a-6522-4454-a99e-f9a5ba582e7c,,,,,,,33.32,2025-04-28,1.0,0.0,0.0,False,19.0,0
+rmora@hotmail.com,05e57aea-f5bd-407e-aea5-410625d9400c,Richard,Mora,Richard Mora,+13504763442,Oklahoma City,2024-07-23,353.87,2024-08-12,1.0,0.0,0.0,True,278.0,0
+alex.torres17@hotmail.com,c30b6a7f-d852-44a7-ba35-fbd5a2d14bca,,,,,,,921.77,2025-03-22,1.0,0.0,0.0,True,56.0,1
+jennifer.johnson55@gmail.com,d34e02da-23b2-4a58-9ba9-1f86d1e111bf,,,,,,,0.0,,0.0,1250.0,3.0,False,,2
+sharon48@example.org,f9a90c23-75ff-4eab-91fd-6a18f0c331c7,Michelle,Ward,Michelle Ward,,Washington,2024-11-10,114.58,2024-08-30,1.0,0.0,0.0,True,260.0,0
+thomas.ruiz@hotmail.com,9d9a6179-dac9-4121-998b-869fc556cac6,Thomas,Ruiz,Thomas Ruiz,+13187718306,,2024-06-10,0.0,,0.0,0.0,0.0,False,,0
+julia.morales@gmail.com,f2c0300b-6e9c-41f2-b14d-aabd7fe7cf66,Julia,Morales,Julia Morales,,Tampa,2025-04-02,699.09,2024-07-04,1.0,0.0,0.0,True,317.0,0
+charles_little6@gmail.com,8325a173-b2f4-414c-a131-a992a672842f,Charles,Little,Charles Little,+15779762718,San Diego,2023-11-19,0.0,,0.0,0.0,0.0,False,,0
+drew@petty.com,bf7f829d-e17c-44cb-bfab-2f9fb5968b27,Drew,Preston,Drew Preston,+15629774871,Mesa,2023-10-09,428.11,2025-01-27,1.0,0.0,0.0,True,110.0,0
+leslie@gregory-rivera.com,25f8883b-ab06-4b85-bd69-e7f7bd23f2df,Leslie,Miles,Leslie Miles,,Columbus,2025-04-16,0.0,,0.0,2218.0,6.0,False,,2
+brian.anderson10@gmail.com,ba263da0-a3a7-41bf-93fa-cf5464cbef69,,,,,,,106.97,2023-07-25,1.0,0.0,0.0,True,662.0,0
+schavez@hotmail.com,44f50924-08a5-40c0-aca7-7603ad43b8bc,Samantha,Chavez,Samantha Chavez,,Sacramento,2023-09-03,0.0,,0.0,0.0,0.0,False,,0
+schavez@hotmail.com,44f50924-08a5-40c0-aca7-7603ad43b8bc,Charlotte,Massey,Charlotte Massey,+14076344154,Traceyhaven,2022-08-06,0.0,,0.0,0.0,0.0,False,,0
+mrs..mcconnell51@yahoo.com,11ec9939-5e89-4c27-b98b-bc87735448df,,,,,,,837.32,2024-03-10,1.0,0.0,0.0,True,433.0,1
+bradley@thomas-macias.info,0ce66044-78c4-4fd9-94fc-c5f02e5e8d29,Bradley,Stephens,Bradley Stephens,+19173447256,Nashville,2025-01-26,0.0,,0.0,0.0,0.0,False,,0
+ureyes@example.net,89752214-995d-4fcd-8ac6-f46037058348,Christopher,Malone,Christopher Malone,+12285133725,Houston,2023-07-05,0.0,,0.0,0.0,0.0,False,,0
+stephanie70@example.com,793bc9ae-5644-4a26-853d-a31b05e53b07,Daniel,Bryant,Daniel Bryant Phd,,Denver,2023-06-01,0.0,,0.0,1609.0,3.0,False,,2
+amy.blevins60@yahoo.com,d268306e-4ff8-4d3e-a770-61bf80976eec,,,,,,,0.0,,0.0,1890.0,3.0,False,,2
+david.gardner@yahoo.com,eab7b9dc-4867-4f7f-b15f-4e3536e0578e,David,Gardner,David Gardner,,Sacramento,2022-10-28,1330.3600000000001,2025-02-13,3.0,0.0,0.0,True,93.0,1
+karen.tanner50@gmail.com,a23d1586-deda-4bba-aa72-a804b5c0ab5b,,,,,,,0.0,,0.0,1498.0,4.0,False,,2
+pamela50@example.org,5f8ab4ff-aed0-4dff-b583-87d5c006c33e,Andrew,Gordon,Andrew Gordon,+16579063161,Milwaukee,2022-08-01,0.0,,0.0,2481.0,5.0,False,,2
+sarah_gonzalez@yahoo.com,22c2a1f3-054e-4fd8-a24c-fcc031fc45b8,Sarah,Gonzalez,Sarah Gonzalez,+19103529085,Long Beach,2023-11-05,0.0,,0.0,0.0,0.0,False,,0
+gloria.forbes25@gmail.com,d467e2a8-a020-440c-b91c-a1a94aeaafe7,,,,,,,115.45,2024-07-24,1.0,0.0,0.0,True,297.0,0
+daniel@luna.com,83f0a0d3-55ff-4b35-afd7-7a37e63a477b,Daniel,Moreno,Daniel Moreno,,Miami,2024-11-30,1075.4299999999998,2024-11-15,3.0,0.0,0.0,True,183.0,1
+hector.williams@hotmail.com,235b411c-c184-4135-818b-d19f3b613286,Hector,Williams,Hector Williams,,Tucson,2024-01-09,455.22,2024-11-25,2.0,0.0,0.0,True,173.0,1
+mr._mcdonald12@gmail.com,4c2a8d65-cd30-4e18-a08c-a9cf7a1e66a3,Anthony,Mcdonald,Mr. Anthony Mcdonald,+16023236058,Arlington,2023-04-06,0.0,,0.0,3102.0,8.0,False,,2
+stacey.melton@hotmail.com,5ae4fc72-8abf-4a17-aa62-bc3dde8dceda,Stacey,Melton,Stacey Melton,,Jackso,2023-08-17,205.31,2024-11-16,1.0,0.0,0.0,True,182.0,0
+rachel.guerra@gmail.com,8fa067c3-975a-461e-b30e-72e55d9136fc,Rachel,Guerra,Rachel Guerra,,Las Vegas,2023-06-24,399.43,2023-06-09,1.0,0.0,0.0,True,708.0,0
+pamela.miller87@hotmail.com,640d99d0-9287-4f15-93af-7b206c142ae5,,,,,,,188.26,2025-01-28,1.0,316.0,1.0,True,109.0,0
+amanda.burns22@hotmail.com,f9e94758-fc6b-43fd-808b-301311e6a4f9,,,,,,,124.05,2023-05-18,1.0,0.0,0.0,True,730.0,0
+edward.smith@gmail.com,752c9cc8-f386-4a44-a368-e0acb5b5ca4b,Edward,Smith,Edward Smith,,Washington,2023-02-17,370.39,2025-05-13,2.0,0.0,0.0,True,4.0,1
+jenna@jones.com,55a9ee31-1aa0-4a34-b38f-9ca4093cd991,Jenna,Moss,Jenna Moss,+12073598575,San Diego,2022-07-12,0.0,,0.0,0.0,0.0,False,,0
+kyle.thomas@hotmail.com,cee9d1e6-e540-484e-acc6-4966e21c4ea6,Kyle,Thomas,Kyle Thomas,+18103458665,Atlanta,2023-07-08,135.03,2024-04-24,1.0,0.0,0.0,True,388.0,0
+mlopez@yahoo.com,1ed5411a-3f77-4c00-8605-39f8cc842f53,Megan,Lopez,Megan Lopez,+18284206010,New York,2024-12-09,0.0,,0.0,1895.0,5.0,False,,2
+mlopez@yahoo.com,1ed5411a-3f77-4c00-8605-39f8cc842f53,N.,Miller,N. Miller,,Minneapolis,2024-10-09,0.0,,0.0,1895.0,5.0,False,,2
+maynardheather@example.com,8d305e0a-a4fc-446e-bb5c-a785fb079a05,Daniel,Bradshaw,Daniel Bradshaw,+19799381682,Arlington,2022-09-18,172.93,2023-12-29,1.0,0.0,0.0,True,505.0,0
+dfoley@yahoo.com,2c82ea6a-fd49-4e95-99c6-a370039a2773,Dustin,Foley,Dustin Foley,+15717192990,Indianapolis,2023-06-21,189.82999999999998,2025-03-31,2.0,0.0,0.0,True,47.0,0
+sara_reed@hotmail.com,0d4bc2b5-6abc-4e0b-a47b-7c7fdcd6b0f2,Sara,Reed,Sara Reed,+17755207176,Milwaukee,2024-08-29,0.0,,0.0,0.0,0.0,False,,0
+sara_reed@hotmail.com,0d4bc2b5-6abc-4e0b-a47b-7c7fdcd6b0f2,Paul,Mason,Paul Mason,,Washington,2025-03-13,0.0,,0.0,0.0,0.0,False,,0
+david.butler@yahoo.com,74d70c79-903f-42b0-bfa4-8b75f762a0b9,David,Butler,David Butler,+16026156980,Minneapolis,2024-07-18,15.41,2024-03-22,1.0,0.0,0.0,False,421.0,0
+kstevens@gmail.com,d5f09ce3-979e-4c0c-8d94-c2fd36c8e405,Kathryn,Stevens,Kathryn Stevens,,Tulsa,2024-09-20,0.0,,0.0,0.0,0.0,False,,0
+charles.brown@hotmail.com,45d2d651-74be-44a5-960a-ea616d506f69,Charles,Brown,Charles Brown,,FM,2023-03-10,102.86,2024-05-20,1.0,0.0,0.0,True,362.0,0
+jjenkins@hotmail.com,8dcefd8b-ff53-4e62-b77a-3d57f361da88,Joan,Jenkins,Joan Jenkins,+16057301616,Tucson,2025-03-19,177.58,2023-12-04,1.0,662.0,2.0,True,530.0,0
+gregory_sanchez14@gmail.com,93d21147-615c-4dfc-a106-f746b0606210,Gregory,Sanchez,Gregory Sanchez,+17783148051,Portland,2024-03-14,47.15,2024-07-14,1.0,0.0,0.0,False,307.0,0
+nluna@hotmail.com,0e72dafb-a814-4b95-9ef0-1a5fd83174ce,Nathaniel,Luna,Nathaniel Luna,,Miami,2024-07-09,671.53,2025-02-28,2.0,0.0,0.0,True,78.0,1
+jordan.barajas88@gmail.com,b36aeab1-c1da-4103-8404-e10e56c9ae8e,,,,,,,597.1,2023-12-09,1.0,0.0,0.0,True,525.0,0
+brenda.bell44@gmail.com,12679b57-298d-4c19-93bc-7f8ca86ce7f7,,,,,,,22.21,2023-07-27,1.0,0.0,0.0,False,660.0,0
+angel.cooper70@gmail.com,b0ab2f26-d56a-4325-ac78-5cc59270d3d4,,,,,,,578.81,2024-09-15,1.0,288.0,3.0,True,244.0,0
+marilyn.ford45@gmail.com,fe32d26d-595e-4116-9cd6-293861bfafaf,,,,,,,209.18,2025-02-02,1.0,0.0,0.0,True,104.0,0
+michael.brown@gmail.com,cb36d273-5860-4c3c-aef6-19903ae3c8bf,Michael,Brown,Michael Brown,,Virginia Beach,2023-01-17,695.11,2025-02-07,3.0,0.0,0.0,True,99.0,1
+kmitchell@hotmail.com,95ccfb1d-e703-40bf-9a0a-e1d031543459,Kathryn,Mitchell,Kathryn Mitchell,,Seattle,2024-01-10,0.0,,0.0,0.0,0.0,False,,0
+ashley.scott@hotmail.com,1c46d88c-7115-47fa-a240-ff61e4249f91,Ashley,Scott,Ashley Scott,+18083285782,Detroit,2023-09-24,430.01,2025-05-12,2.0,149.0,1.0,True,5.0,1
+melissa.dds49@hotmail.com,6c9e744d-a13e-428e-a2f3-2d1ac8e05bd3,,,,,,,0.0,,0.0,391.0,2.0,False,,0
+gluna@yahoo.com,35fc9f7f-43c3-4c12-b042-684c738c8a7a,Glenn,Luna,Glenn Luna,+15045424772,Minneapolis,2024-04-12,0.0,,0.0,0.0,0.0,False,,0
+lisa.scott95@yahoo.com,4f3a8144-a647-40b7-b639-8c872ed6492c,,,,,,,439.73,2024-08-01,1.0,0.0,0.0,True,289.0,0
+william.prince92@gmail.com,e4ca08d3-1731-4c0e-a379-1faf26336373,,,,,,,0.0,,0.0,780.0,3.0,False,,0
+amcdonald@yahoo.com,a4bb83c6-e836-4ba5-a473-3bfb5c0a4a3d,Amanda,Mcdonald,Amanda Mcdonald,,Oklahoma City,2023-12-31,58.21,2024-12-14,1.0,890.0,1.0,False,154.0,0
+victoria.osborne72@hotmail.com,09a6feea-3254-49f0-b661-2dd37893f814,,,,,,,90.23,2024-11-14,1.0,424.0,2.0,False,184.0,0
+jeffrey.jones@hotmail.com,385e7f7d-0e85-4bae-aefb-f1476af5cf0d,Jeffrey,Jones,Jeffrey Jones,+18057441761,San Jose,2024-09-08,259.41,2024-08-24,1.0,0.0,0.0,True,266.0,0
+jeffrey.jones@hotmail.com,385e7f7d-0e85-4bae-aefb-f1476af5cf0d,H.,Harrington,H. Harrington,,San Francisco,2024-07-18,259.41,2024-08-24,1.0,0.0,0.0,True,266.0,0
+jennifer_moore@yahoo.com,07058d10-1b7b-42b7-ac38-aabe4a2ca971,Jennifer,Moore,Jennifer Moore,+14682069552,Austin,2022-09-12,647.71,2024-08-13,2.0,486.0,1.0,True,277.0,1
+mr._mcgee20@hotmail.com,b7401559-7f74-471f-928a-167f873bb236,Jerry,Mcgee,Mr. Jerry Mcgee,,Louisville,2023-08-17,135.81,2025-04-29,1.0,0.0,0.0,True,18.0,0
+rachael@delacruz.com,3e7962d2-34af-439a-9288-dbf7c092ecd4,Rachael,Briggs,Rachael Briggs,,Denver,2024-04-06,966.49,2023-09-30,2.0,0.0,0.0,True,595.0,1
+shaun_fernandez15@hotmail.com,f356fb3d-c9ed-491e-ad63-795445cf8263,Shaun,Fernandez,Shaun Fernandez,+18096186878,Dallas,2024-11-19,0.0,,0.0,665.0,2.0,False,,0
+jacob_williams@hotmail.com,e3f4e360-6664-4647-8259-65e4535d57ef,Jacob,Williams,Jacob Williams,,Richardsonmouth,2024-10-03,1691.17,2023-12-29,1.0,0.0,0.0,True,505.0,1
+adam.freeman24@gmail.com,580a63c8-efb0-4418-bbcc-77c6acbd3305,,,,,,,0.0,,0.0,1180.0,4.0,False,,2
+jeffrey.nguyen23@yahoo.com,0cba84dd-6ab5-4b20-87a9-faed3b54fee0,,,,,,,0.0,,0.0,1015.0,3.0,False,,2
+meghan.taylor21@gmail.com,93cf85c9-3406-4def-83b3-223ea2343f40,,,,,,,0.0,,0.0,103.0,2.0,False,,0
+jclarke@hotmail.com,61380cc5-de95-4de4-a4e4-7d70c6b21292,James,Clarke,James Clarke,,Boston,2024-02-28,427.44,2024-04-27,1.0,0.0,0.0,True,385.0,0
+kristin.williams9@gmail.com,80ce143c-56ae-4dd6-809d-d42735f83c09,,,,,,,1478.53,2023-06-23,1.0,0.0,0.0,True,694.0,1
+joseph.carter@gmail.com,8a3b6e90-1cfa-49bc-979a-4c32bc0315e1,Joseph,Carter,Joseph Carter,,Tampa,2022-12-15,618.27,2024-11-25,2.0,0.0,0.0,True,173.0,1
+david@michael-walsh.com,aad69ece-7d5f-48b5-a31d-38cd904f6767,David,Johnson,David Johnson,+16807067554,Indianapolis,2024-07-04,0.0,,0.0,1436.0,3.0,False,,2
+aaron.williams@gmail.com,7bbaf4ed-d5e3-48ca-9488-687cf4422b48,Aaron,Williams,Aaron Williams,,Arlington,2023-09-30,34.7,2024-02-25,1.0,0.0,0.0,False,447.0,0
+joseph@wright.com,651a16ba-21dc-42d7-a5a9-c620acf1cd85,Joseph,Stewart,Joseph Stewart,+18353826770,Tulsa,2022-08-03,0.0,,0.0,0.0,0.0,False,,0
+joseph@wright.com,651a16ba-21dc-42d7-a5a9-c620acf1cd85,Destiny,Johnson,Destiny Johnson,,Milwaukee,2023-04-14,0.0,,0.0,0.0,0.0,False,,0
+bpalmer@gmail.com,5325dba6-4bb1-4406-8812-2babb54caff5,Brady,Palmer,Brady Palmer,+12726934827,Omaha,2022-09-11,0.0,,0.0,0.0,0.0,False,,0
+bpalmer@gmail.com,5325dba6-4bb1-4406-8812-2babb54caff5,Annette,Roberts,Annette Roberts,,South Travis,2023-09-16,0.0,,0.0,0.0,0.0,False,,0
+bpalmer@gmail.com,5325dba6-4bb1-4406-8812-2babb54caff5,Elrzabeth,Md,Elrzabeth Md,,Albuquerque,2023-08-15,0.0,,0.0,0.0,0.0,False,,0
+kevin.moreno@hotmail.com,a7c2c9ba-befb-496b-b9b2-30b0491f218d,Kevin,Moreno,Kevin Moreno,,Indianapolis,2023-10-20,223.77,2024-03-20,1.0,0.0,0.0,True,423.0,0
+kevin.moreno@hotmail.com,a7c2c9ba-befb-496b-b9b2-30b0491f218d,Brandon,Mclean,Brandon Mclean,,Mesa,2022-08-25,223.77,2024-03-20,1.0,0.0,0.0,True,423.0,0
+donna.thompson@yahoo.com,4e6cee85-b729-4679-9416-737c20ef773d,Donna,Thompson,Donna Thompson,+13178249352,Philadelphia,2023-06-20,148.45,2023-09-25,1.0,0.0,0.0,True,600.0,0
+laura.duke68@gmail.com,6f97f737-b2fd-4ed7-b8ab-f764705a6555,,,,,,,49.26,2024-11-17,1.0,0.0,0.0,False,181.0,0
+david_garza25@yahoo.com,9df9e0da-6484-487e-b179-82241d8bf64e,David,Garza,David Garza,+14082566703,Nashville,2023-03-19,0.0,,0.0,1126.0,4.0,False,,2
+donald_gordon@gmail.com,8b1c2b33-9903-4d98-886b-347c3c2d2c25,Donald,Gordon,Donald Gordon,+13208739155,Austin,2025-04-22,2457.75,2023-11-10,1.0,0.0,0.0,True,554.0,1
+ahughes@hotmail.com,845a57dc-0671-4185-93ee-ec192eea5ce2,Amanda,Hughes,Amanda Hughes,,Philadelphia,2025-02-14,41.14,2025-03-19,1.0,0.0,0.0,False,59.0,0
+michael_galvan35@yahoo.com,03135e6c-280b-4539-bbbb-84d7110ce32e,Michael,Galvan,Michael Galvan,+17136619352,Tampa,2023-02-14,0.0,,0.0,433.0,3.0,False,,0
+alexis.hansen@gmail.com,3379e48e-4fdf-4e58-962e-8f3b01d1c89b,Alexis,Hansen,Alexis Hansen,,Baltimore,2023-06-24,270.73,2024-09-20,1.0,0.0,0.0,True,239.0,0
+catherine.johnson@yahoo.com,c664dc44-ad92-4759-b6cd-130e61010007,Catherine,Johnson,Catherine Johnson,,Nashville,2024-02-01,65.79,2024-09-04,1.0,0.0,0.0,False,255.0,0
+kelly.conner@gmail.com,ae9a4b62-ff37-49bf-baa7-6796c97d568d,Kelly,Conner,Kelly Conner,+16829249740,Colorado Springs,2023-07-09,431.18999999999994,2025-01-22,2.0,0.0,0.0,True,115.0,1
+danielle_mercer41@yahoo.com,6d59e23e-b45a-4f52-8fca-327df620a362,Danielle,Mercer,Danielle Mercer,,Charlotte,2023-08-10,0.0,,0.0,0.0,0.0,False,,0
+julie.brock@hotmail.com,21483082-5fd5-4208-913c-a2e43ad000f8,Julie,Brock,Julie Brock,,Mesa,2023-04-07,81.57,2024-07-04,2.0,0.0,0.0,False,317.0,0
+stephanie.church@hotmail.com,0ab8f136-72db-4327-95ee-21507fd50bb3,Stephanie,Church,Stephanie Church,+18182303548,Kansas City,2022-10-02,0.0,,0.0,0.0,0.0,False,,0
+michael.smith32@yahoo.com,5cabba86-8e8a-451e-b0ca-51f999ffaecb,,,,,,,148.11,2024-01-25,1.0,0.0,0.0,True,478.0,0
+christie.fry79@gmail.com,0bc0120d-78ee-4f5d-8919-a8ea2b79c6c2,,,,,,,110.82,2025-03-20,1.0,0.0,0.0,True,58.0,0
+wjones@yahoo.com,a800784f-a28b-4fc1-bda2-acbbf12715ee,William,Jones,William Jones,,Detroit,2024-03-15,163.8,2025-01-15,1.0,0.0,0.0,True,122.0,0
+barbara.wilson@hotmail.com,38b6b895-5fe1-4a17-a7dc-4b72dbeeefbc,Barbara,Wilson,Barbara Wilson,,Denver,2025-05-06,140.17000000000002,2024-07-22,2.0,0.0,0.0,True,299.0,0
+tmoore@yahoo.com,2d707599-d14e-4d83-a2e9-6a6792d95103,Thomas,Moore,Thomas Moore,+16607909558,San Jose,2023-01-02,240.0,2024-09-17,2.0,0.0,0.0,True,242.0,1
+srivera@hotmail.com,077be4bf-0449-4b95-8ec5-9a7b71fd8588,Stephanie,Rivera,Stephanie Rivera,+19438379924,Tulsa,2022-07-27,764.14,2023-05-22,1.0,0.0,0.0,True,726.0,1
+srivera@hotmail.com,077be4bf-0449-4b95-8ec5-9a7b71fd8588,S.,Hall,S. Hall,,Kansas City,2025-04-20,764.14,2023-05-22,1.0,0.0,0.0,True,726.0,1
+jennifer.williams54@yahoo.com,451394ba-7b9d-49fa-8f1a-f6690d4d3063,,,,,,,193.64,2025-04-13,1.0,0.0,0.0,True,34.0,0
+anna.ramirez32@hotmail.com,65989c65-353b-461d-ac63-b0bc785b799b,,,,,,,79.98,2023-10-07,1.0,0.0,0.0,False,588.0,0
+patricia@horton-williams.info,4c64c428-7bbb-4893-aadd-870d7a33fa08,Patricia,Roberson,Patricia Roberson,+13256245397,Fresno,2024-09-06,274.64,2023-07-07,1.0,0.0,0.0,True,680.0,0
+ronald_cantu41@gmail.com,fe7d0a23-0c12-4f49-b7d5-0ed9e47a57aa,Ronald,Cantu,Ronald Cantu,+12173513899,Houston,2024-04-04,0.0,,0.0,0.0,0.0,False,,0
+tadams@gmail.com,a4ad2eb2-fc71-453e-9e20-10d3b9a1af86,Tara,Adams,Tara Adams,,Sacramento,2023-09-22,58.29,2025-03-15,1.0,0.0,0.0,False,63.0,0
+david.rodriguez@yahoo.com,675dec51-0a36-4f1e-87ae-a7665002df1c,David,Rodriguez,David Rodriguez,,Los Angeles,2023-09-15,60.03,2025-04-30,1.0,0.0,0.0,False,17.0,0
+lmosley@hotmail.com,78703df0-8fe7-4d95-9438-8f8afa5f5a3a,Laurie,Mosley,Laurie Mosley,,Seattle,2024-04-25,17.58,2023-07-17,1.0,0.0,0.0,False,670.0,0
+jenniferobrien@example.net,d98da054-b5c0-4ed7-9c02-91a34cfbd18f,Keith,Barrett,Keith Barrett,,Los Angeles,2022-12-23,2286.54,2025-01-11,3.0,0.0,0.0,True,126.0,1
+brandon@fritz-miller.org,5a83176c-f05f-4c0f-b458-7726650a2161,Brandon,Palmer,Brandon Palmer,,Indianapolis,2024-08-10,0.0,,0.0,0.0,0.0,False,,0
+alexander.crawford@gmail.com,4adae858-a4be-4638-9336-9413e20f1217,Alexander,Crawford,Alexander Crawford,,Chicago,2023-03-17,145.48,2024-05-17,2.0,0.0,0.0,True,365.0,0
+michael_carpenter29@hotmail.com,9abe0d6e-3276-474e-ad14-d14439392986,Michael,Carpenter,Michael Carpenter,,Denver,2025-03-17,645.63,2024-02-22,2.0,1246.0,4.0,True,450.0,1
+rconner@yahoo.com,a4d9f3b6-a09e-4c4d-95ba-0d4da38e5cd4,Renee,Conner,Renee Conner,,Phoenix,2023-01-23,1906.37,2024-07-09,1.0,0.0,0.0,True,312.0,1
+rconner@yahoo.com,a4d9f3b6-a09e-4c4d-95ba-0d4da38e5cd4,Richard,Davis,Richard Davis,+12366323144,San Diego,2024-04-20,1906.37,2024-07-09,1.0,0.0,0.0,True,312.0,1
+julia.thompson@gmail.com,939de938-57b2-4fcc-a358-24789f0332d3,Julia,Thompson,Julia Thompson,,San Francisco,2025-05-07,0.0,,0.0,0.0,0.0,False,,0
+gina.george@gmail.com,88dea120-602e-47d0-bef2-aecaf4dfd59f,Gina,George,Gina George,,Los Angeles,2024-08-15,0.0,,0.0,811.0,2.0,False,,0
+keith@anderson-ross.com,ff865486-7fd8-4856-a3c1-57453aad86fb,Keith,Parks,Keith Parks,+15107103029,Portland,2023-12-07,2166.47,2025-05-12,3.0,417.0,2.0,True,5.0,1
+christian_pearson@yahoo.com,4ab9d944-c0a9-40b8-8460-a74dce8c8f83,Christian,Pearson,Christian Pearson,+13638575752,Arlington,2023-02-09,359.6,2024-10-03,1.0,0.0,0.0,True,226.0,0
+joseph.taylor24@hotmail.com,2fc4ed16-8e17-44c2-9f2c-84292971a5d1,,,,,,,1460.26,2025-02-22,1.0,935.0,2.0,True,84.0,1
+tara.arnold86@yahoo.com,5b3f8250-3847-4850-a27c-abb0ec744770,,,,,,,112.43,2023-07-13,1.0,0.0,0.0,True,674.0,0
+ryan.newman44@yahoo.com,ef495bff-8e72-4062-b817-85151bfafb1c,,,,,,,116.02,2024-10-04,1.0,2549.0,7.0,True,225.0,2
+john.thompson89@gmail.com,ef098509-7264-4d20-b0ba-7c00cde4724d,,,,,,,1949.38,2025-03-11,1.0,0.0,0.0,True,67.0,1
+leonard.roberts92@yahoo.com,2551f95d-685e-4a3b-99ba-316f08fd68f0,,,,,,,576.56,2024-11-06,1.0,1551.0,5.0,True,192.0,2
+christopher@guerrero.net,53ea24a7-9a60-4ba9-aace-f1dfc88036b0,Christopher,Holt,Christopher Holt,,San Francisco,2023-03-15,488.28,2024-09-25,1.0,0.0,0.0,True,234.0,0
+gary.ponce@yahoo.com,09030961-0bd9-4662-b6e0-4651bb4cc7a8,Gary,Ponce,Gary Ponce,,Phoenix,2022-05-18,0.0,,0.0,0.0,0.0,False,,0
+dodsonemily@example.org,c85f21dd-3e23-4718-8c98-223336dde054,Laura,Sanford,Laura Sanford,,San Francisco,2022-10-30,0.0,,0.0,0.0,0.0,False,,0
+stephen.collins83@hotmail.com,31a69d63-267a-4226-a18f-7ea3707a1c44,,,,,,,109.63,2023-09-03,1.0,0.0,0.0,True,622.0,0
+nicole.owens84@hotmail.com,9fbb1b1a-c3ef-4774-85f4-08b4ce164299,,,,,,,135.88,2023-06-21,1.0,0.0,0.0,True,696.0,0
+stephanie.harmon26@yahoo.com,3c7a98bd-e287-47aa-a64c-17fa67ef04ec,,,,,,,114.89,2025-03-10,1.0,0.0,0.0,True,68.0,0
+charles.dds@gmail.com,53c8cb1a-02d7-4f61-8add-c651871d5be9,Charles,Harrell,Charles Harrell Dds,+17315823476,Oakland,2025-01-30,0.0,,0.0,0.0,0.0,False,,0
+cbond@yahoo.com,b75d13a3-a1f4-4ad0-9bdb-fb1ca1b49f6e,Carrie,Bond,Carrie Bond,,Atlanta,2022-12-23,166.12,2025-02-10,2.0,0.0,0.0,True,96.0,0
+madison.mejia@gmail.com,438ed871-ed5f-416e-8f14-52512f007cd8,Madison,Mejia,Madison Mejia,,San Diego,2022-05-31,0.0,,0.0,0.0,0.0,False,,0
+kenneth@hopkins.info,3966b3df-f8dd-402a-81e8-2e706999935a,Kenneth,Avila,Kenneth Avila,,Seattle,2023-02-17,83.58,2023-11-12,1.0,1299.0,4.0,False,552.0,2
+gregory.lopez@gmail.com,65dca1d3-a1fb-4aea-ae37-1e9c21e6f0a0,Gregory,Lopez,Gregory Lopez,,Washington,2024-12-17,232.89999999999998,2024-12-04,2.0,0.0,0.0,True,164.0,1
+isaiah.mcdowell44@hotmail.com,3c06e055-2f73-48dd-afe1-61cbcbf25f7e,,,,,,,2257.05,2024-01-09,1.0,0.0,0.0,True,494.0,1
+jennifer_wells@gmail.com,eea05f35-c8fa-48b0-93a9-92662ffb184e,Jennifer,Wells,Jennifer Wells,,San Antonio,2023-05-18,971.3199999999999,2024-09-20,2.0,0.0,0.0,True,239.0,1
+lambdavid@example.net,eb3af7db-2e89-49cc-8b62-ad9ee75a8e36,Carmen,Ramos,Carmen Ramos,,Austin,2025-01-11,0.0,,0.0,0.0,0.0,False,,0
+lambdavid@example.net,eb3af7db-2e89-49cc-8b62-ad9ee75a8e36,Jonathan,Bishop,Jonathan Bishop,,Arlington,2023-02-05,0.0,,0.0,0.0,0.0,False,,0
+paul.graham@gmail.com,68eb99bd-6d3d-4b78-8278-aa8e4f87670b,Paul,Graham,Paul Graham,,Columbus,2024-03-19,450.3,2025-04-29,1.0,0.0,0.0,True,18.0,0
+sfinley@hotmail.com,5c7731e5-22ff-4778-9b98-bf49ed9eb764,Shaun,Finley,Shaun Finley,+18355485617,Long Beach,2022-08-25,241.99,2025-03-22,1.0,0.0,0.0,True,56.0,0
+melissa.bush37@gmail.com,916c7ff9-8987-403f-a7ff-6a94f8f14e5e,,,,,,,477.16,2023-09-27,1.0,0.0,0.0,True,598.0,0
+joshua.jones30@hotmail.com,a906f1b2-1d4f-4f81-8b4a-0edb82dce1dc,,,,,,,513.7,2024-08-27,1.0,0.0,0.0,True,263.0,0
+shannon.reese53@hotmail.com,5142eb57-e85e-48f5-ac28-f67b23bc06e5,,,,,,,0.0,,0.0,1370.0,6.0,False,,2
+albert@gaines-carter.info,3f2f6b1b-19ad-4f59-abfd-9300d822f5ed,Albert,Duke,Albert Duke,+17264556990,Denver,2025-01-06,841.03,2024-12-14,2.0,569.0,2.0,True,154.0,1
+xpittman@yahoo.com,f01e8b2f-ad92-4d1e-b830-79a6e29b8182,Xavier,Pittman,Xavier Pittman,,Austin,2024-04-14,1087.6699999999998,2024-01-16,2.0,1495.0,2.0,True,487.0,1
+awoods@gmail.com,5973f82a-ffe1-4486-927f-6e2b5a0cbda3,Amber,Woods,Amber Woods,+14198851483,El Paso,2023-10-03,0.0,,0.0,0.0,0.0,False,,0
+jonathan_carrillo23@hotmail.com,3b06499f-b189-46d3-84c6-1abf66a455cc,Jonathan,Carrillo,Jonathan Carrillo,,Chicago,2024-08-05,0.0,,0.0,0.0,0.0,False,,0
+jonathan_carrillo23@hotmail.com,3b06499f-b189-46d3-84c6-1abf66a455cc,Christina,Higgins,Christina Higgins,+15449758513,San Jose,2025-03-05,0.0,,0.0,0.0,0.0,False,,0
+diana.bolton@yahoo.com,4ab0a8ac-07f9-45d5-a268-f1dda37d037f,Diana,Bolton,Diana Bolton,+17208862022,San Diego,2023-09-10,89.52,2023-12-04,3.0,0.0,0.0,False,530.0,1
+jessica.martin64@hotmail.com,cff57392-6ae3-4ca4-b629-820b69fad17d,,,,,,,1013.38,2023-06-28,1.0,0.0,0.0,True,689.0,1
+leslie.howell@yahoo.com,cab2420e-2550-4559-be08-897b2948db40,Leslie,Howell,Leslie Howell,+14139487551,El Paso,2022-09-19,2088.0299999999997,2024-11-17,2.0,0.0,0.0,True,181.0,1
+denise@lee.com,4f9d1aca-b93b-4e26-93ee-64e4a7106cb9,Denise,Russell,Denise Russell,+12086535559,Baltimore,2023-07-28,0.0,,0.0,0.0,0.0,False,,0
+rebecca@perez.com,50de06fa-73d9-427a-ad21-be2c64ed7e1c,Rebecca,Mcclure,Rebecca Mcclure,+18079219147,Nashville,2024-07-16,0.0,,0.0,0.0,0.0,False,,0
+brenda@morales-smith.com,10733e5e-b660-4a3f-995f-efafca72b4e5,Brenda,Wiggins,Brenda Wiggins,+19526684608,,2024-12-31,93.42,2025-04-13,1.0,0.0,0.0,False,34.0,0
+brenda@morales-smith.com,10733e5e-b660-4a3f-995f-efafca72b4e5,S.,Williams,S. Williams,+14486527405,Memphis,2024-08-04,93.42,2025-04-13,1.0,0.0,0.0,False,34.0,0
+sheri.nielsen60@yahoo.com,2db98d31-5cd5-4e23-bc4d-15885a8f89b2,,,,,,,183.7,2024-06-05,1.0,0.0,0.0,True,346.0,0
+donna.martin88@hotmail.com,8dd5491a-49bd-4d1d-ac2c-0a76faf18332,,,,,,,70.05,2024-10-14,1.0,4887.0,12.0,False,215.0,2
+abenson@gmail.com,02120028-050a-4aee-b607-3fdc045c0f14,Anna,Benson,Anna Benson,+19843916088,Kansas City,2023-10-09,79.28,2024-09-04,1.0,0.0,0.0,False,255.0,0
+veronica_chang38@gmail.com,46dff496-80f2-48e6-83f7-867f64ab2f50,Veronica,Chang,Veronica Chang,,Atlanta,2024-08-26,0.0,,0.0,0.0,0.0,False,,0
+hrobbins@example.com,5a2542ba-421a-4915-b71e-4d1cbc6b973b,Evelyn,Fields,Evelyn Fields,+12022710338,Oakland,2023-11-11,0.0,,0.0,0.0,0.0,False,,0
+smatthews@yahoo.com,928e45ba-631b-48ee-be30-3272b9361a04,Sarah,Matthews,Sarah Matthews,+17126493601,,2023-05-14,0.0,,0.0,0.0,0.0,False,,0
+michael@phillips.org,a87d3e7c-ee77-404b-a4c5-86246b2ed1e6,Michael,Wilson,Michael Wilson,,Chicago,2023-10-31,0.0,,0.0,0.0,0.0,False,,0
+jackie.king@hotmail.com,223bf145-5bf5-4c5e-98de-522ab1ea4df1,Jackie,King,Jackie King,+14063046845,Mesa,2023-01-05,689.0,2025-05-13,2.0,0.0,0.0,True,4.0,1
+linda53@example.com,529ff766-608f-4c00-a136-e3343786e468,Steven,Oconnor,Steven Oconnor,,Fresno,2023-06-30,0.0,,0.0,0.0,0.0,False,,0
+lstanley@gmail.com,c2a3e1b9-2827-4376-ba3f-2b3ea19248fe,Linda,Stanley,Linda Stanley,,Columbus,2024-12-08,560.22,2024-08-28,2.0,0.0,0.0,True,262.0,1
+stacey.weber52@yahoo.com,e1e1d4e4-af41-4c7a-9681-11059d5bbe29,,,,,,,117.73,2023-08-25,1.0,0.0,0.0,True,631.0,0
+colin.smith34@hotmail.com,65327a86-87f1-43c2-bf63-046cf1368be8,,,,,,,111.03,2025-04-13,1.0,0.0,0.0,True,34.0,0
+andrew.miller7@hotmail.com,9799927b-90a0-41fd-bea4-7e50ec87c54a,,,,,,,235.1,2024-05-27,1.0,0.0,0.0,True,355.0,0
+bethany@myers-carter.com,e74250f8-c000-4645-bd4b-415fe7c23a5a,Bethany,Simon,Bethany Simon,+13165638646,Indianapolis,2022-11-15,50.76,2023-11-16,1.0,0.0,0.0,False,548.0,0
+jessica@fox.org,3ef4d382-3a07-4ca2-8757-59c24f878ba5,Jessica,Bartlett,Jessica Bartlett,,Tulsa,2023-04-23,0.0,,0.0,0.0,0.0,False,,0
+melissa@williams.com,3847765f-5318-4956-acab-6883acd8edfe,Melissa,Olson,Melissa Olson,+12894312496,Philadelphia,2023-05-13,142.0,2025-03-27,1.0,0.0,0.0,True,51.0,0
+scott_cole@gmail.com,cf946180-c34c-4f9f-adcc-32080e8bbc0d,Scott,Cole,Scott Cole,,Portland,2025-01-09,0.0,,0.0,1464.0,6.0,False,,2
+james@hester.com,e70a3feb-fc62-490a-9415-62c7673427be,James,Ramirez,James Ramirez,+18046475460,San Antonio,2024-11-22,647.27,2023-10-23,1.0,0.0,0.0,True,572.0,0
+marcus.hancock@gmail.com,d0da7da1-1400-43b3-847a-9f7208dabdf0,Marcus,Hancock,Marcus Hancock,+18703064317,Phoenix,2023-01-18,26.94,2023-08-06,1.0,0.0,0.0,False,650.0,0
+elizabeth.singleton64@hotmail.com,9c69ab03-ff1b-420c-9524-0ffa6155f7fe,,,,,,,291.48,2024-01-18,1.0,0.0,0.0,True,485.0,0
+christopher_mullins3@hotmail.com,901f2945-3100-46a2-9e1d-1f9a862153ed,Christopher,Mullins,Christopher Mullins,,Chicago,2023-01-08,33.39,2023-08-05,1.0,0.0,0.0,False,651.0,0
+michael.baker45@hotmail.com,4c247fc4-cbc0-4c26-a385-87da7d5ab929,,,,,,,217.2,2025-03-26,1.0,0.0,0.0,True,52.0,0
+alyssa.mcgee71@yahoo.com,d5f1cbcf-5383-4cf8-8022-4c29b6a59acb,,,,,,,158.88,2023-12-03,1.0,0.0,0.0,True,531.0,0
+morgansharon@example.com,a5c2efbf-f2e4-48c4-871f-02e7a7565e2e,Nicholas,Brown,Nicholas Brown Ii,+17544489841,Omaha,2023-02-23,244.85,2025-03-01,3.0,0.0,0.0,True,77.0,1
+melissa_contreras5@yahoo.com,8f68fbcb-dfea-479c-a08c-83338a2a34d9,Melissa,Contreras,Melissa Contreras,,San Jose,2023-12-13,0.0,,0.0,0.0,0.0,False,,0
+adam@lee.org,64889fda-87ec-464b-bed0-2b646cc6c0a2,Adam,Rodriguez,Adam Rodriguez,+12185033761,Washington,2023-06-02,447.68,2025-03-20,1.0,0.0,0.0,True,58.0,0
+amanda@chang-smith.com,65a18973-cb29-49e8-b4ee-14a60c1286d1,Amanda,Mcgee,Amanda Mcgee,,San,2023-12-26,0.0,,0.0,0.0,0.0,False,,0
+troy_bowen29@yahoo.com,e6fef87e-7519-4969-a290-fe6d6a4c2df1,Troy,Bowen,Troy Bowen,+18087816435,Memphis,2022-06-09,1130.3,2024-05-10,2.0,0.0,0.0,True,372.0,1
+bethany.berg@yahoo.com,5d8101a1-cc62-4d10-9262-6a3e0938405f,Bethany,Berg,Bethany Berg,+15857625650,Chicago,2022-07-01,559.16,2024-03-07,1.0,151.0,1.0,True,436.0,0
+dhill@hotmail.com,12b81b0b-1f38-4203-90c9-e315f35e672f,Daisy,Hill,Daisy Hill,,Chicago,2023-05-18,700.19,2024-08-16,2.0,0.0,0.0,True,274.0,1
+vdavis@example.com,8649439f-0b69-4f1b-9b6c-bfa6f6d25192,Trevor,Sandoval,Trevor Sandoval,+12297498512,Dallas,2024-07-03,0.0,,0.0,1786.0,5.0,False,,2
+mmd@hotmail.com,beb3f9c6-33f1-414d-bc50-a1ec89d84557,Monica,Wright,Mrs. Monica Wright Md,,Seattle,2025-03-06,0.0,,0.0,0.0,0.0,False,,0
+anne.vasquez67@gmail.com,634d4c21-d874-446c-a90a-b413ca4990f9,,,,,,,49.09,2023-12-05,1.0,1709.0,3.0,False,529.0,2
+daniel09@example.net,7ccc6a52-b6cc-429f-a22c-568be4a911e2,Samantha,Anderson,Samantha Anderson Md,,San Jose,2024-09-18,441.49,2024-02-18,2.0,0.0,0.0,True,454.0,1
+hannah.edwards@hotmail.com,e26c9382-b57c-4c3d-9c0d-7af58a692bed,Hannah,Edwards,Hannah Edwards,,Houston,2022-08-13,0.0,,0.0,1047.0,4.0,False,,2
+hailey@randall.net,e00cbd3d-3d3f-44e1-8810-f3ed89073cca,Hailey,Chambers,Hailey Chambers,+14756241301,Tulsa,2022-07-17,206.93,2025-05-05,1.0,0.0,0.0,True,12.0,0
+bryce.gomez99@hotmail.com,70375f9d-9755-448d-b8a1-64fa58aca67e,,,,,,,1007.44,2024-08-21,1.0,0.0,0.0,True,269.0,1
+barbara_owens40@hotmail.com,d3721abb-cea0-4478-a18c-82136ec47008,Barbara,Owens,Barbara Owens,+17265324728,,2024-12-01,211.99,2023-06-22,1.0,1245.0,3.0,True,695.0,2
+christopher.wilson68@hotmail.com,7d943952-c67c-4609-8b39-3aaddd003f87,,,,,,,361.09,2025-01-10,1.0,0.0,0.0,True,127.0,0
+joseph_brown@hotmail.com,238352f7-5d9c-49b1-8109-b18d8aae9b94,Joseph,Brown,Joseph Brown,,Fort Worth,2022-07-13,0.0,,0.0,0.0,0.0,False,,0
+joseph_brown@hotmail.com,238352f7-5d9c-49b1-8109-b18d8aae9b94,Daniel,Ali,Daniel Ali,+17039616600,Austin,2025-01-31,0.0,,0.0,0.0,0.0,False,,0
+kyle30@example.com,049b9ad9-d86c-4f0b-84f6-17619365e09d,Nathan,Patterson,Nathan Patterson,,OK,2023-06-05,1824.87,2024-04-25,1.0,0.0,0.0,True,387.0,1
+nichole@myers.com,1a0807cf-47ed-4119-9d7c-0b3cae6e61ea,Nichole,Smith,Nichole Smith,+18634233502,Houston,2024-05-01,1201.8799999999999,2024-06-04,2.0,0.0,0.0,True,347.0,1
+richard.robertson@hotmail.com,df16836b-107a-45b0-b085-e283f0c2a068,Richard,Robertson,Richard Robertson,+18764303603,Fresno,2022-08-12,0.0,,0.0,0.0,0.0,False,,0
+richard.robertson@hotmail.com,df16836b-107a-45b0-b085-e283f0c2a068,Henry,Conway,Henry Conway,,El Paso,2025-03-04,0.0,,0.0,0.0,0.0,False,,0
+marie_smith@yahoo.com,a494c7cc-63d4-4599-856a-d4a38b16d1b5,Marie,Smith,Marie Smith,,Baltimore,2025-03-18,0.0,,0.0,0.0,0.0,False,,0
+donna.roberts@gmail.com,d5fbbeb6-58b4-4c0c-af71-e87e7817c55b,Donna,Roberts,Donna Roberts,,New York,2023-07-30,385.83,2024-06-09,1.0,0.0,0.0,True,342.0,0
+wsnyder@gmail.com,ef921186-aa73-4d45-9e7a-77937583b567,Wanda,Snyder,Wanda Snyder,,Washington,2023-07-22,0.0,,0.0,0.0,0.0,False,,0
+alejandro77@example.com,1f70a32a-33c2-4136-934c-f2ea12fedcb6,Todd,Thomas,Todd Thomas,+18328426869,San Antonio,2025-01-03,119.82,2024-02-18,1.0,0.0,0.0,True,454.0,0
+troy_ward13@yahoo.com,ca8f030f-828f-4834-aad9-93893f9239a1,Troy,Ward,Troy Ward,,New Orleans,2025-03-21,760.8399999999999,2025-01-25,2.0,0.0,0.0,True,112.0,1
+joshua.chapman80@gmail.com,6a8ef989-d446-40ea-bfb7-5b3626b14ba3,,,,,,,67.76,2024-09-02,1.0,0.0,0.0,False,257.0,0
+sue06@example.net,4cf604c6-4180-4ac5-8ffc-cb9e6b4e250a,Jaime,Gilbert,Jaime Gilbert,+15279984622,GA,2024-06-05,190.17,2025-02-09,1.0,726.0,2.0,True,97.0,0
+susan.wright8@yahoo.com,c12ff4c2-c610-4dde-ba49-e6bb1b80c431,,,,,,,97.62,2024-07-22,1.0,1526.0,2.0,False,299.0,2
+srobinson@yahoo.com,8496e9ea-f115-4bbb-aa03-5bd30e0e76f0,Samantha,Robinson,Samantha Robinson,,Atlanta,2023-11-18,0.0,,0.0,0.0,0.0,False,,0
+sheri_sims37@hotmail.com,83f61e1f-f295-4964-a274-51a7889da366,Sheri,Sims,Sheri Sims,+17707694016,Omaha,2022-08-07,1941.89,2024-04-13,1.0,0.0,0.0,True,399.0,1
+bretthenry@example.net,b2a86134-b4dd-49f9-b777-1ba7f70f881d,Chad,Hernandez,Chad Hernandez,+13126098069,Atlanta,2024-04-10,71.38,2024-04-24,2.0,0.0,0.0,False,388.0,0
+glenn@moore.com,3068ee41-dae3-406c-ad59-be0a738881ac,Glenn,Marshall,Glenn Marshall,+17122574616,Virginia Beach,2024-09-21,0.0,,0.0,0.0,0.0,False,,0
+kyle.lowe85@hotmail.com,25f3a078-ae84-4cfb-ae9e-c9540b487694,,,,,,,446.99,2024-10-16,1.0,1351.0,4.0,True,213.0,2
+ehardin@example.org,baf65c7b-3151-4c97-95c4-d75875383170,Amanda,Glass,Amanda Glass,,Tampa,2025-02-26,68.56,2023-09-21,1.0,0.0,0.0,False,604.0,0
+brittney.carroll@gmail.com,6753200c-f895-478f-a6e0-53fa9b8cccde,Brittney,Carroll,Brittney Carroll,,Atlanta,2023-06-11,248.5,2025-01-09,1.0,0.0,0.0,True,128.0,0
+robert.brown@hotmail.com,05278deb-adcb-4f96-99f0-85b2f8e3e96e,Robert,Brown,Robert Brown,+15855855314,Detroit,2023-06-16,547.03,2025-01-16,2.0,0.0,0.0,True,121.0,1
+terri_nelson41@gmail.com,0ce699b7-f3b0-4334-93c0-481949f4ec2c,Terri,Nelson,Terri Nelson,,New Orleans,2022-12-10,1016.69,2024-08-22,1.0,0.0,0.0,True,268.0,1
+ryan.martin@gmail.com,482377c4-416a-42b0-8de5-8aa2fc369ef6,Ryan,Martin,Ryan Martin,,Philadelphia,2022-07-24,226.47,2024-02-26,1.0,0.0,0.0,True,446.0,0
+brandon.vazquez77@gmail.com,100d280f-d685-4212-9994-13eb39af4833,,,,,,,356.27,2024-05-16,1.0,0.0,0.0,True,366.0,0
+christopher.butler88@hotmail.com,83c6e1ea-1da5-4fbb-981a-da449a78cf57,,,,,,,352.35,2025-02-28,1.0,0.0,0.0,True,78.0,0
+kyle.king12@gmail.com,2fce4be0-bb7f-4344-acdc-03297ac71ce3,,,,,,,1102.82,2024-09-27,1.0,0.0,0.0,True,232.0,1
+brooke.thompson37@hotmail.com,9ad843d9-4b60-4869-a02b-d5090ab1efe2,,,,,,,488.21,2024-05-23,1.0,0.0,0.0,True,359.0,0
+andrew.jackson@yahoo.com,14955396-80b0-4585-896c-002a9d9a7790,Andrew,Jackson,Andrew Jackson,+15233888261,Tulsa,2022-09-24,0.0,,0.0,0.0,0.0,False,,0
+andrew.jackson@yahoo.com,14955396-80b0-4585-896c-002a9d9a7790,Walter,Taylor,Walter Taylor,+17808538398,Kansas City,2023-05-04,0.0,,0.0,0.0,0.0,False,,0
+andrew.jackson@yahoo.com,14955396-80b0-4585-896c-002a9d9a7790,Tara,Golden,Tara Golden,+19493332031,Port Adam,2024-08-13,0.0,,0.0,0.0,0.0,False,,0
+frank_roach@gmail.com,82b5a872-d01e-44eb-b267-936d99399cfe,Frank,Roach,Frank Roach,+17695576285,Houston,2023-05-27,938.3199999999999,2024-10-20,2.0,0.0,0.0,True,209.0,1
+austin_stanley@yahoo.com,daa0b668-29ec-4393-95c8-7106dc795052,Austin,Stanley,Austin Stanley,,Kansas City,2022-08-11,1635.68,2023-12-29,1.0,0.0,0.0,True,505.0,1
+shannon.vincent12@gmail.com,2f5be065-9c50-409c-9e7c-cb7d025558b5,,,,,,,524.82,2025-01-29,1.0,0.0,0.0,True,108.0,0
+tyler07@example.com,03eb9708-4b78-47d5-830a-446e31307450,Richard,Turner,Richard Turner,+12277684076,Long Beach,2024-04-08,24.82,2025-03-05,1.0,0.0,0.0,False,73.0,0
+kristy.sellers@gmail.com,0f0c99ec-7b26-4626-b455-125a38e1fe1b,Kristy,Sellers,Kristy Sellers,+12244375358,Mesa,2023-02-15,722.23,2024-08-23,2.0,669.0,3.0,True,267.0,1
+kcombs@gmail.com,611acc25-1f93-4ba2-acb8-a3463358420a,Kristine,Combs,Kristine Combs,,Charlotte,2024-07-31,1248.24,2025-04-14,3.0,0.0,0.0,True,33.0,1
+laura@green-crawford.net,030156c3-bf72-4e5a-9ad4-9424550bd7b0,Laura,Livingston,Laura Livingston,,Minneapolis,2025-03-11,2413.26,2023-11-22,1.0,0.0,0.0,True,542.0,1
+laura.maldonado@gmail.com,6024ec20-476f-4cf7-ab3f-46d79fcc5e87,Laura,Maldonado,Laura Maldonado,,Denver,2025-04-10,0.0,,0.0,0.0,0.0,False,,0
+mr..anderson@yahoo.com,a0fa6fdb-a531-4adf-a45f-d3a90e8ce855,Alexander,Anderson,Mr. Alexander Anderson,+15219273122,Atlanta,2024-11-09,0.0,,0.0,0.0,0.0,False,,0
+murraylauren@example.net,aa2a3f42-a5cc-41a1-9428-9eccc880f8fd,Gina,Pennington,Gina Pennington,,Oakland,2024-02-06,0.0,,0.0,0.0,0.0,False,,0
+diana_saunders@hotmail.com,3fb22104-d401-4fc8-9afd-76c15906df15,Diana,Saunders,Diana Saunders,+12087906818,Charlotte,2022-06-29,608.0600000000001,2023-09-22,3.0,0.0,0.0,True,603.0,1
+kaitlynsimmons@example.net,5967d68d-f45a-4bd8-b0dd-e8ce6932026a,Brian,Garcia,Brian Garcia,,Albu,2023-05-08,0.0,,0.0,0.0,0.0,False,,0
+lori.howard@gmail.com,35e2c638-48df-4d1f-831b-9b8281d6b9d2,Lori,Howard,Lori Howard,+17857882283,San Jose,2022-10-05,30.24,2024-10-09,1.0,0.0,0.0,False,220.0,0
+acox@gmail.com,f5fdf3f8-45bd-4fb2-be9d-5947aef0d2a2,Amanda,Cox,Amanda Cox,,Long Beach,2023-02-13,352.70000000000005,2024-08-21,2.0,971.0,2.0,True,269.0,1
+robert.holt@hotmail.com,162c8727-bdb7-4b23-a249-5c13eb0eeaed,Robert,Holt,Robert Holt,+13637052869,Memphis,2024-04-06,303.76,2025-02-01,2.0,0.0,0.0,True,105.0,1
+sbruce@hotmail.com,2c0a8713-0bbd-4e55-a95f-68c428995792,Shannon,Bruce,Shannon Bruce,,Fresno,2024-08-29,147.64,2025-01-29,1.0,0.0,0.0,True,108.0,0
+jennifer_wright25@hotmail.com,d45e29bd-9db3-4ecd-8536-5d4715e49eae,Jennifer,Wright,Jennifer Wright,,Denver,2025-04-17,1664.42,2024-12-10,1.0,0.0,0.0,True,158.0,1
+jessica.phillips77@yahoo.com,ffa3a62b-ddeb-410c-a65e-ae9abf8ced8e,,,,,,,379.77,2024-11-08,1.0,0.0,0.0,True,190.0,0
+jeremy.meza@yahoo.com,ca01884c-b860-4057-afce-67453d35bf34,Jeremy,Meza,Jeremy Meza,,Denver,2022-12-24,0.0,,0.0,510.0,1.0,False,,0
+sarah@jones.com,52f39960-2206-4825-8c90-80bb79275cb0,Sarah,Lester,Sarah Lester,,Atlanta,2024-12-17,0.0,,0.0,0.0,0.0,False,,0
+tiffany_perkins@hotmail.com,8f58de05-5d48-420c-96c9-77ef0ba70b4d,Tiffany,Perkins,Tiffany Perkins,,Austin,2022-10-30,155.67,2024-06-15,1.0,0.0,0.0,True,336.0,0
+michael@ward.org,ffdb88aa-2a29-48fc-94f4-0f4f07a56f2f,Michael,Ingram,Michael Ingram,,Leestad,2025-03-18,0.0,,0.0,894.0,1.0,False,,2
+david.duke@gmail.com,1735eb07-a44b-443c-bb8e-fa2ffd59b1c4,David,Duke,David Duke,+14479657450,Seattle,2022-09-04,204.26,2023-06-11,1.0,0.0,0.0,True,706.0,0
+pwells@gmail.com,ec841d28-118b-44e3-b033-80d3266c7eeb,Priscilla,Wells,Priscilla Wells,,MT,2024-06-24,367.49,2025-05-10,1.0,0.0,0.0,True,7.0,0
+cookkimberly@example.com,152b3b39-5811-410e-a4c8-dbd5b62e3d3b,John,Irwin,John Irwin,,,2023-11-19,0.0,,0.0,1913.0,5.0,False,,2
+shawn@davis-lewis.com,592daed6-094a-4e53-9a9c-45e34b0c0edd,Shawn,Baxter,Shawn Baxter,+15612693191,Sacramento,2022-11-28,226.35,2025-04-08,2.0,0.0,0.0,True,39.0,1
+slopez@yahoo.com,2001c1b8-7511-4f62-8362-321c8eb620f1,Scott,Lopez,Scott Lopez,+14068024502,Mesa,2023-04-08,50.48,2024-09-05,1.0,0.0,0.0,False,254.0,0
+abigail.luna72@gmail.com,633c0d1f-44a0-499b-b301-55fba67b3122,,,,,,,328.05,2024-04-28,1.0,0.0,0.0,True,384.0,0
+rebekah.myers@gmail.com,7173129f-13d1-4b1c-8d28-6d60624e91a7,Rebekah,Myers,Rebekah Myers,,Houston,2022-12-10,582.89,2024-10-10,2.0,0.0,0.0,True,219.0,1
+chad01@example.org,414bed92-f88f-492b-aefd-9dbe0256975e,Tracy,Friedman,Tracy Friedman,+16568052374,Fresno,2022-09-14,0.0,,0.0,0.0,0.0,False,,0
+david@chandler.info,a4067abd-6c3a-4b10-9d3c-203a05d68c3e,David,Smith,David Smith,+13695142373,Chicago,2023-08-21,0.0,,0.0,229.0,1.0,False,,0
+melissa.mccoy2@gmail.com,fd3304df-7fe8-410e-8125-005c06d27021,,,,,,,134.39,2023-07-13,1.0,631.0,1.0,True,674.0,0
+copelandpeter@example.net,ec05e54c-f1b8-4c37-a3f4-f4a627416716,Morgan,Jackson,Morgan Jackson,+14317742468,Detroit,2022-06-17,0.0,,0.0,0.0,0.0,False,,0
+stephanie@zavala.com,8dcad4cd-7da9-49ef-ab8c-78d2e568df53,Stephanie,Mcbride,Stephanie Mcbride,,Charlotte,2024-07-03,0.0,,0.0,0.0,0.0,False,,0
+lisa.phillips59@yahoo.com,122918c8-e4fc-4f3e-98a6-1eeee11c58a8,,,,,,,135.83,2024-10-12,1.0,0.0,0.0,True,217.0,0
+michael.stewart58@hotmail.com,39c6a799-d367-4208-9955-3afb800ba416,,,,,,,0.0,,0.0,1362.0,3.0,False,,2
+davidsonsherry@example.com,92a61e13-94a8-4e70-bc5b-8348f45b90a6,Tracey,Perry,Tracey Perry,,Tulsa,2024-05-11,286.96,2024-08-29,1.0,0.0,0.0,True,261.0,0
+tmartinez@gmail.com,ba61ffa9-68ad-4d32-bd99-8fbb1d3e79a8,Timothy,Martinez,Timothy Martinez,+18796024461,Sacramento,2022-07-12,206.22,2024-02-26,1.0,0.0,0.0,True,446.0,0
+melinda.may71@hotmail.com,9337b071-99af-497c-9d6d-470299c02972,,,,,,,1376.31,2024-12-13,1.0,0.0,0.0,True,155.0,1
+eric.fleming34@hotmail.com,85e338d5-72b6-4ba5-b01c-628adbfa2423,,,,,,,219.63,2024-09-09,1.0,0.0,0.0,True,250.0,0
+christopher.myers@gmail.com,6540239f-4dbf-4b6b-b5da-d3c02f2a4109,Christopher,Myers,Christopher Myers,+13689768800,Fresno,2024-01-09,762.3800000000001,2024-12-02,2.0,0.0,0.0,True,166.0,1
+steven.shaw@hotmail.com,027aca87-7480-4269-93b9-33b209262ea5,Steven,Shaw,Steven Shaw,+18766387038,Boston,2023-03-07,1086.69,2024-04-22,1.0,1529.0,4.0,True,390.0,2
+paige.perez@yahoo.com,b0fd0483-bc1c-4c61-8fe1-1f4b09550615,Paige,Perez,Paige Perez,,Albuquerque,2024-04-06,756.01,2023-09-19,1.0,0.0,0.0,True,606.0,1
+ashley.savage@gmail.com,a7443a33-72c5-4a01-a4e1-db7f9fc8c4b4,Ashley,Savage,Ashley Savage,,Arlington,2024-06-26,327.56,2023-06-18,1.0,0.0,0.0,True,699.0,0
+mitchell.cole71@gmail.com,012dc441-cadd-48eb-b0e0-08749505d5c3,,,,,,,221.32,2023-09-14,1.0,0.0,0.0,True,611.0,0
+lauren@long.com,dd60d151-244a-4b30-a184-b721937638de,Lauren,Murillo,Lauren Murillo,+18457512447,Tulsa,2022-07-13,346.47,2023-08-16,1.0,0.0,0.0,True,640.0,0
+williamsjennifer@example.org,09830b4b-4694-492c-a336-d98ccc149bdc,Jasmine,James,Jasmine James,+14012898525,Mesa,2024-09-04,0.0,,0.0,914.0,2.0,False,,2
+heather.lowe2@yahoo.com,d3bf06a3-a2fa-40f7-9cac-edf732fd4509,,,,,,,91.24,2025-02-19,1.0,0.0,0.0,False,87.0,0
+ruth.tran@yahoo.com,d0e8671a-23e6-4f4a-a2bd-71c4c4d04ce1,Ruth,Tran,Ruth Tran,+16186928447,Tampa,2022-12-01,82.21,2023-11-04,1.0,0.0,0.0,False,560.0,0
+benjamin.taylor73@gmail.com,be306e93-be03-41fd-bc17-695b80c4e5b2,,,,,,,270.95,2024-07-22,1.0,0.0,0.0,True,299.0,0
+robert.ramirez@hotmail.com,eaa2520d-fbfe-4b83-a71e-17a309348ee1,Robert,Ramirez,Robert Ramirez,+12709446136,Fort Worth,2022-07-05,17.5,2025-04-11,1.0,0.0,0.0,False,36.0,0
+tsmith@gmail.com,70590bca-2574-4426-8fe5-a3e314396a1b,Tracy,Smith,Tracy Smith,+13414025862,San Jose,2023-01-01,774.96,2024-06-15,3.0,0.0,0.0,True,336.0,1
+bkemp@yahoo.com,40a8d990-2249-49fe-bf47-7bc6f6e4fd89,Brandon,Kemp,Brandon Kemp,+17302726210,Atlanta,2024-10-15,0.0,,0.0,0.0,0.0,False,,0
+sharon.dvm80@yahoo.com,4170c62a-34e8-4531-8855-096fa36cb3c5,,,,,,,437.06,2023-09-03,1.0,0.0,0.0,True,622.0,0
+wendy.reed@yahoo.com,0ab4168b-ec64-44ce-a06a-79d5e4b29ca0,Wendy,Reed,Wendy Reed,,Indianapolis,2023-04-17,22.76,2025-04-20,1.0,0.0,0.0,False,27.0,0
+holly06@example.net,3bb3151d-9d93-4f13-aa72-f1afc2a394a1,Brooke,Sandoval,Brooke Sandoval,,Virginia Beach,2022-08-30,0.0,,0.0,0.0,0.0,False,,0
+jackson.clarke59@yahoo.com,a51a27b8-a47b-4fce-a4d4-2c53b15f3498,,,,,,,0.0,,0.0,1080.0,3.0,False,,2
+michaela.cox@gmail.com,ccf8095f-8e91-48e2-8fff-96b64d531a8d,Michaela,Cox,Michaela Cox,+13544349070,Houston,2022-10-18,0.0,,0.0,0.0,0.0,False,,0
+logan_sawyer3@gmail.com,bcbc4da9-5425-4020-828d-66d87ebb6fe7,Logan,Sawyer,Logan Sawyer,+14502971290,Denver,2022-06-02,0.0,,0.0,294.0,2.0,False,,0
+logan_sawyer3@gmail.com,bcbc4da9-5425-4020-828d-66d87ebb6fe7,Michellh,Day,Michellh Day,+13149557303,Baltimore,2023-08-07,0.0,,0.0,294.0,2.0,False,,0
+matthew.sanders@gmail.com,326723d9-36c9-4c24-91fa-7b0eb46e0b79,Matthew,Sanders,Matthew Sanders,+19085622973,Atlanta,2022-08-28,0.0,,0.0,0.0,0.0,False,,0
+madison.harris@yahoo.com,75c29de1-8473-43c8-89e7-788712248361,Madison,Harris,Madison Harris,+18216297522,Charlotte,2023-01-20,445.4,2025-04-08,2.0,0.0,0.0,True,39.0,1
+anthony_king37@gmail.com,83196bc6-c8ce-4b1c-afa7-2f3703b4b1cc,Anthony,King,Anthony King,,Chicago,2023-11-10,94.04,2024-11-09,1.0,0.0,0.0,False,189.0,0
+anthony_king37@gmail.com,83196bc6-c8ce-4b1c-afa7-2f3703b4b1cc,Meghan,Hernandez,Meghan Hernandez,,Kansas City,2025-01-20,94.04,2024-11-09,1.0,0.0,0.0,False,189.0,0
+thomas42@example.com,6ac45098-25f4-4e70-ab15-bb653e39b2dc,Lisa,Mills,Lisa Mills,,Sacramento,2023-02-03,80.16,2024-08-31,2.0,0.0,0.0,False,259.0,0
+ryan.garcia@yahoo.com,5374c2a4-742b-4b03-be15-9c6b2193ef0d,Ryan,Garcia,Ryan Garcia,+15403218516,Philadelphia,2023-04-19,0.0,,0.0,0.0,0.0,False,,0
+sarah.briggs72@hotmail.com,8e23017c-ab6d-4a46-b376-530cbf043716,,,,,,,139.1,2024-10-22,1.0,1390.0,7.0,True,207.0,2
+probinson@yahoo.com,414d81bf-8489-4dec-a331-928bc6584257,Patricia,Robinson,Patricia Robinson,+18645486764,Arlington,2025-05-14,0.0,,0.0,0.0,0.0,False,,0
+john_wright2@hotmail.com,47ddab22-65a3-4b4a-a645-a13f0eb8569a,John,Wright,John Wright,,Detroit,2023-10-20,901.41,2024-08-04,1.0,0.0,0.0,True,286.0,1
+emma.sullivan88@yahoo.com,cd683392-29e3-4440-bac3-9cb7fe0dfc5b,,,,,,,313.86,2023-08-23,1.0,0.0,0.0,True,633.0,0
+james.perez@yahoo.com,89c031e8-9cc1-4c3e-83dc-975178c340e0,James,Perez,James Perez,,Virginia Beach,2023-07-02,0.0,,0.0,0.0,0.0,False,,0
+dawn_md43@yahoo.com,6c0d5afe-3d00-48be-9381-ed4c44ed1ee7,Dawn,Banks,Dawn Banks Md,,Fresno,2024-07-02,527.19,2024-10-30,1.0,0.0,0.0,True,199.0,0
+brandon.hughes29@hotmail.com,793d7819-4c5a-499d-9cbe-9e6eea857b8d,,,,,,,0.0,,0.0,875.0,1.0,False,,2
+gina.gonzalez95@hotmail.com,d37a1a50-3bde-4c17-99a2-e7537ac6b1b8,,,,,,,46.47,2023-07-21,1.0,233.0,1.0,False,666.0,0
+ryan@carlson.com,98af0b31-1e9a-4729-931d-19bb1db87036,Ryan,Kent,Ryan Kent,+18066134913,Arlington,2025-04-28,368.28,2025-02-18,1.0,0.0,0.0,True,88.0,0
+sarahbishop@example.net,4d86a7d3-d1e8-4a40-9923-b4f712b99f90,Christopher,Foley,Christopher Foley,+16233029034,Columbus,2023-07-18,0.0,,0.0,1116.0,2.0,False,,2
+zachary.dominguez@hotmail.com,15f056da-87d4-4478-819e-22ea8fcfcd4f,Zachary,Dominguez,Zachary Dominguez,+18729764340,UT,2023-01-25,0.0,,0.0,0.0,0.0,False,,0
+shannon_moreno@hotmail.com,9f149030-9d57-466e-a563-e7e765f504a8,Shannon,Moreno,Shannon Moreno,,Indianapolis,2025-04-24,0.0,,0.0,0.0,0.0,False,,0
+michael.gardner@hotmail.com,fa71b3f6-c86e-481d-b0ec-25288b7a0502,Michael,Gardner,Michael Gardner,,Nashville,2024-07-17,0.0,,0.0,0.0,0.0,False,,0
+jared.diaz32@gmail.com,7e49d28f-f541-4827-a8e9-de773e7c3f52,,,,,,,0.0,,0.0,1145.0,3.0,False,,2
+william.thomas67@hotmail.com,46a5759f-20cf-4f5d-b37e-fc2e05c5449a,,,,,,,131.73,2023-08-10,1.0,880.0,2.0,True,646.0,0
+lindsey.hartman85@gmail.com,39a77c90-483c-4bc2-a4b3-a4187fa552fc,,,,,,,234.56,2024-08-29,1.0,0.0,0.0,True,261.0,0
+christy.maynard@hotmail.com,04652256-0a13-4977-b54a-d093e75c3f54,Christy,Maynard,Christy Maynard,,Long Beach,2024-11-18,0.0,,0.0,0.0,0.0,False,,0
+dana.anderson1@hotmail.com,761f4983-a4cb-47e5-9281-198b77c9075c,,,,,,,214.53,2024-09-11,1.0,1189.0,4.0,True,248.0,2
+kristine17@example.com,79b0d181-f66f-4ad0-aa83-98eb6564fe7b,Laura,Lopez,Laura Lopez,,Indianapolis,2022-11-19,0.0,,0.0,0.0,0.0,False,,0
+mdvm@yahoo.com,68321a7e-557d-4117-93f1-52b2d0bef30c,Morgan,Freeman,Morgan Freeman Dvm,+14167237813,Virginia Beach,2023-03-13,1142.9,2024-09-21,1.0,432.0,2.0,True,238.0,1
+cbrown@yahoo.com,39386ec9-2af8-4c78-bee8-1fcb54d5bf2f,Connie,Brown,Connie Brown,,Indianapolis,2024-05-19,0.0,,0.0,0.0,0.0,False,,0
+kevin_patel@gmail.com,8e5daff6-c9c3-4696-bb14-40f7550b1ad8,Kevin,Patel,Kevin Patel,,New York,2024-06-05,0.0,,0.0,619.0,3.0,False,,0
+jason.fischer32@yahoo.com,9551a23f-314c-461a-9fad-64eba98b3af3,,,,,,,267.86,2025-02-04,1.0,0.0,0.0,True,102.0,0
+james@frye.com,f1aa136d-343c-4859-98e3-18e2b26c62d5,James,Terry,James Terry,,Indianapolis,2023-10-29,313.29,2023-10-05,1.0,0.0,0.0,True,590.0,0
+katie29@example.net,554a8633-f20a-4608-94eb-af8f85640215,Daniel,Grant,Daniel Grant,,Columbus,2023-12-08,0.0,,0.0,0.0,0.0,False,,0
+corey90@example.net,be31bfaa-bcd9-42f6-97e6-210816273b78,Elizabeth,Wall,Elizabeth Wall,+14704052734,Atlanta,2023-08-26,190.07,2025-03-17,1.0,0.0,0.0,True,61.0,0
+mcurtis@gmail.com,080bb483-7be6-44d2-acfc-dac2673acb3e,Marc,Curtis,Marc Curtis,+16783768870,Los Angeles,2022-12-19,0.0,,0.0,0.0,0.0,False,,0
+tonya.dawson@hotmail.com,f9e16697-d926-4490-9ffe-1d57894cf926,Tonya,Dawson,Tonya Dawson,,Baltimore,2022-08-09,37.4,2024-08-03,1.0,0.0,0.0,False,287.0,0
+julie.shelton@gmail.com,2ff56d8a-d6c0-435e-ad06-2d066aee5bd6,Julie,Shelton,Julie Shelton,,Albuquerque,2022-05-19,69.55,2024-06-15,2.0,139.0,2.0,False,336.0,0
+mark_md@hotmail.com,bb30db34-c890-45ed-aff2-768d27190d69,Mark,Olson,Mark Olson Md,+13125694910,Mesa,2024-08-13,1201.4199999999998,2025-05-12,2.0,0.0,0.0,True,5.0,1
+marissamaddox@example.org,791ad9e2-05d1-4be3-9551-27386a6dce80,Jason,Ryan,Jason Ryan,+14307675117,Brendashire,2024-11-20,214.45,2024-10-30,1.0,0.0,0.0,True,199.0,0
+corey@taylor.info,0978a745-4467-471c-930e-45cd046d4a6e,Corey,Garcia,Corey Garcia,+19008356567,El Paso,2022-05-24,0.0,,0.0,0.0,0.0,False,,0
+isaac84@example.org,4236597a-f9e4-40a8-9d41-13cb86b00560,Steven,Sanders,Steven Sanders Jr.,+19496806889,Phoenix,2024-08-04,113.0,2023-11-26,1.0,0.0,0.0,True,538.0,0
+jbailey@hotmail.com,1d630f1d-4053-4c9e-bfd4-2d65b08ff4d7,John,Bailey,John Bailey,,Columbus,2023-12-07,593.06,2024-06-24,2.0,0.0,0.0,True,327.0,1
+jennifer.ponce7@hotmail.com,37791245-bf73-48d3-8577-55966f82570d,,,,,,,48.84,2024-06-01,1.0,0.0,0.0,False,350.0,0
+calvin33@example.com,eb6080c2-8f5d-4404-bb23-c3e93708682f,Kristina,Frederick,Kristina Frederick,,Albuquerque,2023-09-22,0.0,,0.0,693.0,4.0,False,,0
+hailey_brown1@hotmail.com,bfd19e90-e3c5-49ca-bca1-1861136bc9a8,Hailey,Brown,Hailey Brown,,Omaha,2025-01-02,83.3,2025-01-09,1.0,0.0,0.0,False,128.0,0
+jwalker@gmail.com,d6e58571-0f5f-4180-ae3e-b9e75ef4acd0,Jennifer,Walker,Jennifer Walker,,Columbus,2025-01-14,39.23,2024-08-20,1.0,0.0,0.0,False,270.0,0
+mathew.harris@hotmail.com,5ed04059-1cbd-49d5-9d15-578116c1cace,Mathew,Harris,Mathew Harris,+17038568914,Charlotte,2025-02-25,0.0,,0.0,0.0,0.0,False,,0
+megan.kennedy@gmail.com,dc0783ba-aaae-45d3-b970-0602fa91b841,Megan,Kennedy,Megan Kennedy,+14038615269,Fresno,2025-05-09,966.65,2024-01-24,1.0,0.0,0.0,True,479.0,1
+joshua.flores@gmail.com,24c54db2-1934-4fe1-955f-b4b35cc5cb02,Joshua,Flores,Joshua Flores,+17098215782,San Diego,2023-09-02,0.0,,0.0,1496.0,3.0,False,,2
+anna.johnson17@yahoo.com,bbcbda4a-3374-4759-a151-c1cb54951368,,,,,,,0.0,,0.0,4135.0,12.0,False,,2
+monique_howell@yahoo.com,1b81aacf-a21b-49eb-9fc8-670e58211a71,Monique,Howell,Monique Howell,+16286636916,Fresno,2024-06-21,0.0,,0.0,0.0,0.0,False,,0
+sean@kelly-king.com,bf50f267-e9e5-4db9-b7d1-5f60baed1b6d,Sean,Diaz,Sean Diaz,,Columbus,2024-11-15,0.0,,0.0,1250.0,3.0,False,,2
+albert@lopez-lewis.net,6f3ed276-3932-4fd8-9dd6-716b4fae2be6,Albert,Anderson,Albert Anderson,,Colorado Springs,2022-08-29,0.0,,0.0,0.0,0.0,False,,0
+timothy.berg69@hotmail.com,13262073-5957-4e33-93c5-96edbd400200,,,,,,,382.34,2025-04-05,1.0,0.0,0.0,True,42.0,0
+jennifer.mckinney@yahoo.com,e37f5d3c-e9cf-416e-a111-c1b7630a717f,Jennifer,Mckinney,Jennifer Mckinney,+18067452097,Houston,2025-04-01,0.0,,0.0,0.0,0.0,False,,0
+afrank@gmail.com,39f82fe7-e082-44bd-a496-13177da183fb,Alisha,Frank,Alisha Frank,+19018522542,,2024-02-15,0.0,,0.0,638.0,3.0,False,,0
+taylor_adkins26@gmail.com,16b33f1d-4581-4d5d-b7de-2e400d17ac86,Taylor,Adkins,Taylor Adkins,,New York,2024-04-30,0.0,,0.0,0.0,0.0,False,,0
+javier_lewis@gmail.com,df6b7d53-882b-4cd4-9c36-fcfbb60b1731,Javier,Lewis,Javier Lewis,+13032209057,Albuquerque,2023-08-21,301.79,2023-12-11,1.0,0.0,0.0,True,523.0,0
+gregory@dillon.net,cabc792f-72dc-4cc6-99fe-e22fdbe3a04a,Gregory,Stephens,Gregory Stephens,,Dallas,2022-09-06,566.35,2024-01-03,1.0,2102.0,4.0,True,500.0,2
+robert@kelley-townsend.org,9ca65930-c291-4df4-8d7d-9efe07a37a6f,Robert,Bass,Robert Bass,,Columbus,2023-03-22,0.0,,0.0,455.0,2.0,False,,0
+christina.tran@gmail.com,47902ad7-7e86-4e72-bf5e-14478253d20d,Christina,Tran,Christina Tran,+15793861216,Tampa,2024-09-28,0.0,,0.0,0.0,0.0,False,,0
+linda.kaufman98@hotmail.com,14a83df8-8e6e-4f91-9d9f-14533ae3682f,,,,,,,247.6,2025-04-06,1.0,316.0,1.0,True,41.0,0
+dennis.flores37@hotmail.com,c738589b-8fba-4289-9d1b-081d5ada104b,,,,,,,311.26,2025-04-16,1.0,0.0,0.0,True,31.0,0
+lisa.moss@hotmail.com,54eadb41-3a3e-4d0e-b747-34dc42530fc5,Lisa,Moss,Lisa Moss,,Tulsa,2022-09-08,97.47,2025-03-24,1.0,1011.0,2.0,False,54.0,2
+david_hill35@gmail.com,ebab5c23-9975-49b9-9bb3-d548b4e0985a,David,Hill,David Hill,+13414144810,,2025-02-11,0.0,,0.0,0.0,0.0,False,,0
+kristina.ferguson25@gmail.com,23af67b6-ac47-4fdb-aef3-f7204103f4ea,,,,,,,256.05,2025-03-11,1.0,1166.0,3.0,True,67.0,2
+ana.watkins97@hotmail.com,3daed58b-0e09-4c62-90b6-03968e0d3f3d,,,,,,,0.0,,0.0,541.0,1.0,False,,0
+joel_jacobs21@gmail.com,717cf7f1-2ffa-49d3-8819-dea04ab8db43,Joel,Jacobs,Joel Jacobs,,Raleigh,2022-05-24,0.0,,0.0,0.0,0.0,False,,0
+randall.shepard69@hotmail.com,c609d7f6-dcc8-4b57-b102-add182145d3b,,,,,,,0.0,,0.0,527.0,2.0,False,,0
+leroy.ii94@hotmail.com,6974691b-0145-47dd-a4ad-48a7f097121f,,,,,,,0.0,,0.0,1796.0,5.0,False,,2
+rmiller@yahoo.com,99bac10f-a8a9-46ce-8c11-231fecdbc1fb,Robert,Miller,Robert Miller,,Nashville,2024-10-04,87.99,2024-04-06,1.0,2663.0,5.0,False,406.0,2
+sara.snyder@gmail.com,4145f4e4-3505-4dee-b1ea-bf8ae62a028b,Sara,Snyder,Sara Snyder,+19104522352,Los Angeles,2024-02-16,0.0,,0.0,0.0,0.0,False,,0
+frank@terry.com,a469787e-8e21-442d-95f0-76877b8f3d1e,Frank,Luna,Frank Luna,,San Jose,2023-02-11,18.31,2024-04-10,1.0,0.0,0.0,False,402.0,0
+miss.phd@yahoo.com,335831d2-6891-453d-831d-6cc5788b5d5c,Julie,Johnson,Miss Julie Johnson Phd,,Oakland,2024-01-12,1263.3,2024-10-25,2.0,0.0,0.0,True,204.0,1
+miss.phd@yahoo.com,335831d2-6891-453d-831d-6cc5788b5d5c,Elizabeth,Johnson,Miss Elizabeth Johnson Phd,,Atlanta,2023-05-16,1263.3,2024-10-25,2.0,0.0,0.0,True,204.0,1
+justin@spencer.com,ede5813a-49fc-4ff4-8ca9-52f756f2f54c,Justin,Ross,Justin Ross,+12832277293,Albuquerque,2024-02-05,188.46,2024-12-23,1.0,501.0,1.0,True,145.0,0
+joseph.harrison@hotmail.com,594fdcaf-8aeb-44fb-aa81-9bc2517d00ce,Joseph,Harrison,Joseph Harrison,,Tucson,2024-04-27,114.3,2023-10-07,1.0,505.0,2.0,True,588.0,0
+janice.maxwell@gmail.com,65a5b9aa-9269-49d8-9818-53ed31f81a68,Janice,Maxwell,Janice Maxwell,+17869141006,New York,2022-10-27,57.9,2024-11-02,1.0,424.0,2.0,False,196.0,0
+tanya_herring@yahoo.com,3524bdd4-a481-4004-937f-6b133aff75c7,Tanya,Herring,Tanya Herring,,Omaha,2023-04-28,29.18,2025-03-31,1.0,1428.0,3.0,False,47.0,2
+rodriguezmargaret@example.com,7450e8b8-0fa9-435d-bbbe-18fc726d4123,Alison,Morgan,Alison Morgan,,San Jose,2024-01-19,300.01,2024-03-11,1.0,0.0,0.0,True,432.0,0
+christopher.vazquez@hotmail.com,5ca7317d-9bf9-40b4-a917-585afc33694d,Christopher,Vazquez,Christopher Vazquez,+13033016027,Chicago,2025-03-31,370.63,2024-10-09,2.0,0.0,0.0,True,220.0,1
+jessica.stark87@gmail.com,8cf8c736-c4cf-4c55-bc81-ebbdcc6da4da,,,,,,,334.96,2024-04-09,1.0,0.0,0.0,True,403.0,0
+thenderson@yahoo.com,a821b9db-9054-450a-b095-66a6ea2cc3fd,Teresa,Henderson,Teresa Henderson,+15313368873,Philadelphia,2023-12-08,1535.73,2024-08-18,1.0,0.0,0.0,True,272.0,1
+melliott@gmail.com,863fb80a-dcb9-4fec-a231-07a340b3ffc5,Margaret,Elliott,Margaret Elliott,+19005817234,Kans,2025-03-02,331.62,2023-06-06,1.0,0.0,0.0,True,711.0,0
+olivia@hebert.com,c2a53115-7a60-4edd-90bb-5df8ec9717b8,Olivia,Rogers,Olivia Rogers,,Tucson,2024-10-18,270.35,2024-10-10,1.0,0.0,0.0,True,219.0,0
+kbruce@yahoo.com,a5c0537b-d902-4a2a-b506-ad8ff9d29d86,Kevin,Bruce,Kevin Bruce,+15395147255,Houston,2023-02-10,0.0,,0.0,0.0,0.0,False,,0
+kbruce@yahoo.com,a5c0537b-d902-4a2a-b506-ad8ff9d29d86,Erica,Thomas,Erica Thomas,+18635515731,Memphis,2024-08-06,0.0,,0.0,0.0,0.0,False,,0
+joseph.bolton@hotmail.com,aab91049-dedb-41dd-8b9f-3173b9b21814,Joseph,Bolton,Joseph Bolton,,Albuquerque,2023-06-21,402.01,2024-01-13,3.0,0.0,0.0,True,490.0,1
+susan.oconnor@gmail.com,fd83afa1-44bc-4f57-89d3-f19c76a64e15,Susan,Oconnor,Susan Oconnor,,Seattle,2022-08-29,0.0,,0.0,68.0,1.0,False,,0
+cgreen@yahoo.com,c1cc40b3-7299-447a-93a0-c3666e5181d5,Christopher,Green,Christopher Green,,Omaha,2022-10-16,0.0,,0.0,459.0,2.0,False,,0
+holly.romero19@hotmail.com,a69feead-536f-4805-88ea-e8a7a2bd7ebb,,,,,,,541.09,2023-06-30,1.0,0.0,0.0,True,687.0,0
+christina.oconnor25@hotmail.com,3cfb8c83-929c-4939-ad82-b2ab7bcb1f25,,,,,,,240.71,2023-07-01,1.0,606.0,2.0,True,686.0,0
+tina.rice94@yahoo.com,e762333b-1da7-429e-a616-f2ef88cada71,,,,,,,163.04,2025-04-10,1.0,0.0,0.0,True,37.0,0
+richard46@example.com,116de91a-d8c6-40bd-b382-65f950053153,James,Weaver,James Weaver,+16406926590,Long Beach,2023-05-13,212.01,2024-01-08,1.0,0.0,0.0,True,495.0,0
+kelly.contreras98@hotmail.com,3adac148-b5cd-4178-872e-13a5ad20f248,,,,,,,311.07,2024-09-10,1.0,0.0,0.0,True,249.0,0
+sarah.baker@yahoo.com,f0dd4199-5b1e-4717-a2f2-04b92f3f0946,Sarah,Baker,Sarah Baker,+16088356157,Chicago,2022-11-07,358.36,2024-11-21,1.0,0.0,0.0,True,177.0,0
+sarah.ruiz@hotmail.com,81daee5d-0f23-4f7b-a102-450af7c4a889,Sarah,Ruiz,Sarah Ruiz,,San,2022-12-21,862.3100000000001,2024-10-17,2.0,0.0,0.0,True,212.0,1
+laurie.campbell86@gmail.com,5f7c876e-f8df-4eb6-8d3b-602be0600d6a,,,,,,,0.0,,0.0,1128.0,4.0,False,,2
+kfoster@yahoo.com,88d1252e-e88b-467d-819c-3980d6e69eea,Kirsten,Foster,Kirsten Foster,+12104980988,San Diego,2024-12-11,117.24,2025-01-31,1.0,0.0,0.0,True,106.0,0
+daniel.roach@yahoo.com,71ff3eed-b1f8-4614-be40-60f657c1ed7b,Daniel,Roach,Daniel Roach,,Mesa,2022-05-21,347.47,2023-09-28,1.0,0.0,0.0,True,597.0,0
+sarah.howard@yahoo.com,fc747809-3008-463c-a014-b14eb6d423e1,Sarah,Howard,Sarah Howard,,Houston,2022-06-29,1246.1499999999999,2024-08-14,2.0,2602.0,7.0,True,276.0,2
+joshua_flores@hotmail.com,2ec39735-51c4-4b82-8fdd-b3b536ef613b,Joshua,Flores,Joshua Flores,,Austin,2024-03-24,527.55,2024-07-15,1.0,0.0,0.0,True,306.0,0
+nicholas_tate@hotmail.com,820ecd19-8243-476b-800b-48868f75650e,Nicholas,Tate,Nicholas Tate,+14245848904,Dallas,2022-09-07,0.0,,0.0,0.0,0.0,False,,0
+doris.cook22@yahoo.com,19f0bc50-29dc-4908-946a-7d496fbf42f4,,,,,,,476.76,2023-07-18,1.0,988.0,2.0,True,669.0,2
+shane@blake-patel.com,b83aa962-f7c6-40cc-b249-0f89ee17bc21,Shane,Roman,Shane Roman,,DC,2024-09-19,377.16,2024-09-01,1.0,0.0,0.0,True,258.0,0
+laurie.lindsey@yahoo.com,c720f296-326f-484f-951c-5df3aaca3b1e,Laurie,Lindsey,Laurie Lindsey,,Lake Joshuaborough,2025-02-05,0.0,,0.0,0.0,0.0,False,,0
+peter_pan@example.com,104eb5f4-f03f-48b9-a73c-f4a8eed3604f,,,,,,,75.0,2023-05-10,1.0,403.0,1.0,False,738.0,0
+rachel.carr43@gmail.com,04ae84c0-9606-4f2b-8822-808ead3f2c7e,,,,,,,901.42,2024-07-25,1.0,0.0,0.0,True,296.0,1
+jennifer.camacho@hotmail.com,f59d2619-f04d-4dff-acad-a119f410beb2,Jennifer,Camacho,Jennifer Camacho,,Tulsa,2024-10-13,0.0,,0.0,0.0,0.0,False,,0
+mreynolds@gmail.com,598fcd0e-d0fb-49ad-9a1e-8117ac12afc7,Mandy,Reynolds,Mandy Reynolds,+14454131669,Fresno,2024-12-11,0.0,,0.0,1382.0,3.0,False,,2
+lisa.robinson86@gmail.com,f25b2004-5e03-407b-8043-8a588cc3f088,,,,,,,243.54,2023-12-27,1.0,3537.0,10.0,True,507.0,2
+joshua.roach@gmail.com,00954e45-4dab-4eaf-89df-755e469ec9f9,Joshua,Roach,Joshua Roach,,Omaha,2024-03-02,971.02,2024-11-01,1.0,0.0,0.0,True,197.0,1
+laurie.king83@yahoo.com,306ae4e9-bf6d-48de-b9d6-eecd95413d9d,,,,,,,589.92,2023-09-29,1.0,0.0,0.0,True,596.0,0
+daniel@grant.net,5365dd7a-5dec-47ec-aefc-166846f724fd,Daniel,Wong,Daniel Wong,+17246271349,Memph,2024-09-06,0.0,,0.0,1672.0,5.0,False,,2
+eric.taylor94@hotmail.com,b9320cc6-ded3-47f1-8111-c9d0bcbca651,,,,,,,86.19,2025-01-17,1.0,0.0,0.0,False,120.0,0
+john.walker10@yahoo.com,805bf718-fd65-4459-881e-c88bf0948e8a,,,,,,,286.89,2024-09-15,1.0,0.0,0.0,True,244.0,0
+christina.cooley79@gmail.com,c89670bb-2b6f-4daa-81a2-d59c8f3eb2fb,,,,,,,523.7,2024-12-23,1.0,0.0,0.0,True,145.0,0
+jasmine_evans@yahoo.com,4b0506df-4aaa-4831-bb05-1d6b7e258a29,Jasmine,Evans,Jasmine Evans,,Houston,2023-08-18,0.0,,0.0,0.0,0.0,False,,0
+johnsoncatherine@example.org,d97ae70e-674f-44f5-9781-6d0d48fe915d,Michael,Robertson,Michael Robertson,,SD,2023-08-21,0.0,,0.0,0.0,0.0,False,,0
+zachary.curry@hotmail.com,d7b19a1e-9bee-4352-85ed-c5a451a6335e,Zachary,Curry,Zachary Curry,,Miami,2024-07-06,437.94,2023-12-22,1.0,0.0,0.0,True,512.0,0
+sskinner@yahoo.com,ae445112-6440-4b05-8e04-978273eb9a45,Shelly,Skinner,Shelly Skinner,+13654698016,Sacramento,2024-07-29,46.97,2025-02-23,1.0,0.0,0.0,False,83.0,0
+sandra08@example.com,aae4b46b-f86a-460f-916a-05986e9234af,Paul,Morales,Paul Morales,,,2023-05-17,0.0,,0.0,959.0,1.0,False,,2
+nicholas_li23@yahoo.com,2b9070be-bb1e-4752-b0d0-3428d3a6feac,Nicholas,Li,Nicholas Li,+17192566469,KY,2024-11-12,0.0,,0.0,3021.0,8.0,False,,2
+nicholas_li23@yahoo.com,2b9070be-bb1e-4752-b0d0-3428d3a6feac,Robin,Dyer,Robin Dyer,+19385308728,Baltimore,2022-12-24,0.0,,0.0,3021.0,8.0,False,,2
+jennifer.lewis17@gmail.com,d2d0395d-273b-4b75-92f8-0180d7e99e22,,,,,,,0.0,,0.0,301.0,2.0,False,,0
+timothy_garza@gmail.com,fc1a3090-e1d1-4ca2-9978-238ec891be76,Timothy,Garza,Timothy Garza,+18185529417,Columbus,2022-10-15,218.31,2024-07-23,1.0,210.0,2.0,True,298.0,0
+gregory.miller11@hotmail.com,2cf0a4df-5f5a-4b20-b0af-885026f43f49,,,,,,,88.37,2025-04-05,1.0,0.0,0.0,False,42.0,0
+mfisher@gmail.com,59bb3f07-e1a2-46a5-864e-42f6f377a3b6,Mark,Fisher,Mark Fisher,+17047407602,PW,2024-02-15,57.64,2023-07-15,1.0,0.0,0.0,False,672.0,0
+cindy.martin94@gmail.com,4aa767e1-3423-4e05-aec1-f60100862bf0,,,,,,,22.49,2023-12-01,1.0,0.0,0.0,False,533.0,0
+victor@hernandez-flores.com,a836f1fb-9abf-44c2-8787-7972bd3abc1c,Victor,Johnson,Victor Johnson,+14702597064,Austin,2024-12-04,456.19,2025-02-05,2.0,823.0,3.0,True,101.0,1
+casey.rodriguez@gmail.com,1fc73b5b-d8f9-437d-976c-22384adc6d32,Casey,Rodriguez,Casey Rodriguez,+18707419804,Boston,2024-04-12,0.0,,0.0,1910.0,7.0,False,,2
+jessica.hernandez@gmail.com,619bbea6-f2e2-4740-aabd-1d761abebff2,Jessica,Hernandez,Jessica Hernandez,+13633177682,Denver,2023-06-22,151.82,2025-03-23,1.0,0.0,0.0,True,55.0,0
+albert.hernandez@yahoo.com,304b4e9c-bab8-4da6-ba7a-9d5789311174,Albert,Hernandez,Albert Hernandez,,Los Angeles,2023-04-11,103.05,2023-11-05,1.0,0.0,0.0,True,559.0,0
+alowe@example.com,79c33b9e-db12-44d2-be65-7ec51393e91f,Lindsay,Lane,Lindsay Lane,,Charlotte,2024-04-20,129.98,2025-04-29,1.0,0.0,0.0,True,18.0,0
+scott_mora@gmail.com,de4ab000-07ce-4749-8b81-fa2bf13101ab,Scott,Mora,Scott Mora,+15076064282,San Francisco,2022-06-29,326.83,2024-08-03,1.0,0.0,0.0,True,287.0,0
+christopher.jenkins56@yahoo.com,1934be24-788f-49e5-95e6-ab82be5a38f3,,,,,,,95.45,2024-05-03,1.0,0.0,0.0,False,379.0,0
+dmd@hotmail.com,540fa773-27f1-4e40-a44a-47b8a801b641,Mary,Garcia,Dr. Mary Garcia Md,+15513408689,Fresno,2022-10-28,219.31,2024-08-06,1.0,0.0,0.0,True,284.0,0
+james56@example.com,41c671ed-ac7c-4886-b658-4729552ef487,Riley,Brown,Riley Brown,,Fort Worth,2025-02-22,0.0,,0.0,0.0,0.0,False,,0
+david.gould54@gmail.com,b62a00b1-ad6c-4616-a710-3c30a8f1224b,,,,,,,0.0,,0.0,1966.0,3.0,False,,2
+jill@king-may.com,ed60728d-ffb5-48b8-b193-bc4bcc350b70,Jill,Davis,Jill Davis,,Tulsa,2024-01-20,683.31,2025-02-12,4.0,0.0,0.0,True,94.0,1
+rhonda.watkins@gmail.com,20db0120-88be-4b43-9a2d-36372f5cd1c1,Rhonda,Watkins,Rhonda Watkins,+16308867829,Oakland,2024-07-14,0.0,,0.0,1867.0,5.0,False,,2
+sallyhughes@example.com,e19a5d22-82f7-429b-94a2-0227497fdef2,Eric,Caldwell,Eric Caldwell,,Albuquerque,2022-11-22,141.54000000000002,2025-04-15,2.0,0.0,0.0,True,32.0,0
+diana.brown@gmail.com,c751e728-69da-4fa4-955b-5d5336a9ea99,Diana,Brown,Diana Brown,,Raleigh,2025-01-22,538.13,2024-01-15,1.0,1236.0,4.0,True,488.0,2
+jpoole@yahoo.com,6bbb78dd-cd67-4185-9cd3-34b053563b9b,Joshua,Poole,Joshua Poole,,Tampa,2025-02-20,0.0,,0.0,0.0,0.0,False,,0
+laura@clark.net,c9cc1195-6b06-4a72-bce3-23746a066caf,Laura,Bowers,Laura Bowers,,Oakland,2022-08-10,144.89,2024-09-09,1.0,0.0,0.0,True,250.0,0
+lisawalters@example.net,4b0fa005-85cf-47f0-bd97-aeea0fe45053,Timothy,Stein,Timothy Stein,,Baltimore,2022-11-14,361.36,2025-03-10,2.0,0.0,0.0,True,68.0,1
+joshua.crane3@yahoo.com,65085a8e-f859-4ec0-9825-d14efc023ad2,,,,,,,0.0,,0.0,815.0,2.0,False,,0
+tamarawilliams@example.com,c946d3c3-62ce-4641-9134-16af0a2b1707,Alyssa,Skinner,Alyssa Skinner,,Louisville,2024-01-07,16.13,2024-11-22,1.0,0.0,0.0,False,176.0,0
+michael.mckee@gmail.com,f380db75-c88b-4c47-87fa-5db91df0d6f7,Michael,Mckee,Michael Mckee,,Arlington,2025-03-29,88.81,2023-11-20,1.0,0.0,0.0,False,544.0,0
+cristina@cooper.com,3d390dff-254a-407f-bf43-d8f93af5a57d,Cristina,Cummings,Cristina Cummings,,,2024-06-21,407.90999999999997,2025-04-18,3.0,0.0,0.0,True,29.0,1
+kathleen_armstrong@hotmail.com,d6d6408d-3152-44b3-b512-276d2fdf2e68,Kathleen,Armstrong,Kathleen Armstrong,,Los Angeles,2024-02-19,0.0,,0.0,590.0,2.0,False,,0
+rachelanderson@example.net,cbab77a9-cb12-4249-a222-12b38a90b0af,William,Scott,William Scott,,Aguilarville,2025-03-09,493.28,2025-02-02,1.0,0.0,0.0,True,104.0,0
+barbara.robinson@hotmail.com,9a547bc8-ab29-4d2c-a9ec-962fba3bdc62,Barbara,Robinson,Barbara Robinson,+17184533893,Jacksonville,2023-02-09,145.28,2024-07-28,1.0,0.0,0.0,True,293.0,0
+matthew_davis@gmail.com,bdefb93c-60b9-4a4a-ae80-855c60a9ecf9,Matthew,Davis,Matthew Davis,+15015490269,Colorado Springs,2023-09-17,314.2,2024-02-17,2.0,0.0,0.0,True,455.0,1
+vincent@gilbert-vaughan.net,377c831b-9ea6-41eb-8a88-cbaf8275bc74,Vincent,Adams,Vincent Adams,+14744279438,Omaha,2025-03-31,0.0,,0.0,0.0,0.0,False,,0
+zachary.hurley@yahoo.com,6ffbabc9-9a40-4350-843a-364cb3753c7b,Zachary,Hurley,Zachary Hurley,,Oakland,2023-05-08,421.42,2025-03-25,1.0,0.0,0.0,True,53.0,0
+mstewart@hotmail.com,c2f69356-c93d-4052-b3e5-e0a9fc315b56,Matthew,Stewart,Matthew Stewart,,Tulsa,2025-04-15,205.49,2024-10-26,2.0,0.0,0.0,True,203.0,1
+mary@steele.biz,d7439bb0-3ee9-40db-b6dd-d19feee2928a,Mary,Espinoza,Mary Espinoza,,Boston,2023-09-27,134.4,2024-05-16,1.0,0.0,0.0,True,366.0,0
+mary@steele.biz,d7439bb0-3ee9-40db-b6dd-d19feee2928a,Mary,Smith,Mary Smith,,,2022-05-26,134.4,2024-05-16,1.0,0.0,0.0,True,366.0,0
+ortizcharles@example.com,ef6e6773-ceef-4a69-a41f-ddeaee1aa068,Amanda,Pena,Amanda Pena,,Boston,2024-11-26,433.59,2023-06-26,1.0,0.0,0.0,True,691.0,0
+nancy_salas22@gmail.com,97c1c06b-70be-4052-82ca-6dfbdfc1831d,Nancy,Salas,Nancy Salas,+14438632171,Kansas City,2022-08-22,252.45,2023-10-16,1.0,667.0,2.0,True,579.0,0
+nancy_salas22@gmail.com,97c1c06b-70be-4052-82ca-6dfbdfc1831d,Jeremy,Arroyo,Jeremy Arroyo,+19109175097,Omaha,2022-09-02,252.45,2023-10-16,1.0,667.0,2.0,True,579.0,0
+shannon@morris-hernandez.com,23962fd4-2617-41f4-ad7e-ce5ee907f381,Shannon,Moore,Shannon Moore,+17203866593,West Jenniferport,2025-05-10,375.13,2024-11-17,1.0,0.0,0.0,True,181.0,0
+shannon@morris-hernandez.com,23962fd4-2617-41f4-ad7e-ce5ee907f381,Stephanie,Velez,Stephanie Velez,+18547961646,New York,2023-05-15,375.13,2024-11-17,1.0,0.0,0.0,True,181.0,0
+pbrown@gmail.com,23fc3417-ce76-46a2-9f95-e8ab666cc7a0,Paul,Brown,Paul Brown,,Boston,2024-06-04,419.72,2024-06-13,2.0,1112.0,4.0,True,338.0,1
+robert_wise@hotmail.com,eca3b62f-0333-439e-879b-8c18d9e167c5,Robert,Wise,Robert Wise,+17874156080,Colorado Springs,2025-05-01,0.0,,0.0,0.0,0.0,False,,0
+paul.henson24@gmail.com,7a1698dc-ec96-45a9-979f-4ad5e6294532,,,,,,,180.88,2023-12-07,1.0,0.0,0.0,True,527.0,0
+mrs..dvm@yahoo.com,295df9b2-62ed-4700-aab4-57c60f6a772f,Megan,Morris,Mrs. Megan Morris Dvm,,Columbus,2024-11-18,0.0,,0.0,357.0,1.0,False,,0
+laura.walter@gmail.com,73fb759c-4477-4b46-b520-897214f51bda,Laura,Walter,Laura Walter,,Detroit,2023-10-06,0.0,,0.0,0.0,0.0,False,,0
+laura.walter@gmail.com,73fb759c-4477-4b46-b520-897214f51bda,Kimberly,Stevens,Kimberly Stevens,,Oakland,2023-12-23,0.0,,0.0,0.0,0.0,False,,0
+stephen.miles14@hotmail.com,d6936346-0d67-46cd-85b0-54299ea63540,,,,,,,57.66,2024-09-30,1.0,815.0,2.0,False,229.0,0
+jeffrey_gutierrez@gmail.com,f011efb5-e4b7-4419-ac24-3d626149e794,Jeffrey,Gutierrez,Jeffrey Gutierrez,,Los Angeles,2024-02-08,0.0,,0.0,0.0,0.0,False,,0
+peter.gardner32@yahoo.com,8071dc11-6431-4b16-910c-d8b7cdf625c1,,,,,,,291.38,2024-01-25,1.0,0.0,0.0,True,478.0,0
+ashley.ramirez59@yahoo.com,9a3fe0fc-7378-4dc9-aadb-5d750e8f4faf,,,,,,,372.39,2024-11-09,1.0,0.0,0.0,True,189.0,0
+kristin.moore@yahoo.com,a4f79359-8a9c-481f-889c-7e60551a48f9,Kristin,Moore,Kristin Moore,,Fort Worth,2024-12-08,0.0,,0.0,364.0,1.0,False,,0
+angela.jimenez45@gmail.com,f3033415-c60d-42c9-8a0c-5eafc1279115,,,,,,,0.0,,0.0,525.0,2.0,False,,0
+rodney.smith93@hotmail.com,cbbb1a65-3eb8-47ce-80c7-3a8a63f009cc,,,,,,,0.0,,0.0,393.0,2.0,False,,0
+megan.johnson@gmail.com,24385d2b-1398-4c3a-b68b-9d07c1acf089,Megan,Johnson,Megan Johnson,,Indianapolis,2024-07-12,34.92,2024-05-10,1.0,0.0,0.0,False,372.0,0
+christopher.gilmore@hotmail.com,100f53a9-a426-442c-b4d7-dc5d893f1809,Christopher,Gilmore,Christopher Gilmore,+15753558048,Baltimore,2023-03-09,1181.88,2025-04-24,1.0,0.0,0.0,True,23.0,1
+roger.carter97@yahoo.com,c1d5fe3a-f5e3-40dc-8133-bf7325a98efc,,,,,,,180.96,2023-07-18,1.0,0.0,0.0,True,669.0,0
+heather.gomez49@yahoo.com,fee92b98-03b8-4d8f-8a34-789b42e49cfd,,,,,,,114.53,2024-12-09,1.0,0.0,0.0,True,159.0,0
+amanda_price@hotmail.com,98d7feeb-c582-41a1-9a64-2b6f392e563b,Amanda,Price,Amanda Price,+14757114434,Austin,2025-04-16,0.0,,0.0,1643.0,4.0,False,,2
+jeremy.garcia74@yahoo.com,45510b22-2935-40c9-9908-27c75654bbb9,,,,,,,95.86,2025-03-20,1.0,0.0,0.0,False,58.0,0
+stacey.roberts72@gmail.com,e7388edf-bd30-4d6b-8c9e-2126c2568f48,,,,,,,323.38,2024-06-07,1.0,0.0,0.0,True,344.0,0
+jacob.sanders@gmail.com,de8d9e33-3e84-441b-9247-ae37daa0f659,Jacob,Sanders,Jacob Sanders,+19258724561,Atlanta,2023-10-19,0.0,,0.0,4134.0,11.0,False,,2
+cathy.potter19@hotmail.com,fc734b3a-67e2-4d2c-9ca8-77b967a59c5f,,,,,,,246.63,2023-11-01,1.0,0.0,0.0,True,563.0,0
+maureen.olson@hotmail.com,b28e6dc7-9c57-4524-a306-52c91a5b93f3,Maureen,Olson,Maureen Olson,+18597109704,New Orleans,2023-05-30,214.0,2025-01-08,1.0,711.0,2.0,True,129.0,0
+charles.nielsen@hotmail.com,7963cac4-4d4e-4c66-80b0-f479fbcc3040,Charles,Nielsen,Charles Nielsen,+19855629665,,2022-06-18,272.64,2024-06-29,1.0,0.0,0.0,True,322.0,0
+joshua.gibson96@hotmail.com,528ee156-02d9-45cd-ae0c-94d82639bb7f,,,,,,,30.66,2024-03-26,1.0,0.0,0.0,False,417.0,0
+yvonne.castro@gmail.com,200cd13d-a682-4a10-8dd9-7e0726b8668a,Yvonne,Castro,Yvonne Castro,,Philadelphia,2023-01-07,0.0,,0.0,0.0,0.0,False,,0
+stephen.young@hotmail.com,7ff21849-43d2-4f7c-8488-42af2e34ee3b,Stephen,Young,Stephen Young,,Tucson,2024-01-20,68.97,2024-10-05,1.0,2178.0,6.0,False,224.0,2
+stephen.young@hotmail.com,7ff21849-43d2-4f7c-8488-42af2e34ee3b,G.,Thomas,G. Thomas,+15019186781,Las Vegas,2024-12-02,68.97,2024-10-05,1.0,2178.0,6.0,False,224.0,2
+amy@weber-hogan.com,1cee6d41-1a3c-48c6-9033-591234f5af08,Amy,Davis,Amy Davis,+16623162451,Austin,2023-08-28,670.22,2024-11-02,3.0,0.0,0.0,True,196.0,1
+jessica.evans1@gmail.com,84f1660e-e461-467e-a45f-59fa65c881ab,,,,,,,22.37,2023-09-04,1.0,0.0,0.0,False,621.0,0
+sarah.newton@yahoo.com,949ea8c0-6c84-4afa-80d3-71df940d06af,Sarah,Newton,Sarah Newton,,Atlanta,2024-07-04,318.56,2023-11-17,2.0,0.0,0.0,True,547.0,1
+belinda_erickson@yahoo.com,4834b033-e683-4f7a-87da-e68f3b2849cd,Belinda,Erickson,Belinda Erickson,,Kansas City,2025-04-08,1037.25,2025-02-06,2.0,708.0,2.0,True,100.0,1
+meganschneider@example.org,5f7d7cf2-26f4-443d-86bc-3afd8a6da6ba,Traci,Flores,Traci Flores,,Tucson,2024-06-17,608.77,2025-01-31,2.0,0.0,0.0,True,106.0,1
+jennifer.robinson78@yahoo.com,bc3f22c3-a950-4b02-8e50-b748204f417f,,,,,,,0.0,,0.0,419.0,1.0,False,,0
+robert.parsons9@gmail.com,f240f1f0-5050-432c-bac8-50bac8e0bcdc,,,,,,,0.0,,0.0,1441.0,3.0,False,,2
+martin.marshall78@gmail.com,0fca6067-c2de-4837-a045-7f186c9c104f,,,,,,,0.0,,0.0,311.0,1.0,False,,0
+dean.miller@yahoo.com,64c3ad36-db0e-4a84-9e05-11dbb6e5091a,Dean,Miller,Dean Miller,+15392335666,Delgadoborough,2024-07-24,497.28000000000003,2025-01-21,3.0,0.0,0.0,True,116.0,1
+christian@smith.info,10614969-c413-4290-a925-eb9a826649ad,Christian,Gutierrez,Christian Gutierrez,+17148368972,Long Beach,2023-07-17,242.85,2024-06-19,1.0,0.0,0.0,True,332.0,0
+christian@smith.info,10614969-c413-4290-a925-eb9a826649ad,James,Johnson,James Johnson,+12145157575,Denver,2025-04-21,242.85,2024-06-19,1.0,0.0,0.0,True,332.0,0
+jordan.hall@hotmail.com,dd96c43d-d442-40c1-b989-d17928542d4d,Jordan,Hall,Jordan Hall,,Oakland,2024-06-18,0.0,,0.0,654.0,4.0,False,,0
+jordan.hall@hotmail.com,dd96c43d-d442-40c1-b989-d17928542d4d,Jordan,Hall,Jordan Hall,+14068442895,Charlotte,2025-04-20,0.0,,0.0,654.0,4.0,False,,0
+david.pena31@yahoo.com,84e69b88-88cc-41a9-8bff-7770efde6559,,,,,,,167.34,2025-05-06,1.0,0.0,0.0,True,11.0,0
+sharon17@example.org,04af0038-5466-485f-81da-2737e60c5e32,Cindy,Diaz,Cindy Diaz,+18408276846,Tucson,2023-11-09,403.07,2024-09-04,3.0,0.0,0.0,True,255.0,1
+lindsey.collier77@hotmail.com,1c7f3f53-5e17-4058-b8a3-440c093d4b38,,,,,,,113.96,2023-05-27,1.0,0.0,0.0,True,721.0,0
+tyrone_reed13@yahoo.com,70f4c382-9f98-4e55-abc9-dba990262060,Tyrone,Reed,Tyrone Reed,+15163504708,San Diego,2024-04-22,2078.19,2024-10-13,1.0,0.0,0.0,True,216.0,1
+daniel.jones66@hotmail.com,111b7b5c-0b57-4b37-a9c6-f0a1be0c42a3,,,,,,,72.62,2024-07-22,1.0,1613.0,4.0,False,299.0,2
+brenda_harmon22@gmail.com,a463680c-ad7e-4f86-b933-dd740e1020a4,Brenda,Harmon,Brenda Harmon,,Seattle,2024-08-03,1022.78,2025-03-01,2.0,0.0,0.0,True,77.0,1
+maria.md33@hotmail.com,29bbbe8e-8003-4b96-8734-ec8dc8c5f0b8,,,,,,,102.16,2025-04-08,1.0,0.0,0.0,True,39.0,0
+megan.rosario10@yahoo.com,e2d43302-6c04-41b3-baa5-36cde55c22b1,,,,,,,403.64,2023-11-17,1.0,488.0,1.0,True,547.0,0
+zacharylopez@example.org,5bdde688-8a79-4c20-ab94-36d2ca7c892d,William,Myers,William Myers,,Nashville,2023-12-27,0.0,,0.0,0.0,0.0,False,,0
+zacharylopez@example.org,5bdde688-8a79-4c20-ab94-36d2ca7c892d,Janice,Pena,Janice Pena,+15238371881,Chicago,2023-09-30,0.0,,0.0,0.0,0.0,False,,0
+samantha.day@yahoo.com,9b12e540-8a00-4c7b-9647-f456371a59e1,Samantha,Day,Samantha Day,,Arlington,2023-11-15,215.95,2025-04-23,1.0,558.0,2.0,True,24.0,0
+christopher.ryan83@hotmail.com,297e0829-eb6a-4a31-a50b-e487a62806b8,,,,,,,0.0,,0.0,1045.0,4.0,False,,2
+katelyn.smith@hotmail.com,9574fc97-e380-4174-8c8c-b7e47a9017c1,Katelyn,Smith,Katelyn Smith,,Seattle,2022-09-19,0.0,,0.0,0.0,0.0,False,,0
+natasha.jones@yahoo.com,8ea9f2e9-eae2-4c58-bf76-8ce7c243f3d2,Natasha,Jones,Natasha Jones,,Columbus,2023-07-25,0.0,,0.0,0.0,0.0,False,,0
+joseph.cox95@yahoo.com,966cc9e8-9040-4c88-90d6-31de453452fc,,,,,,,498.61,2024-10-09,1.0,0.0,0.0,True,220.0,0
+kathryn@carter.com,b6817b50-bcdd-4b21-ad47-d9048e1f39ee,Kathryn,Butler,Kathryn Butler,+16475697399,Milwaukee,2024-10-20,227.42,2024-04-15,1.0,0.0,0.0,True,397.0,0
+mary.quinn@gmail.com,b0d36faa-5968-40e9-8653-1f97698aa6f2,Mary,Quinn,Mary Quinn,+15088071293,MH,2024-09-27,59.95,2024-07-07,1.0,0.0,0.0,False,314.0,0
+raymond_sloan@yahoo.com,78463f7a-89cd-4fc1-bf44-5aa93650ec27,Raymond,Sloan,Raymond Sloan,+17577231098,Baltimore,2023-07-24,0.0,,0.0,0.0,0.0,False,,0
+raymond_sloan@yahoo.com,78463f7a-89cd-4fc1-bf44-5aa93650ec27,M.,Cooper,M. Cooper,+17246231116,Seattle,2025-02-14,0.0,,0.0,0.0,0.0,False,,0
+kathleen.alvarado@yahoo.com,c0bd01fd-06b5-426d-b65b-f327ad23dd2c,Kathleen,Alvarado,Kathleen Alvarado,,San Antonio,2023-11-10,0.0,,0.0,0.0,0.0,False,,0
+kathleen.alvarado@yahoo.com,c0bd01fd-06b5-426d-b65b-f327ad23dd2c,Tyler,Nunez,Tyler Nunez,,Nashv,2023-12-16,0.0,,0.0,0.0,0.0,False,,0
+george@morgan.biz,db9bec35-9e6b-4eaa-a214-2ead523e4c3b,George,Horton,George Horton,,Charlotte,2025-03-25,909.63,2025-03-13,2.0,0.0,0.0,True,65.0,1
+caleb@morris.net,efb9aff7-f0d7-4886-afc9-5dfd12b9795b,Caleb,Cooper,Caleb Cooper,+15094844241,Chicago,2023-06-15,963.2,2024-04-15,1.0,0.0,0.0,True,397.0,1
+peter.jones@gmail.com,55dcbb47-8b50-4f05-895e-6f2cf511388c,Peter,Jones,Peter Jones,,Louisville,2024-10-15,2156.92,2024-08-09,1.0,0.0,0.0,True,281.0,1
+mr..floyd@gmail.com,902a7c2f-745a-4061-b92a-d3200d9f7a72,Cody,Floyd,Mr. Cody Floyd,,Fort Worth,2022-11-01,0.0,,0.0,416.0,2.0,False,,0
+jonesmichele@example.org,27a3203a-f589-422a-ae51-6ff0d30ca507,Michaela,Castaneda,Michaela Castaneda,,Las Vegas,2024-02-29,0.0,,0.0,0.0,0.0,False,,0
+cwilliams@hotmail.com,fdf532fe-0bf6-4db3-8f49-8b951944504b,Crystal,Williams,Crystal Williams,,Philadelphia,2024-03-11,0.0,,0.0,0.0,0.0,False,,0
+alexandra@price.com,a9288aa8-dab1-41cc-8dbe-a592b5a681fb,Alexandra,Allison,Alexandra Allison,+17632994384,San Francisco,2024-08-12,233.4,2024-10-17,2.0,0.0,0.0,True,212.0,1
+gabriella.oconnell@gmail.com,2d67e844-4dca-4252-9e4e-bd796cc22523,Gabriella,Oconnell,Gabriella Oconnell,,Atlanta,2022-08-10,0.0,,0.0,0.0,0.0,False,,0
+andrew.wallace30@gmail.com,980a28d8-4d43-4713-8245-7502cfad25c8,,,,,,,178.92,2024-11-24,1.0,0.0,0.0,True,174.0,0
+john.ii9@hotmail.com,d5db15f5-133c-4499-9fc2-a6a1048e984e,,,,,,,1059.55,2025-02-19,1.0,0.0,0.0,True,87.0,1
+edward.huang95@hotmail.com,c9147870-67f1-4100-b054-b75495eb7252,,,,,,,289.9,2024-10-10,1.0,0.0,0.0,True,219.0,0
+benjamin.hinton85@yahoo.com,806d1f3a-375e-4fbf-b997-1d065888e090,,,,,,,0.0,,0.0,602.0,2.0,False,,0
+laura.daniels55@gmail.com,339abd0c-083c-4a8c-a5fc-7ec823abe26d,,,,,,,0.0,,0.0,153.0,1.0,False,,0
+twoods@example.com,091b9a77-dc7d-4eac-9f12-956b236ededa,Kristina,Martinez,Kristina Martinez,,Kansas City,2023-01-28,652.73,2023-12-04,1.0,0.0,0.0,True,530.0,0
+lindsey.rose@hotmail.com,5615a6ef-a009-4efb-86f7-2841660321c5,Lindsey,Rose,Lindsey Rose,,Fresno,2022-09-13,0.0,,0.0,0.0,0.0,False,,0
+christopher_garcia36@gmail.com,4401ab9a-7523-4109-9254-7b96e413af6c,Christopher,Garcia,Christopher Garcia,,,2023-06-06,227.62,2023-12-26,1.0,0.0,0.0,True,508.0,0
+christopher_garcia36@gmail.com,4401ab9a-7523-4109-9254-7b96e413af6c,Joshua,Stewart,Joshua Stewart,+14318992052,New Orleans,2022-10-29,227.62,2023-12-26,1.0,0.0,0.0,True,508.0,0
+robertjackson@example.net,2d263a71-b484-46dc-b1d1-ca02eba8a86e,Scott,Villanueva,Scott Villanueva,,Raleigh,2025-03-22,337.42,2024-07-04,2.0,0.0,0.0,True,317.0,1
+aweber@gmail.com,3e384b89-dab0-4f86-91f2-70a9ccb128a1,Alexis,Weber,Alexis Weber,+19099865184,Boston,2025-03-19,0.0,,0.0,0.0,0.0,False,,0
+aweber@gmail.com,3e384b89-dab0-4f86-91f2-70a9ccb128a1,Anna,Herring,Anna Herring,+12139649768,Raleigh,2023-06-08,0.0,,0.0,0.0,0.0,False,,0
+dr..petersen52@gmail.com,3af2cd4f-7d74-49ea-b1a0-b2260a6bd011,,,,,,,418.61,2025-04-21,1.0,0.0,0.0,True,26.0,0
+jessica.dawson@gmail.com,7894c9e0-08f1-454a-a825-5c7804bddee5,Jessica,Dawson,Jessica Dawson,,New York,2025-04-11,0.0,,0.0,0.0,0.0,False,,0
+dking@example.com,d0bb57a6-25f2-4eea-977d-41615afcbd88,Dawn,Keller,Dawn Keller,,New Orleans,2025-01-20,0.0,,0.0,0.0,0.0,False,,0
+amarshall@yahoo.com,86d4b14b-f070-4342-aa44-530eaa87226f,Alison,Marshall,Alison Marshall,,Raleigh,2023-06-01,0.0,,0.0,0.0,0.0,False,,0
+mark@mckay.info,e971dd14-cbce-4e5a-864f-796a7eb28084,Mark,Ramos,Mark Ramos,+14488266732,FL,2023-01-18,384.94,2025-01-21,1.0,0.0,0.0,True,116.0,0
+hannah.davis@gmail.com,aee2434e-b12e-400c-a182-b26a9b4bca7d,Hannah,Davis,Hannah Davis,,Los Angeles,2025-01-15,1359.98,2025-05-16,2.0,0.0,0.0,True,1.0,1
+bjohnson@example.com,0606ddf4-eaa2-4d71-a80c-50d27ef092dc,Javier,Russo,Javier Russo,,Seattle,2025-02-22,0.0,,0.0,0.0,0.0,False,,0
+sierra.tanner84@hotmail.com,213633c0-aebd-432a-9feb-dbe398093c4a,,,,,,,278.05,2024-11-12,1.0,0.0,0.0,True,186.0,0
+jacob@brown.com,5adb117b-5587-4d40-a436-d9ca5cefa406,Jacob,Sparks,Jacob Sparks,+18324816710,Seattle,2022-08-01,2298.25,2023-11-29,1.0,0.0,0.0,True,535.0,1
+elizabeth.sweeney@hotmail.com,28155237-0595-4a86-8f7e-1216abdf8b85,Elizabeth,Sweeney,Elizabeth Sweeney,+16695758151,Dallas,2025-02-09,198.69,2024-03-30,1.0,0.0,0.0,True,413.0,0
+elizabeth.sweeney@hotmail.com,28155237-0595-4a86-8f7e-1216abdf8b85,Robert,Goodman,Robert Goodman,+13652325953,Austin,2022-09-26,198.69,2024-03-30,1.0,0.0,0.0,True,413.0,0
+brian@perkins-gibson.com,dc7f680a-4bf8-4767-972b-67fea4d8bc31,Brian,Scott,Brian Scott,,Indianapolis,2024-12-30,749.26,2024-12-23,3.0,0.0,0.0,True,145.0,1
+brian@perkins-gibson.com,dc7f680a-4bf8-4767-972b-67fea4d8bc31,Karen,Bell,Karen Bell,+16417869396,El Paso,2024-02-17,749.26,2024-12-23,3.0,0.0,0.0,True,145.0,1
+kenneth.morrison@gmail.com,f806843b-cbf8-45bb-b14b-f644aa7d2c3e,Kenneth,Morrison,Kenneth Morrison,,Kansas City,2024-12-20,605.8100000000001,2025-02-18,2.0,0.0,0.0,True,88.0,1
+kenneth.morrison@gmail.com,f806843b-cbf8-45bb-b14b-f644aa7d2c3e,Mark,Walker,Mark Walker,,Omaha,2024-05-30,605.8100000000001,2025-02-18,2.0,0.0,0.0,True,88.0,1
+scott_hernandez20@gmail.com,23d17b7e-0618-43a2-bd9f-f99e028cb3a3,Scott,Hernandez,Scott Hernandez,,Fresno,2023-02-05,1165.6499999999999,2024-10-29,3.0,0.0,0.0,True,200.0,1
+monica.small14@hotmail.com,10cb9fdf-9fe9-4f12-9b16-01282e7610ac,,,,,,,583.81,2024-11-30,1.0,0.0,0.0,True,168.0,0
+bcollins@yahoo.com,bcf1fad1-a5b6-4fc9-8534-4af16bafb5af,Brian,Collins,Brian Collins,+19549901748,Charlotte,2024-07-04,441.71,2023-06-02,1.0,692.0,1.0,True,715.0,0
+beverly.hernandez87@gmail.com,d003d95e-1983-4467-87d2-08dfe857175f,,,,,,,319.4,2023-07-23,1.0,0.0,0.0,True,664.0,0

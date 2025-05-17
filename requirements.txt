@@ -1,0 +1,13 @@
+pandas
+numpy
+python-phonenumbers
+nameparser
+fuzzywuzzy
+python-Levenshtein
+scikit-learn
+streamlit
+plotly
+matplotlib
+seaborn
+ipywidgets
+notebook
