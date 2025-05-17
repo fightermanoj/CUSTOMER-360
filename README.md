@@ -125,6 +125,13 @@ streamlit run dashboard_streamlit.py
 ```
 The dashboard will typically open automatically in your default web browser (e.g., at `http://localhost:8501`).
 
+**Streamlit Visual Dashboard:**
+
+![Streamlit Dashboard Preview](./assets/img1.png)
+![Streamlit Dashboard Preview](./assets/img2.png)
+![Streamlit Dashboard Preview](./assets/img3.png)
+![Streamlit Dashboard Preview](./assets/img4.png)
+
 ### 3. Jupyter Notebook Dashboard
 
 This provides a notebook environment for more detailed exploratory analysis and static report generation.
