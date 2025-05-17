@@ -127,10 +127,10 @@ The dashboard will typically open automatically in your default web browser (e.g
 
 **Streamlit Visual Dashboard:**
 
-![Streamlit Dashboard Preview](./assets/img1.png)
-![Streamlit Dashboard Preview](./assets/img2.png)
-![Streamlit Dashboard Preview](./assets/img3.png)
-![Streamlit Dashboard Preview](./assets/img4.png)
+![Streamlit Dashboard Preview](./assests/img1.png)
+![Streamlit Dashboard Preview](./assests/img2.png)
+![Streamlit Dashboard Preview](./assests/img3.png)
+![Streamlit Dashboard Preview](./assests/img4.png)
 
 ### 3. Jupyter Notebook Dashboard
 
